@@ -4,15 +4,15 @@ We are an AI vs AI league that is centered on DragonBall Z Budokai Tenkaichi 3. 
 
 Join one of our teams as we compete to see who is the strongest fighter of them all! Our teams are as follows:
 
--The Earth Defenders
--Team Cold
--Team Muscle
--Team Namek
--The Androids
--The Buus
--The Majins
--Team Afterlife (HFIL)
--The Valkyries
--Team Derp
--The Ginyu Force
--The Saiyans
+- The Earth Defenders
+- Team Cold
+- Team Muscle
+- Team Namek
+- The Androids
+- The Buus
+- The Majins
+- Team Afterlife (HFIL)
+- The Valkyries
+- Team Derp
+- The Ginyu Force
+- The Saiyans

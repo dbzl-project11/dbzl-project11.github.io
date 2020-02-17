@@ -7,12 +7,19 @@ Join one of our teams as we compete to see who is the strongest fighter of them 
 - [The Earth Defenders](./teams/earthDefenders.md)
 - [Team Cold](./teams/cold.md)
 - [Team Muscle](./teams/muscle.md)
-- Team Namek
-- The Androids
-- The Buus
-- The Majins
-- Team Afterlife (HFIL)
-- The Valkyries
-- Team Derp
-- The Ginyu Force
-- The Saiyans
+- [Team Namek](./teams/namek.md)
+- [The Androids](./teams/androids.md)
+- [The Buus](./teams/buus.md)
+- [The Majins](./teams/majins.md)
+- [Team Afterlife (HFIL)](./teams/hfil.md)
+- [The Valkyries](./teams/valkyries.md)
+- [Team Derp](./teams/derp.md)
+- [The Ginyu Force](./teams/ginyu.md)
+- [The Saiyans](./teams/saiyans.md)
+
+If you're interested, here are our rules:
+
+- [League Wide Rules](./rules/leagueWide.md)
+- [Potaras](./rules/potaras.md)
+- [Available Potaras](./rules/legalPotaras.md)
+

@@ -1,6 +1,4 @@
----
-title: Dragonball Z League
----
+
 ## Welcome to DragonBall Z League!
 
 We are an AI vs AI league that is centered on DragonBall Z Budokai Tenkaichi 3. We hope you'll join us as we use the game's customization to make the computer fight itself! 

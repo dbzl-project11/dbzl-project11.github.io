@@ -4,9 +4,9 @@ We are an AI vs AI league that is centered on DragonBall Z Budokai Tenkaichi 3. 
 
 Join one of our teams as we compete to see who is the strongest fighter of them all! Our teams are as follows:
 
-- [The Earth Defenders](./teams/earthDefenders.html)
-- [Team Cold](./teams/cold.html)
-- [Team Muscle](./teams/muscle.html)
+- [The Earth Defenders](./teams/earthDefenders.md)
+- [Team Cold](./teams/cold.md)
+- [Team Muscle](./teams/muscle.md)
 - Team Namek
 - The Androids
 - The Buus

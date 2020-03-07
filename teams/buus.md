@@ -16,7 +16,7 @@
 - Gohan / Gotenks Buu
   - N/A
   
- ##### Master List
+##### Master List
 -  Uub -or- Majuub
  - Gohan Buu -or- Gotenks Buu -or- Super Buu
  - Majin Buu

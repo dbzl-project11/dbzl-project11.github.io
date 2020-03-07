@@ -3,7 +3,7 @@
   - Banned from Eternal Life if Frieza can gain health from transforming, and is in their lineup.
   - Banned from Eternal Life if Cooler can gain health from transforming, and is in their lineup.
 
-Specific player restrictions:
+##### Specific player restrictions:
 
 - Metacooler
   - N/A

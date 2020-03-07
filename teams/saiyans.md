@@ -2,7 +2,7 @@
 ##### Team restrictions:
   - Banned from using a night map for their home stadium. 
 
-Specific player restrictions:
+##### Specific player restrictions:
 
 - King Vegeta
   - Must start in base form 

@@ -2,7 +2,7 @@
 ##### Team restrictions:
   - Banned from Broly’s Ring on their base roster.
 
-Specific player restrictions:
+##### Specific player restrictions:
 
 - Master Roshi
   - Must start in base form. 

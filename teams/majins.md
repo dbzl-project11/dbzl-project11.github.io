@@ -3,7 +3,7 @@
 ##### Team restrictions:
   - N/A 
 
-Specific player restrictions:
+##### Specific player restrictions:
 
 - Spopovich
   - N/A 

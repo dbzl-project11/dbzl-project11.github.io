@@ -17,7 +17,7 @@
   - Must start in either SSJ1 form, or Base form.
   - Banned from Master Blast, and Rush Blast (2)
 
- ##### Master List
+##### Master List
   - Early Goku
   - Early Piccolo
   - Scouter Vegeta

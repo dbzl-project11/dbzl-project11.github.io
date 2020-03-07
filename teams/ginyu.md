@@ -15,3 +15,11 @@
   - N/A 
 - Guldo
   - N/A 
+  
+##### Master List
+- Jeice
+- Recoome
+- Burter
+- Captain Ginyu
+- Guldo
+  

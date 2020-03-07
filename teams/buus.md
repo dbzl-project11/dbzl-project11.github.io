@@ -15,3 +15,10 @@
   - N/A
 - Gohan / Gotenks Buu
   - N/A
+  
+ ##### Master List
+-  Uub -or- Majuub
+ - Gohan Buu -or- Gotenks Buu -or- Super Buu
+ - Majin Buu
+ - Kid Buu
+ - Evil Buu

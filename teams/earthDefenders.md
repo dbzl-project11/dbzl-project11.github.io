@@ -16,3 +16,23 @@
 - Mid Vegeta
   - Must start in base form or SSJ1
   - Banned from Master Blast, and Rush Blast (2)
+  
+##### Master List
+- Early Goku
+- Mid Goku
+- End Goku
+- Early Piccolo
+- Late Piccolo
+- Kid Gohan
+- Teen Gohan
+- Future Gohan
+- Sword Trunks
+- Super Trunks
+- Chiaotzu
+- Yamcha
+- Krillin
+- Tien
+- Yajirobe
+- Super Vegeta
+- Hercule 
+- Android 16 

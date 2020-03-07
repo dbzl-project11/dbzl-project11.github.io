@@ -17,3 +17,17 @@
   - N/A
 - Dr. Gero
   - Banned from Recoome AI.
+  
+ ##### Master List
+  - Dr. Gero
+  - Android 19
+  - Android 18
+  - Android 17
+  - Android 16
+  - Android 13
+  - Arale
+  - Cell
+  - Cell Jr.
+  - Meta-Cooler
+  - Android 8
+  - Cyborg Tao

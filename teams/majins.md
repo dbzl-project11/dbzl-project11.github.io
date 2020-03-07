@@ -15,3 +15,14 @@
   - Banned from using Recoome AI.
 - Majuub
   - N/A 
+  
+##### Master List
+- Babidi
+- Spopovich
+- Dabura
+- Majuub
+- Majin Vegeta
+- Majin Buu
+- Super Buu
+- Kid Buu
+- Evil Buu

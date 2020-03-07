@@ -15,3 +15,12 @@
   - Must start in Base form.
 - Videl
   - N/A
+  
+##### Master List
+- Fasha
+- Android 18
+- Chi-Chi
+- Arale
+- Pan
+- Zangya
+- Videl

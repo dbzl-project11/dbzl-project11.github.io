@@ -17,3 +17,41 @@
   - Must start in either SSJ1 form, or Base form.
   - Banned from Master Blast, and Rush Blast (2)
 
+ ##### Master List
+  - Early Goku
+  - Early Piccolo
+  - Scouter Vegeta
+  - Krillin
+  - Yamcha
+  - End Vegeta
+  - Grandpa Gohan
+  - Tien
+  - Chiaotzu
+  - End Goku
+  - End Vegeta
+  - Videl
+  - Nappa
+  - Frieza
+  - Appule
+  - Frieza Soldier
+  - Cui
+  - King Cold
+  - Cell
+  - Dr. Gero
+  - Android 19
+  - Android 17
+  - Babidi
+  - Dabura
+  - Bojack
+  - Zangya
+  - Pikkon
+  - General Blue
+  - Zarbon
+  - Dodoria
+  - Cooler
+  - Recoome
+  - Jeice
+  - Burter
+  - Guldo
+  - Saibaman
+  - End Piccolo

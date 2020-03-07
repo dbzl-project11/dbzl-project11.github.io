@@ -15,3 +15,12 @@
   - Must start in base form 
 - Bardock
   - Must start in base form 
+
+##### Master List
+- Raditz
+- Nappa
+- Scouter Vegeta
+- Turles
+- King Vegeta
+- Bardock
+- Fasha

@@ -15,3 +15,18 @@
   - N/A 
 - Dodoria
   - N/A 
+
+##### Master List
+- Salza
+- Mecha Frieza
+- Android 19
+- Supreme Kai
+- Dodoria
+- Cui
+- King Cold
+- Appule
+- Frieza's Soldier
+- Pilaf
+- Devilman
+- Yajirobe
+- Hercule

@@ -15,3 +15,10 @@
   - N/A
 - King Cold
   - N/A
+  
+##### Master List
+- King Cold
+- Frieza
+- Mecha Frieza
+- Cooler
+- Meta-Cooler

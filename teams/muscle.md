@@ -15,3 +15,15 @@
   - Banned from High Tension
 - SSJ Trunks
   - Must start in base form, or SSJ1 form. 
+  
+##### Master List
+- Roshi
+- Garlic Jr
+- Android 13
+- Broly
+- Bojack
+- Frieza (Final Form)
+- Super Trunks
+- Nappa
+- Recoome
+- Spopovich

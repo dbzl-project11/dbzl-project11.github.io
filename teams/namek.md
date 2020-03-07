@@ -15,3 +15,11 @@
   - N/A 
 - Tambourine
   - N/A 
+  
+##### Master List
+- Tambourine
+- Slug
+- King Piccolo
+- Early Piccolo
+- Late Piccolo
+- Nail

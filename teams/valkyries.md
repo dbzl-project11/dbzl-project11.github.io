@@ -1,20 +1,17 @@
 
 ## Valkyries
-    Team restrictions:
-        N/A
-    Specific player restrictions:
+##### Team restrictions:
+  - N/A
 
-    Arale
-       N/A
-    
-    Pan
-        N/A 
+Specific player restrictions:
 
-    Android 18
-        N/A 
-
-    Fasha
-        N/A 
-
-    Videl
-        Must start in Base form.
+- Arale
+  - N/A
+- Pan
+  - N/A 
+- Android 18
+  - N/A 
+- Fasha
+  - Must start in Base form.
+- Videl
+  - N/A

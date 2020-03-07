@@ -1,22 +1,17 @@
 ## Ginyu Force
 
-    Team restrictions:
+##### Team restrictions:
+  - N/A 
 
-        N/A 
+Specific player restrictions:
 
-    Specific player restrictions:
-
-    Jeice
-        N/A 
-
-    Recoome
-        N/A 
-
-    Burter
-        N/A 
-
-    Captain Ginyu
-        N/A 
-
-    Guldo
-        N/A 
+- Jeice
+  - N/A 
+- Recoome
+  - N/A 
+- Burter
+  - N/A 
+- Captain Ginyu
+  - N/A 
+- Guldo
+  - N/A 

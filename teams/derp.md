@@ -1,5 +1,8 @@
 ## Derp
 
+##### Theme Description
+- Any fighter who were supposed to be powerful but were made to look so weak it was stupid.
+
 ##### Team restrictions:
   - N/A
 

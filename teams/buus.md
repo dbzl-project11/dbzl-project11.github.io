@@ -1,5 +1,8 @@
 ## Buus
 
+##### Theme Description
+- Any iteration of "Majin Buu"
+
 ##### Team restrictions:
   -  N/A
 

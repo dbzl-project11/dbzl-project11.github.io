@@ -1,5 +1,8 @@
 ## Androids
 
+##### Theme Description
+- Any robot, cyborg, or android like character
+
 ##### Team restrictions:
   -  Banned from Eternal Life if Cell can gain health from his grab, and is in their lineup.
   -  Banned from Eternal Life if Cell can gain health from his transformation, and is in their lineup.

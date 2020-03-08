@@ -1,5 +1,8 @@
 ## Ginyu Force
 
+##### Theme Description
+- Any member of "The Ginyu Force"
+
 ##### Team restrictions:
   - N/A 
 

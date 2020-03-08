@@ -1,5 +1,8 @@
 ## Majins
 
+##### Theme Description
+- The various minions of the sorcerer Babidi! (Babidi must be on the team)
+
 ##### Team restrictions:
   - N/A 
 

@@ -1,4 +1,8 @@
 ## Cold
+
+##### Theme Description
+- Any member of the "Cold" family
+
 ##### Team restrictions:
   - Banned from Eternal Life if Frieza can gain health from transforming, and is in their lineup.
   - Banned from Eternal Life if Cooler can gain health from transforming, and is in their lineup.

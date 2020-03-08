@@ -1,5 +1,8 @@
 ## Namek
 
+##### Theme Description
+- Any fighter that is a Namekian
+
 ##### Team restrictions:
   - N/A 
 

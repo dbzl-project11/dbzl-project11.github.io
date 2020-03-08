@@ -1,4 +1,8 @@
 ## Saiyans
+
+##### Theme Description
+- The classic Saiyans of the league. Must be able to transform into a giant ape.
+
 ##### Team restrictions:
   - Banned from using a night map for their home stadium. 
 

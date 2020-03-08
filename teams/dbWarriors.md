@@ -1,5 +1,10 @@
+## DB Warriors
+
+##### Theme Description 
+- Any fighter that appeared in the original DragonBall (pre-Z)_series.
 ##### Team Restrictions
 
+##### Specific Player Restrictions
 
 ##### Master List
 - Nam

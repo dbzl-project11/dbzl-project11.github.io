@@ -1,5 +1,8 @@
-
 ## Valkyries
+
+##### Theme Description
+- Any female member of the league.
+
 ##### Team restrictions:
   - N/A
 

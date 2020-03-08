@@ -18,6 +18,13 @@ Join one of our teams as we compete to see who is the strongest fighter of them 
 - [The Ginyu Force](./teams/ginyu.md)
 - [The Saiyans](./teams/saiyans.md)
 
+We also have a few teams currently inactive. 
+
+- [The Blades](./teams/blades.md)
+- [DragonBall Warriors](./teams/dbWarriors.md)
+- [The Gohans](./teams/gohans.md)
+- [Rugrats](./teams/rugrats.md)
+
 If you're interested, here are our rules:
 
 - [League Wide Rules](./rules/leagueWide.md)

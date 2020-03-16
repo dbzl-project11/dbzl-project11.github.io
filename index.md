@@ -31,3 +31,7 @@ If you're interested, here are our rules:
 - [Potaras](./rules/potaras.md)
 - [Available Potaras](./rules/legalPotaras.md)
 
+Here is some useful info you may want:
+
+- [Boost store](./usefulInfo/boost.md)
+- [Notes on charging](./usefulInfo.charging.md)

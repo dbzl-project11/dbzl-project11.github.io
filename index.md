@@ -34,4 +34,4 @@ If you're interested, here are our rules:
 Here is some useful info you may want:
 
 - [Boost store](./usefulInfo/boost.md)
-- [Notes on charging](./usefulInfo.charging.md)
+- [Notes on charging](./usefulInfo/charging.md)

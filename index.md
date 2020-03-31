@@ -30,6 +30,7 @@ If you're interested, here are our rules:
 - [League Wide Rules](./rules/leagueWide.md)
 - [Potaras](./rules/potaras.md)
 - [Available Potaras](./rules/legalPotaras.md)
+- [AI Potaras](./rules/AI.md)
 
 Here is some useful info you may want:
 

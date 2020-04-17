@@ -1,4 +1,4 @@
-## Androids
+## Androids 
 
 ##### Theme Description
 - Any robot, cyborg, or android like character
@@ -12,7 +12,7 @@
 - Cell
   -  Banned from using Recoome AI if he can gain health from his grabs.
   -  Banned from using Master Throw if he can gain health from his grabs.
-- Android 8
+- Super 17
   - N/A
 - Android 16
   - N/A
@@ -34,3 +34,4 @@
   - Meta-Cooler
   - Android 8
   - Cyborg Tao
+  - Super 17

@@ -14,7 +14,7 @@
   - N/A
 - Yajirobe
   - N/A 
-- Cyborg Tao
+- General Tao
   - N/A
 - Sword Trunks
   - N/A 

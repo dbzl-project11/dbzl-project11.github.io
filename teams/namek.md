@@ -1,24 +1,19 @@
 ## Namek
 
 ##### Theme Description
-- Any fighter that is a Namekian
+- Any fighter that is a Namekian or one of their creations.
 
 ##### Team restrictions:
   - N/A 
 
-##### Specific player restrictions:
+##### Specific player restrictions and player specific restrictions:
 
 - King Piccolo
-  - N/A 
 - Early Piccolo
-  - N/A 
 - Late Piccolo
-  - N/A 
 - Nail
-  - N/A 
 - Tambourine
-  - N/A 
-  
+
 ##### Master List
 - Tambourine
 - Slug
@@ -26,3 +21,6 @@
 - Early Piccolo
 - Late Piccolo
 - Nail
+- Syn Shenron
+   - Not allowed to transform into Omega Shenron.
+- Nuova Shenron

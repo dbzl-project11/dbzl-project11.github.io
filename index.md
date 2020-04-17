@@ -3,27 +3,38 @@
 
 We are an AI vs AI league that is centered on DragonBall Z Budokai Tenkaichi 3. We hope you'll join us as we use the game's customization to make the computer fight itself! 
 
-Join one of our teams as we compete to see who is the strongest fighter of them all! Our teams are as follows:
+Join one of our teams as we compete to see who is the strongest fighter of them all! 
 
+We are currently in the process of updating our league's teams and are reviewing having the following teams going forward. Please note this is still a work in progress and may be changed.
+
+- [The Androids](./teams/androids.md)
+- [The Blades](./teams/blades.md)
+- [Budokai](./teams/budokai.md)
+- [Cinema](./teams/cinema.md)
+- [The Cold Kingdom](./teams/coldKingdom.md)
+- [Team Derp](./teams/derp.md)
 - [The Earth Defenders](./teams/earthDefenders.md)
-- [Team Cold](./teams/cold.md)
+- [Hybrid](./teams/hybrid.md)
+- [Kaiju](./teams/kaiju.md)
+- [Maj 'N' Buus](./teams/majnbuus.md)
 - [Team Muscle](./teams/muscle.md)
 - [Team Namek](./teams/namek.md)
-- [The Androids](./teams/androids.md)
-- [The Buus](./teams/buus.md)
-- [The Majins](./teams/majins.md)
-- [Team Afterlife (HFIL)](./teams/hfil.md)
-- [The Valkyries](./teams/valkyries.md)
-- [Team Derp](./teams/derp.md)
-- [The Ginyu Force](./teams/ginyu.md)
-- [The Saiyans](./teams/saiyans.md)
-
-We also have a few teams currently inactive. 
-
-- [The Blades](./teams/blades.md)
-- [DragonBall Warriors](./teams/dbWarriors.md)
-- [The Gohans](./teams/gohans.md)
 - [Rugrats](./teams/rugrats.md)
+- [Royals](./teams/royals.md)
+- [Resurrected Warriors](./teams/reswar.md)
+- [Sentai Squad](./teams/sentai.md)
+
+For posterity, these are the teams that were active in past years, but are being considered for retirement. 
+
+- [The Ginyu Force](teams/old/ginyu.md)
+- [The Saiyans](teams/old/saiyans.md)
+- [The Buus](teams/old/buus.md)
+- [The Majins](teams/old/majins.md)
+- [Team Afterlife (HFIL)](teams/old/hfil.md)
+- [The Valkyries](teams/old/valkyries.md)
+- [The Gohans](teams/old/gohans.md)
+- [The Cold Family](teams/old/cold.md)
+- [DragonBall Warriors](teams/old/dbWarriors.md)
 
 If you're interested, here are our rules:
 

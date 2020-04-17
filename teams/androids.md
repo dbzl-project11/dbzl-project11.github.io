@@ -21,7 +21,7 @@
 - Dr. Gero
   - Banned from Recoome AI.
   
- ##### Master List
+##### Master List
   - Dr. Gero
   - Android 19
   - Android 18

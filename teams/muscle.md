@@ -16,7 +16,7 @@
   - Must start in base form. 
 - Android 13
   - Must start in Base form
-  - Banned from High Tension
+  - Banned from High Tension and Eternal Life
 - SSJ Trunks
   - Must start in base form, or SSJ1 form. 
   

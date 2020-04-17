@@ -8,7 +8,7 @@
 ##### Current Roster and Specific player restrictions:
 
 - Slug
- - Must start in base form.
+    - Must start in base form.
 - Dabura
 - Mecha-Frieza
 - SSJ4 Vegeta
@@ -16,21 +16,21 @@
 
 ##### Master List
 - Slug
- - Must start in base form.
+    - Must start in base form.
 - Dabura
 - Mecha-Frieza
 - SSJ4 Vegeta
 - Pilaf
- - Must start in base form.
+    - Must start in base form.
 - King Vegeta
- - Must start in base form.
+    - Must start in base form.
 - Cold
 - Frieza
 - Cooler
 - Meta-Cooler
 - Majin Vegeta
 - Scouter Vegeta
- - Must start in base form.
+    - Must start in base form.
 - Mid Vegeta
 - End Vegeta
 - King Piccolo

@@ -6,7 +6,7 @@
 ##### Team restrictions:
   - N/A
 
-##### Specific player restrictions:
+##### Current Roster and specific player restrictions
 
 - Krillin
 - Mid Goku

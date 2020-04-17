@@ -3,7 +3,7 @@
 ### Theme Description
 Any character who legitimately participated on screen in the World Martial Arts Tournament (Budokai Tenkaichi). Illicit entries and the junior division does not count.
 
-### Current Roster
+##### Current Roster and specific player restrictions:
 - Spopovich
 - Kid Goku
 - Nam

@@ -5,7 +5,7 @@
 
 ##### Team restrictions
 
-##### Current Roster and Specific player restrictions:
+##### Current Roster and specific player restrictions
 
 - Slug
     - Must start in base form.

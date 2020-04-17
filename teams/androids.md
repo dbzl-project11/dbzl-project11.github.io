@@ -7,7 +7,7 @@
   -  Banned from Eternal Life if Cell can gain health from his grab, and is in their lineup.
   -  Banned from Eternal Life if Cell can gain health from his transformation, and is in their lineup.
 
-##### Specific player restrictions:
+##### Current Roster and specific player restrictions
 
 - Cell
   -  Banned from using Recoome AI if he can gain health from his grabs.

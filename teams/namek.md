@@ -6,7 +6,7 @@
 ##### Team restrictions:
   - N/A 
 
-##### Specific player restrictions and player specific restrictions:
+##### Current Roster and specific player restrictions
 
 - King Piccolo
 - Early Piccolo

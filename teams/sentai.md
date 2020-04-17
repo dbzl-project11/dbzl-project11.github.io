@@ -6,7 +6,7 @@
 ##### Team restrictions:
   - N/A 
 
-##### Current roster and specific player restrictions:
+##### Current Roster and specific player restrictions
 
 - Jeice
 - Recoome

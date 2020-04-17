@@ -1,13 +1,13 @@
 ## Cold Kingdom (proposed)
 
 ##### Theme Description
-- Any member of the "Cold" family
+- Any member of the Cold family or those they ruled over. Saiyans are not included. 
 
 ##### Team restrictions:
   - Banned from Eternal Life if Frieza can gain health from transforming, and is in their lineup.
   - Banned from Eternal Life if Cooler can gain health from transforming, and is in their lineup.
 
-##### Specific player restrictions:
+##### Current Roster and specific player restrictions:
 
 - Metacooler
 - Frieza
@@ -32,3 +32,4 @@
 - Appule
 - Cui
 - Frieza Soldier
+- Salza

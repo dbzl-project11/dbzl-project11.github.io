@@ -6,7 +6,7 @@
 ##### Team restrictions:
   - If they have Super Buu, he must start in base form.
 
-##### Specific player restrictions:
+##### Current Roster and specific player restrictions
 
 - Majin Buu
 - Majin Vegeta

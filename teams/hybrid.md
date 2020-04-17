@@ -7,6 +7,7 @@
 - N/A
 
 ##### Current Roster and player specific restrictions
+
 - Kid Gohan
 - Future Gohan
 - Ultimate Gohan

@@ -6,18 +6,14 @@
 ##### Team Specific Restrictions
 - N/A
 
-##### Player Specific Restrictions
+##### Current Roster and specific player restrictions:
 
 - Janemba
   - Cannot start in Giant form.
 - Tapion
-  - N/A
 - Yajirobe
-  - N/A 
 - General Tao
-  - N/A
 - Sword Trunks
-  - N/A 
      
 ##### Master List
 - Tapion

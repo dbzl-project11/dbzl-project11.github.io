@@ -8,8 +8,8 @@
 
 ##### Current Roster and specific player restrictions:
 
-- Pilaf
-- Cui
+- Hercule
+- Salza
 - Supreme Kai
   - Banned from Eternal Life if he can gain health from transforming. 
 - Devilman

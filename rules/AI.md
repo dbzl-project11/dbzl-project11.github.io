@@ -1,4 +1,4 @@
-A.I. Portaras are the brain of your player. It tells the player how to fight and what moves to use more often. Keep in mind that A.I. portara work differently for different characters and the only real way to see how it will affect your character is to test it. Here is a list of each portara:
+A.I. Potaras are the brain of your player. It tells the player how to fight and what moves to use more often. Keep in mind that A.I. portara work differently for different characters and the only real way to see how it will affect your character is to test it. Here is a list of each portara:
 
 **Trunks:** Emphasizes Attack. Emphasizes Rush Attack and other high-speed attacks.
 

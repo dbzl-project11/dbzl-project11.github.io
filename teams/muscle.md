@@ -17,7 +17,7 @@
 - Android 13
   - Must start in Base form
   - Banned from High Tension and Eternal Life
-- SSJ Trunks
+- Adult Trunks
   - Must start in base form, or SSJ1 form. 
   
 ##### Master List
@@ -27,7 +27,7 @@
 - Broly
 - Bojack
 - Frieza (Final Form)
-- Super Trunks
+- Adult Trunks
 - Nappa
 - Recoome
 - Spopovich

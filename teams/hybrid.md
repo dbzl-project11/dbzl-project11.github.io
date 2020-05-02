@@ -20,7 +20,7 @@
 - Kid Gohan
 - Teen Gohan
 - Future Gohan
-- Saiyaman -or- Adult Gohan
+- Saiyaman
 - Goten
 - Kid Trunks
 - Sword Trunks

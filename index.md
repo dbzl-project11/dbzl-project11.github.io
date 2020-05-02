@@ -16,7 +16,7 @@ We are currently in the process of updating our league's teams and are reviewing
 - [GT Warriors](./teams/gtWarrriors.md)
 - [Hybrid](./teams/hybrid.md)
 - [Kaiju](./teams/kaiju.md)
-- [Maj 'N' Buus](teams/buujins.md)
+- [Buujins](teams/buujins.md)
 - [Team Muscle](./teams/muscle.md)
 - [Team Namek](./teams/namek.md)
 - [Rugrats](./teams/rugrats.md)

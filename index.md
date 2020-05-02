@@ -8,15 +8,15 @@ Join one of our teams as we compete to see who is the strongest fighter of them 
 We are currently in the process of updating our league's teams and are reviewing having the following teams going forward. Please note this is still a work in progress and may be changed.
 
 - [The Androids](./teams/androids.md)
-- [The Blades](./teams/blades.md)
 - [Budokai](./teams/budokai.md)
 - [Cinema](./teams/cinema.md)
 - [The Cold Kingdom](./teams/coldKingdom.md)
 - [Team Derp](./teams/derp.md)
 - [The Earth Defenders](./teams/earthDefenders.md)
+- [GT Warriors](./teams/gtWarrriors.md)
 - [Hybrid](./teams/hybrid.md)
 - [Kaiju](./teams/kaiju.md)
-- [Maj 'N' Buus](./teams/majnbuus.md)
+- [Maj 'N' Buus](teams/buujins.md)
 - [Team Muscle](./teams/muscle.md)
 - [Team Namek](./teams/namek.md)
 - [Rugrats](./teams/rugrats.md)
@@ -35,6 +35,7 @@ For posterity, these are the teams that were active in past years, but are being
 - [The Gohans](teams/old/gohans.md)
 - [The Cold Family](teams/old/cold.md)
 - [DragonBall Warriors](teams/old/dbWarriors.md)
+- [The Blades](teams/old/blades.md)
 
 If you're interested, here are our rules:
 
@@ -42,6 +43,7 @@ If you're interested, here are our rules:
 - [Potaras](./rules/potaras.md)
 - [Available Potaras](./rules/legalPotaras.md)
 - [AI Potaras](./rules/AI.md)
+- [Testing](./rules/testing.md)
 
 Here is some useful info you may want:
 

@@ -1,4 +1,4 @@
-## Rugrats (proposed)
+## Rugrats
 
 ##### Theme Description
 - Any character under the age of 12 or who has a child-like body or stature.
@@ -9,8 +9,7 @@
 
 ##### Current Roster and specific player restrictions
 
-- GT Goku
-  - Can't start in SSJ4 form
+- Arale
 - Kid Trunks
 - Goten
 - Cell Jr
@@ -27,7 +26,4 @@
 - Kid Gohan
 - Arale
 - Pan
-- Krillin
-- Chiaotzu
-- Garlic Jr
 - Teen Gohan

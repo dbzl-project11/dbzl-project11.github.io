@@ -1,4 +1,4 @@
-## Maj 'N' Buus (proposed)
+## Buujins
 
 ##### Theme Description
 - The various minions of the sorcerer Babidi and iterations of Majin Buu.

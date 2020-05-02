@@ -8,11 +8,11 @@
 
 ##### Current Roster and specific player restrictions:
 
-- Arale
-- Fasha
+- Janemba
+- Tapion
 - Gogeta
 - Zangya
-- Garlic
+- Fasha
   
 ##### Master List
 - Arale

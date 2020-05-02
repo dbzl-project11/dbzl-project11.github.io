@@ -8,9 +8,9 @@
 
 ##### Current Roster and player specific restrictions
 
-- Kid Gohan
+- Sword Trunks
 - Future Gohan
-- Ultimate Gohan
+- Kid Gohan
 - Adult Gohan
   - Cannot start in SSJ2 form.
   - If starting in SSJ form, cannot have Savior.
@@ -23,7 +23,6 @@
 - Teen Gohan
 - Future Gohan
 - Saiyaman -or- Adult Gohan
-- Ultimate Gohan
 - Goten
 - Kid Trunks
 - Sword Trunks

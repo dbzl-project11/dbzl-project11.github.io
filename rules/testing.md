@@ -5,7 +5,7 @@
 1. Testing is currently an off-season only activity. 
 
 2. All testing will be in the following formats
-    - 1v1: up to 3 best of 3 matches - or - A single match consisting of 5 rounds.
+    - 1v1: up to 3 best of 3 matches - or - A single best of 9 rounds.
     - 2v2: A singular best of 3 match - or - Two single elimination matches.
     - 4v4: A singular single elimination match.
 

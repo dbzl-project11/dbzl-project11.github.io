@@ -9,7 +9,7 @@
 ##### Current Roster and specific player restrictions:
 
 - Janemba
-- Tapion
+- Garlic Jr
 - Gogeta
 - Zangya
 - Fasha

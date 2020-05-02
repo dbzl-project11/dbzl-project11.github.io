@@ -9,8 +9,7 @@
 ##### Current Roster and specific player restrictions
 
 - Majin Buu
-- Majin Vegeta
-  - Banned from Master Blast, and Rush Blast (2)
+- Babidi
 - Evil Buu
 - Kid Buu
 - Majuub

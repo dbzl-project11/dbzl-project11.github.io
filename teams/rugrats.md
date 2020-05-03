@@ -12,6 +12,7 @@
 - Arale
 - Kid Trunks
 - Goten
+    - May not have Savior if he starts in SSJ1 form.
 - Cell Jr
 - Saibaman
   
@@ -19,6 +20,7 @@
 - GT Goku
 - Chi-Chi
 - Goten
+    - May not have Savior if he starts in SSJ1 form.
 - Kid Trunks
 - Cell Jr
 - Saibaman

@@ -21,6 +21,7 @@
 - Early Goku
 - Mid Goku
 - End Goku
+    - may not have savior if he starts in Base form
 - Early Piccolo
 - Late Piccolo
 - Kid Gohan

@@ -8,6 +8,7 @@ Any character who legitimately participated on screen in the World Martial Arts 
 - Kid Goku
 - Nam
 - End Goku
+    - May not have Savior if he starts in Base form
 - Cyborg Tao
 
 ### Master List

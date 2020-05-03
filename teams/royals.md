@@ -11,7 +11,8 @@
     - Must start in base form.
 - Dabura
 - Mecha-Frieza
-- SSJ4 Vegeta
+- Majin Vegeta
+  - Banned from Master Blast, and Rush Blast (2)
 - Pilaf
 
 ##### Master List
@@ -29,6 +30,7 @@
 - Cooler
 - Meta-Cooler
 - Majin Vegeta
+  - Banned from Master Blast, and Rush Blast (2)
 - Scouter Vegeta
     - Must start in base form.
 - Mid Vegeta

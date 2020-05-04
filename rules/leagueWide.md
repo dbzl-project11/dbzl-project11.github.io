@@ -16,3 +16,7 @@ Characters with these moves include:
     - End Goku (base)
     - Goten (SSJ1)
     - Adult Gohan (SSJ1)
+
+- Adult Gohan and Saiyaman have been modded to not be able to transform into each other.
+
+- Videl and Saiyawoman will be modded in the same way once it's known how to do the mods. In the meantime both must have a free broly's ring to prevent transformations.

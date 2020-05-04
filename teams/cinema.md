@@ -1,4 +1,4 @@
-## Cinema (proposed)
+## Cinema
 
 ##### Theme Description
 - Any character that first appeared in a movie or OVA before appearing in the official DB manga or anime (if they appeared there at all).

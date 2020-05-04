@@ -1,4 +1,4 @@
-## Resurrected Warriors (proposed)
+## Resurrected Warriors
 
 ##### Theme Description
 - Any character who was actually resurrected via use of the DragonBalls. or Whis' time rewind ability.

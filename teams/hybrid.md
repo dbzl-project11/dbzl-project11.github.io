@@ -1,4 +1,4 @@
-## Hybrid (proposed)
+## Hybrid
 
 ##### Theme Description
 - Any character who is a Saiyan/Human hybrid. 

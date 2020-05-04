@@ -34,6 +34,6 @@
 - Krillin
 - Tien
 - Yajirobe
-- Super Vegeta
+- Mid Vegeta
 - Hercule 
 - Android 16 

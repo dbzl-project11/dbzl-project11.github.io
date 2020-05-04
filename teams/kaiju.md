@@ -1,4 +1,4 @@
-## Kaiju (proposed)
+## Kaiju
  
 ##### Theme Description
 - Everyone on the team has a giant form in the game.

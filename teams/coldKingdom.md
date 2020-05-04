@@ -1,4 +1,4 @@
-## Cold Kingdom (proposed)
+## Cold Kingdom
 
 ##### Theme Description
 - Any member of the Cold family or those they ruled over. Saiyans are not included. 

@@ -24,5 +24,5 @@
 - Goten
 - Kid Trunks
 - Sword Trunks
-- Ultimate Trunks
+- Ultimate Gohan
 - Pan

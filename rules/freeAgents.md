@@ -29,3 +29,4 @@ Other available FAs (as of the time this was posted) include the following:
 - Android 19
 - Super Buu -or- Gotenks Buu -or- Gohan Buu
 - Nappa
+- Appule

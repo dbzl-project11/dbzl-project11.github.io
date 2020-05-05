@@ -13,7 +13,7 @@ We are currently in the process of updating our league's teams and are reviewing
 - [The Cold Kingdom](./teams/coldKingdom.md)
 - [Team Derp](./teams/derp.md)
 - [The Earth Defenders](./teams/earthDefenders.md)
-- [GT Warriors](./teams/gtWarrriors.md)
+- [Team GT](./teams/gtWarrriors.md)
 - [Hybrid](./teams/hybrid.md)
 - [Kaiju](./teams/kaiju.md)
 - [Buujins](teams/buujins.md)
@@ -44,8 +44,12 @@ If you're interested, here are our rules:
 - [Available Potaras](./rules/legalPotaras.md)
 - [AI Potaras](./rules/AI.md)
 - [Testing](./rules/testing.md)
+- [Free Agents](./rules/freeAgents.md)
+- [Modding](./rules/mods.md)
+- [Trades](./rules/trading.md)
 
 Here is some useful info you may want:
 
 - [Boost store](./usefulInfo/boost.md)
 - [Notes on charging](./usefulInfo/charging.md)
+- [Player Calculator](./usefulInfo/playerCalc.md)

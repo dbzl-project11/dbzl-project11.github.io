@@ -27,5 +27,4 @@
 - Frieza's Soldier
 - Pilaf
 - Devilman
-- Yajirobe
 - Hercule

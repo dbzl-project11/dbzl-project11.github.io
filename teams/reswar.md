@@ -10,6 +10,7 @@
 
 - Android 18
 - Videl
+    - Must have free Broly's Ring.
 - Chiaotzu
 - Eighter
 - End Vegeta

@@ -1,14 +1,23 @@
-##Boost Store
+## Boost Store
 
-Each season, teams earn zeni based on their win loss record of the previous season. Additionally, teams earn 1 zenni per win or 2 zenni per loss during the main season.
+Each season, teams earn zeni based on their win loss record of the previous season. Additionally, teams earn 1 zenni per 
+win or 2 zenni per loss during the main season.
 
 This zenni can be used to purchase a number of different bonuses for your team during main season matches.
 
-- Free Potaras
+#### Free Potaras
 
-So, the first thing we have been playing around with are free potaras! These would be limited to one per player per match and wouldn't count towards your 7 points for that character. These are all one-time use, and the same one cannot be used on the same character two weeks in a row. For instance, if Jeice has Super +3 (Super +2 Ki-1, and Super +1) one week, he cannot have a free Super +1 the next. This rule is in place to prevent teams from using the same boost multiple times in a row. Because facing Mecha Frieza with Super +3 Ki -1 every week for 4 weeks would be pretty rediculous.
+These are limited to one per player per match and wouldn't count towards your 7 points for that character. These are all 
+one-time use, and the same one cannot be used on the same character two weeks in a row. For instance, if Jeice has 
+Super +3 (Super +2 Ki-1, and Super +1) one week, he cannot have a free Super +1 the next. This rule is in place to prevent 
+teams from using the same boost multiple times in a row. 
 
-Please remember that this does take up one of your 7 customization slots, and Potora rules for characters are still in effect. The store does not allow you to put potaras on characters that are not allowed to use them. However, these free potaras will bypass potara limits. For instance, if you have Dragon Power on Krillin and Yamcha, you may use the Dragon Power boost on Chiaotzu and Goku so that everyone has Dragon Power that week. I also should note, that purchasing lower versions of a potara doesn not cause them to stack. For instance, Power of Rage + Unleashed Ki =/= Dragon Power. The game always prioritizes the highest boost.
+Please remember that this does take up one of your 7 customization slots, and potara rules for characters are still in effect. 
+The store does not allow you to put potaras on characters that are not allowed to use them. However, these free potaras will 
+bypass potara limits. For instance, if you have Dragon Power on Krillin and Yamcha, you may use the Dragon Power boost on 
+Chiaotzu and Goku so that everyone has Dragon Power that week. Note that purchasing lower versions of a potara doesn not 
+cause them to stack. For instance, Power of Rage + Unleashed Ki =/= Dragon Power. The game always prioritizes the higher 
+boost.
 	
 
 - 1 zenni
@@ -36,7 +45,7 @@ Please remember that this does take up one of your 7 customization slots, and Po
 - 10 zenni 
     - Style of the Strong
     
-Other boosts
+#### Other boosts
 
 - Immediately "rotate" your free agent regardless of what week it is - 2 Zenni
     - This boost would also enable you to trade out someone who was already rotated out as if it was a week where you could do so normally. For example, if you are the Earth's Defenders, and you have Mid Vegeta (Your free agent), Goku, Tien, Krillin, and Yamcha in as fighters and Chiaotzu swapped out. You may choose to use this boost to swap Krillin out and Chiaotzu in as fighters.

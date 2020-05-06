@@ -17,6 +17,7 @@ The sole remaining healing B1 to this is Garlic Jr's Makyo Star, as it heals les
     - Self-harm now only drains ki, not health.
 - Pikkon
     - ultimate size reduced
+    - Hyper Tornado damage reduced (exact numbers provided at a later date)
 - Cell
     - Perfect Form's Barrage Death Beam damage reduced from 6600 base damage to 6000 damage.
 - Frieza
@@ -64,7 +65,7 @@ The sole remaining healing B1 to this is Garlic Jr's Makyo Star, as it heals les
 
 - Yajirobe
     - Senzu bean has been remove.
-    - rock throws (his version of ki blasts) have been replaced with melee.
+    - rock throws have been replaced with ki blasts.
 - Frieza Soldier
     - Sleep removed
     - Defense negative decreased from -4 to -2.

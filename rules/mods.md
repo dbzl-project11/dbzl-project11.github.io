@@ -17,7 +17,8 @@ The sole remaining healing B1 to this is Garlic Jr's Makyo Star, as it heals les
     - Self-harm now only drains ki, not health.
 - Pikkon
     - ultimate size reduced
-    - Hyper Tornado damage reduced (exact numbers provided at a later date)
+    - Hyper Tornado damage reduced from 9510 to 7720
+    - Burning Shoot damage reduced from 8500 to 7350 (note, an extra 500 damage is done when the character being hit falls to the ground)
 - Cell
     - Perfect Form's Barrage Death Beam damage reduced from 6600 base damage to 6000 damage.
 - Frieza

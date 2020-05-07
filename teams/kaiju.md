@@ -17,14 +17,14 @@
 - Bardock
 
 ##### Master List
-- Raditz
-- Nappa
-- Scouter Vegeta
-- Turles
-- King Vegeta
+- Baby Vegeta 
 - Bardock
 - Fasha
-- Slug
 - Kid Goku
-- Baby Vegeta 
+- King Vegeta
+- Nappa
 - Pilaf
+- Raditz
+- Scouter Vegeta
+- Slug
+- Turles

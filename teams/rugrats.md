@@ -17,15 +17,15 @@
 - Saibaman
   
 ##### Master List
-- GT Goku
+- Arale
+- Cell Jr
 - Chi-Chi
 - Goten
     - May not have Savior if he starts in SSJ1 form.
-- Kid Trunks
-- Cell Jr
-- Saibaman
-- Kid Goku
+- GT Goku
 - Kid Gohan
-- Arale
+- Kid Goku
+- Kid Trunks
 - Pan
+- Saibaman
 - Teen Gohan

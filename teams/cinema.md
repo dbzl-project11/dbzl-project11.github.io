@@ -15,20 +15,19 @@
 - Fasha
   
 ##### Master List
+- Android 13
 - Arale
   - First appeared in Dr. Slump movies before DB existed. So she technically counts.
-- Fasha
-- Gogeta
-- Zangya
-- Garlic
 - Bojack
+- Bardock
 - Broly
 - Cooler
-- Meta-Cooler
-- Android 13
-- Slug
-- Garlic Jr.
+- Fasha
 - Future Gohan
-- Bardock
+- Garlic Jr.
+- Gogeta
+- Meta-Cooler
 - Salza
 - Saiyawoman
+- Slug
+- Zangya

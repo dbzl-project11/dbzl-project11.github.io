@@ -2,7 +2,11 @@
 
 - Unless otherwise specified, all potaras are restricted to 2 per team.
     - Restricted to one per team: Eternal Life, Style of the Strong, any particular blue potara
-
+    - "utility" potaras have no such restriction. These include
+        - Aura change
+        - Broly's Ring
+        - Flight
+        
 - Blue potaras restricted to one per player 
     
 - If your team wants to use 2 defense potaras, they must be used in one of the following ways.

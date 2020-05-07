@@ -21,13 +21,13 @@
   - Must start in base form, or SSJ1 form. 
   
 ##### Master List
-- Roshi
-- Garlic Jr
 - Android 13
-- Broly
-- Bojack
-- Frieza (Final Form)
 - Adult Trunks
+- Bojack
+- Broly
+- Frieza (Final Form)
+- Garlic Jr
 - Nappa
 - Recoome
+- Roshi
 - Spopovich

@@ -17,19 +17,19 @@
 - King Cold
   
 ##### Master List
-- King Cold
-- Frieza
-- Mecha Frieza
-- Cooler
-- Meta-Cooler
-- Zarbon
-- Dodoria
-- Ginyu
-- Jeice
-- Burter
-- Recoome
-- Guldo
 - Appule
+- Burter
+- Cooler
 - Cui
+- Dodoria
+- Frieza
 - Frieza Soldier
+- Ginyu
+- Guldo
+- Jeice
+- King Cold
+- Mecha Frieza
+- Meta-Cooler
+- Recoome
 - Salza
+- Zarbon

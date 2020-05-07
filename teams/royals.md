@@ -16,23 +16,23 @@
 - Pilaf
 
 ##### Master List
-- Slug
-    - Must start in base form.
+- Cooler
 - Dabura
-- Mecha-Frieza
-- SSJ4 Vegeta
-- Pilaf
-    - Must start in base form.
+- End Vegeta
+- Frieza
 - King Vegeta
     - Must start in base form.
-- Cold
-- Frieza
-- Cooler
-- Meta-Cooler
+- King Cold
 - Majin Vegeta
   - Banned from Master Blast, and Rush Blast (2)
+- Mecha-Frieza
+- Meta-Cooler
+- Mid Vegeta
+- King Piccolo
+- Pilaf
+    - Must start in base form.
 - Scouter Vegeta
     - Must start in base form.
-- Mid Vegeta
-- End Vegeta
-- King Piccolo
+- Slug
+    - Must start in base form.
+- SSJ4 Vegeta

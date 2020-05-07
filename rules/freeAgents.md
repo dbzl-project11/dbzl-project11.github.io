@@ -5,28 +5,27 @@ these characters could be used to cover for a weak character on a team with a li
 
 At this time, the characters guaranteed to be Free Agents are: 
 
-- Pikkon
 - Adult Gohan
 - General Blue 
-- Vegito (base form)
-- Tapion
 - General Tao
 - Grandpa Gohan
+- Pikkon
+- Tapion
+- Vegito (base form)
 
 There are, of course, other characters available as Free Agents, but aren't guaranteed to be such. A final list of available
 Free Agents will be produced each season after the team drop/add window has completed.
 
 Other available FAs (as of the time this was posted) include the following:
 
-- Frieza Soldier
-- Chiaotzu
-- Nuova Shenron 
-- Saiyawoman
-- Yajirobe
-- Saiyaman
-- Cui
-- Chi-Chi
 - Android 19
-- Super Buu -or- Gotenks Buu -or- Gohan Buu
-- Nappa
 - Appule
+- Chi-Chi
+- Cui
+- Frieza Soldier
+- Nuova Shenron 
+- Saiyaman
+- Saiyawoman
+- Super Buu
+- Nappa
+- Yajirobe

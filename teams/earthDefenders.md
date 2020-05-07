@@ -18,22 +18,22 @@
   - Banned from Master Blast, and Rush Blast (2)
   
 ##### Master List
+- Android 16 
+- Chiaotzu
 - Early Goku
-- Mid Goku
 - End Goku
     - may not have savior if he starts in Base form
 - Early Piccolo
-- Late Piccolo
-- Kid Gohan
-- Teen Gohan
 - Future Gohan
+- Hercule 
+- Kid Gohan
+- Krillin
+- Late Piccolo
+- Mid Goku
+- Mid Vegeta
 - Sword Trunks
 - Super Trunks
-- Chiaotzu
-- Yamcha
-- Krillin
+- Teen Gohan
 - Tien
 - Yajirobe
-- Mid Vegeta
-- Hercule 
-- Android 16 
+- Yamcha

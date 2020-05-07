@@ -15,12 +15,12 @@
 - Tambourine
 
 ##### Master List
-- Tambourine
-- Slug
-- King Piccolo
 - Early Piccolo
+- King Piccolo
 - Late Piccolo
 - Nail
+- Nuova Shenron
+- Slug
 - Syn Shenron
    - Not allowed to transform into Omega Shenron.
-- Nuova Shenron
+- Tambourine

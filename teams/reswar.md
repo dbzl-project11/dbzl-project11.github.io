@@ -18,26 +18,26 @@
   - Banned from Master Blast, and Rush Blast (2)
 
 ##### Master List
-- End Vegeta
+- Adult Trunks
 - Android 18
-- Videl
+- Android 17
 - Chiaotzu
-- Eighter
-- Uub
-- Frieza
-- Krillin
+- Early Goku
 - Early Piccolo
+- Eighter
+- End Goku
+- End Vegeta
+- Frieza
+- Hercule
+- Krillin
 - Late Piccolo
-- Yamcha
+- Majin Buu
+- Mid Vegeta
+- Nam
+- Roshi
 - Tien
 - Ultimate Gohan
-- Android 17
-- Adult Trunks
-- Hercule
+- Uub
+- Videl
 - Yajirobe
-- Mid Vegeta
-- Roshi
-- End Goku
-- Nam
-- Early Goku
-- Majin Buu
+- Yamcha

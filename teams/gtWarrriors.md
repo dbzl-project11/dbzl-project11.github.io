@@ -21,21 +21,21 @@
   - N/A
   
 ##### Master List
-  - GT Goku
-  - SS4 Vegeta
-  - Syn Shenron
-  - Nuova Shenron
-  - Baby Vegeta
-  - Pan
-  - Uub -or- Majuub
-  - Super 17
   - Android 18
-  - Krillin
+  - Baby Vegeta
   - End Goku
-  - Super Perfect Cell 
-      - Must be in this form.
-      - Androids must drop Cell before he can be picked up by GT.
   - Final Form Frieza
       - Must be in this form.
       - Cold Kingdom must drop Frieza before he can be picked up by GT.
-    
+  - GT Goku
+  - Krillin
+  - Nuova Shenron
+  - Pan
+  - Super 17
+  - SS4 Vegeta
+  - Syn Shenron
+    - Must have a free Broly's Ring.
+  - Super Perfect Cell 
+      - Must be in this form.
+      - Androids must drop Cell before he can be picked up by GT.
+  - Uub

@@ -16,13 +16,12 @@
   
 ##### Master List
 - Babidi
-- Spopovich
 - Dabura
-- Majuub
+- Evil Buu
+- Kid Buu
+- Majin Buu
 - Majin Vegeta
   - Banned from Master Blast, and Rush Blast (2)
-- Uub -or- Majuub
+- Spopovich
 - Super Buu (must start in base form)
-- Majin Buu
-- Kid Buu
-- Evil Buu
+- Uub

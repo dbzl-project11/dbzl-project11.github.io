@@ -15,11 +15,11 @@
 - Guldo
   
 ##### Master List
-- Jeice
-- Recoome
 - Burter
 - Captain Ginyu
 - Guldo
-- Salza
+- Jeice
+- Recoome
 - Saiyaman
 - Saiyawoman
+- Salza

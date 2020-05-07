@@ -17,12 +17,12 @@
   - If he can transform into SSJ2 form, he cannot have Kibito's Secret Art or Secret Measures.
   
 ##### Master List
-- Kid Gohan
-- Teen Gohan
 - Future Gohan
-- Saiyaman
 - Goten
+- Kid Gohan
 - Kid Trunks
-- Sword Trunks
-- Ultimate Gohan
 - Pan
+- Saiyaman
+- Sword Trunks
+- Teen Gohan
+- Ultimate Gohan

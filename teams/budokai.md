@@ -12,25 +12,25 @@ Any character who legitimately participated on screen in the World Martial Arts 
 - Cyborg Tao
 
 ### Master List
-- Spopovich
-- Kid Goku
-- Nam
-- End Goku
-- Cyborg Tao
-- Hercule
-- Tien
-- Yamcha
-- Krillin
-- Early Piccolo
+- Android 18
 - Chiaotzu
 - Chi Chi
+- Cyborg Tao
 - Early Goku
-- Videl
-- Saiyaman
-- Uub
-- Android 18
-- Pan
-- Yajirobe
-- Roshi
+- Early Piccolo
+- End Goku
+- Hercule
+- Kid Goku
+- Krillin
 - Late Piccolo
+- Nam
+- Pan
+- Roshi
+- Saiyaman
+- Spopovich
 - Supreme Kai
+- Tien
+- Uub
+- Videl
+- Yajirobe
+- Yamcha

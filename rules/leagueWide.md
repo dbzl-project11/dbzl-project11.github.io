@@ -17,6 +17,8 @@ Characters with these moves include:
     - Goten (SSJ1)
     - Adult Gohan (SSJ1)
 
-- Adult Gohan and Saiyaman have been modded to not be able to transform into each other.
-
-- Videl and Saiyawoman will be modded in the same way once it's known how to do the mods. In the meantime both must have a free broly's ring to prevent transformations.
+- Forms of characters are not considered as separate characters. The exceptions are: 
+    - Adult Gohan/Saiyaman. 
+        - They have also been modded to be unable to transform into the other.
+    - Videl/Saiyawoman 
+        - At the moment, they need a free Broly's Ring. This will be rectified once the modding for this is understood. 

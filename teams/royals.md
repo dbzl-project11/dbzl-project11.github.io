@@ -7,32 +7,32 @@
 
 ##### Current Roster and specific player restrictions
 
-- Slug
+- Lord Slug
     - Must start in base form.
-- Dabura
-- Mecha-Frieza
-- Majin Vegeta
+- Demon King Dabura
+- Lord Mecha-Frieza
+- (Prince) Majin Vegeta
   - Banned from Master Blast, and Rush Blast (2)
-- Pilaf
+- Emperor Pilaf
 
 ##### Master List
-- Cooler
-- Dabura
-- End Vegeta
-- Frieza
+- Lord Cooler
+- Demon King Dabura
+- (Prince) End Vegeta
+- Lord Frieza
 - King Vegeta
     - Must start in base form.
 - King Cold
-- Majin Vegeta
+- (Prince) Majin Vegeta
   - Banned from Master Blast, and Rush Blast (2)
-- Mecha-Frieza
-- Meta-Cooler
-- Mid Vegeta
-- King Piccolo
-- Pilaf
+- Lord Mecha-Frieza
+- Lord Meta-Cooler
+- (Prince) Mid Vegeta
+- Demon King Piccolo
+- Emperor Pilaf
     - Must start in base form.
-- Scouter Vegeta
+- (Prince) Scouter Vegeta
     - Must start in base form.
-- Slug
+- Lord Slug
     - Must start in base form.
-- SSJ4 Vegeta
+- (Prince) SSJ4 Vegeta

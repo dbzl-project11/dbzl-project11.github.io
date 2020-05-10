@@ -14,6 +14,7 @@
 - (Prince) Majin Vegeta
   - Banned from Master Blast, and Rush Blast (2)
 - Emperor Pilaf
+    - Must start in base form.
 
 ##### Master List
 - Lord Cooler

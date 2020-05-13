@@ -13,6 +13,7 @@
 - Janemba
 - Garlic Jr
 - Gogeta
+   - Banned from Master Blast and Rush Blast 2. 
 - Zangya
 - Fasha
   

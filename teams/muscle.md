@@ -1,4 +1,5 @@
 ## Muscle
+![](../images/muscle.png)
 
 ##### Theme Description
 - The various "Muscle men" of BT3. They need to look one flex away from popping a blood vessel, or be able to transform into that form

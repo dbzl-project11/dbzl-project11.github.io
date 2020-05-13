@@ -1,4 +1,5 @@
 ## Sentai Squad
+![](../images/sentai.png)
 
 ##### Theme Description
 - Anyone who makes poses such as the ones found in a sentai series and is known in series for such poses.

@@ -1,4 +1,5 @@
 ## Royals
+![](../images/royals.png)
 
 ##### Theme Description
 - Characters that have been given or gave themselves a royal title in the show

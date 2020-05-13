@@ -1,5 +1,7 @@
 ## Earth Defenders
 
+![](../images/ed.png)
+
 ##### Theme Description 
 - The main good guys in the "Dragon Ball Z" series until the end of the Android saga. Nicknamed "The Z fighters" (A form of Goku must be on the team)
 

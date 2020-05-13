@@ -1,5 +1,7 @@
 ## Cold Kingdom
 
+![](../images/cold.png)
+
 ##### Theme Description
 - Any member of the Cold family or those they ruled over. Saiyans are not included. 
 

@@ -1,5 +1,5 @@
 ## Rugrats
-![](../images/rugrats.png)
+![](../images/rugrats.jpg)
 
 ##### Theme Description
 - Any character under the age of 12 or who has a child-like body or stature.

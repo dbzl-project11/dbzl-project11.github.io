@@ -1,6 +1,6 @@
 ## Team GT 
 
-![](../images/gt.png)
+![](../images/gt.jpg)
 
 ##### Theme Description
 - Any character who was introduced or played a significant role in a significant fight in DragonBall GT.

@@ -1,6 +1,6 @@
 ## Androids 
 
-![](../images/androids.png)
+![](../images/androids.jpg)
 
 ##### Theme Description
 - Any robot, cyborg, or android like character

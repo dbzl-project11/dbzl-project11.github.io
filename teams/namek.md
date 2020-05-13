@@ -1,5 +1,5 @@
 ## Namek
-![](../images/namek.png)
+![](../images/namek.jpg)
 
 ##### Theme Description
 - Any fighter that is a Namekian or one of their creations.

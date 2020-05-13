@@ -1,5 +1,5 @@
 ## Kaiju
- ![](../images/kaiju.png)
+ ![](../images/kaiju.jpg)
 
 ##### Theme Description
 - Everyone on the team has a giant form in the game.

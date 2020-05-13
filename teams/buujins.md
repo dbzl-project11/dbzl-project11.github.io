@@ -1,6 +1,6 @@
 ## Buujins
 
-![](../images/buujins.png)
+![](../images/buujins.jpg)
 
 ##### Theme Description
 - The various minions of the sorcerer Babidi and iterations of Majin Buu.

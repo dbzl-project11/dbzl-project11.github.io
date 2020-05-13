@@ -1,5 +1,5 @@
 ## Hybrid
-![](../images/hybrids.png)
+![](../images/hybrids.jpg)
 
 ##### Theme Description
 - Any character who is a Saiyan/Human hybrid. 

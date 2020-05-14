@@ -15,6 +15,7 @@
   -  Must have a free Broly's Ring if SS4 Vegeta is in. 
 - SS4 Vegeta
   - Must have a free Broly's Ring if GT Goku is in.
+  - Banned from Master Blast and Rush Blast 2.
 - Syn Shenron
   - Must have a free Broly's Ring.
 - Baby Vegeta

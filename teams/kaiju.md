@@ -2,7 +2,7 @@
  ![](../images/kaiju.jpg)
 
 ##### Theme Description
-- Everyone on the team has a giant form in the game.
+- Any character that can transform into a giant.
 
 ##### Team restrictions:
   - Banned from using a night map for their home stadium. 

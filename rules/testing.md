@@ -55,7 +55,7 @@ Example:
 
 Hybrids Post 7<br/>
 Kings Castle<br/>
-3 1v1
+2 1v1
 
 1.<br/>
 Teen Gohan (SSJ)<br/>
@@ -77,7 +77,7 @@ Launch’s Support (2)<br/>
 Dragon Spirit (2)<br/>
 Chiaotzu AI
 
-2. 
+2. <br/>
 Teen Gohan (SSJ)<br/>
 Same build in request #1<br/>
 The winner of Match 1 AI
@@ -87,14 +87,4 @@ VS
 Teen Gohan (SSJ)<br/>
 Same build in request 1<br/>
 Krillin AI
-3.
-Teen Gohan (SSJ)<br/>
-Same build in request 1<br/>
-Yajirobe AI
-
-VS
-
-Teen Gohan (SSJ)<br/>
-Same build in request 1<br/>
-The loser of Match 1 AI
 

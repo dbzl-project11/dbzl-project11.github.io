@@ -6,14 +6,14 @@
 
 2. All testing will be in the following formats
     - 1v1
-        - 2 distinct 1v1 tests with 3 guaranteed rounds
-        - 3 distinct 1v1 tests with 2 guaranteed rounds
-        - 1 test with 7 guaranteed rounds
+        - 2 distinct 1v1 tests with 3 guaranteed rounds (formatted as: 3R 1v1)
+        - 3 distinct 1v1 tests with 2 guaranteed rounds (formatted as: 2R 1v1)
+        - 1 test with 7 guaranteed rounds (formatted as: 7R 1v1)
     - 2v2
-        - 1 test with 3 guaranteed rounds
-        - 2 single round matches 
+        - 1 test with 3 guaranteed rounds (formatted as: 3R 2v2)
+        - 2 single round matches (formatted as: 1R 2v2)
     - 4v4
-        - 1 elimination round.
+        - 1 elimination round (formatted as: 1R 4v4)
 
 3. All tests may have a full 7 point build with the following caveats. 
 
@@ -28,7 +28,7 @@ All builds should follow this general template
 
 Team name Post #<br/>
 Map name and map time period if available<br/>
-Request type: 2 1v1, 3 1v1, 7 1v1, 1 2v2, 2 2v2, 1 4v4<br/>
+Request type: 2R 1v1, 3R 1v1, 7R 1v1, 1R 2v2, 3R 2v2, 1R 4v4<br/>
 
 Character name (character form)<br/>
 Costume, if none is selected then the tester will choose<br/>
@@ -55,9 +55,9 @@ Example:
 
 Hybrids Post 7<br/>
 Kings Castle<br/>
-2 1v1
+3R 1v1
 
-1.<br/>
+1 <br/>
 Teen Gohan (SSJ)<br/>
 Costume 1<br/>
 Ki +1 (1)<br/>
@@ -77,7 +77,8 @@ Launch’s Support (2)<br/>
 Dragon Spirit (2)<br/>
 Chiaotzu AI
 
-2. <br/>
+
+2 <br/>
 Teen Gohan (SSJ)<br/>
 Same build in request #1<br/>
 The winner of Match 1 AI

@@ -1,9 +1,11 @@
-
 ## Welcome to DragonBall Z League!
 
 We are an AI vs AI league that is centered on DragonBall Z Budokai Tenkaichi 3. We hope you'll join us as we use the game's customization to make the computer fight itself! 
 
-Join one of our teams as we compete to see who is the strongest fighter of them all! 
+Join one of our teams as we compete to see who is the strongest fighter of them all! You can find us at:
+
+Youtube: https://www.youtube.com/channel/UCYrEHQEtGnLXy_ly1GIN46g <br>
+Discord: https://discord.gg/gRQv8KC
 
 We are currently in the process of updating our league's teams and are reviewing having the following teams going forward. Please note this is still a work in progress and may be changed.
 
@@ -24,7 +26,7 @@ We are currently in the process of updating our league's teams and are reviewing
 - [Resurrected Warriors](./teams/reswar.md)
 - [Sentai Squad](./teams/sentai.md)
 
-For posterity, these are the teams that were active in past years, but are being considered for retirement. 
+For posterity, these are the teams that were active in a previous era of the league, but are now retired. 
 
 - [The Ginyu Force](teams/old/ginyu.md)
 - [The Saiyans](teams/old/saiyans.md)
@@ -37,7 +39,7 @@ For posterity, these are the teams that were active in past years, but are being
 - [DragonBall Warriors](teams/old/dbWarriors.md)
 - [The Blades](teams/old/blades.md)
 
-If you're interested, here are our rules:
+Here are the rules:
 
 - [League Wide Rules](./rules/leagueWide.md)
 - [Potaras](./rules/potaras.md)

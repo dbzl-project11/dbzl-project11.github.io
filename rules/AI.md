@@ -1,35 +1,41 @@
-A.I. Potaras are the brain of your player. It tells the player how to fight and what moves to use more often. Keep in mind that A.I. portara work differently for different characters and the only real way to see how it will affect your character is to test it. Here is a list of each portara:
+## AI Potaras
 
-**Trunks:** Emphasizes Attack. Emphasizes Rush Attack and other high-speed attacks.
+AI potaras are the brain of your player. It tells the player how to fight and what moves to use more often. Keep in mind that AI potaras work differently for each character and the only real way to see how it will affect your character is to test it. 
 
-**Tien:** Emphasizes Attack. Emphasizes close-range Rush and Ultimate Blast.
+Here is a list of each AI potara as defined by the game:
 
-**Majin Buu:** Emphasizes Attack. Emphasizes barrage attacks and combos.
+- Attack Oriented AIs.
 
-**Broly:** Emphasizes Attack. Emphasizes doggedly pursuing and attacking the opponent.
+    - Trunks:  Emphasizes Rush Attack and other high-speed attacks.
 
-**Recoome:** Emphasizes Attack. Emphasizes getting in close to use Throw attacks.
+    - Tien:  Emphasizes close-range Rush and Ultimate Blast.
+
+    - Majin Buu:  Emphasizes barrage attacks and combos.
+
+    - Broly:  Emphasizes doggedly pursuing and attacking the opponent.
+
+    - Recoome:  Emphasizes getting in close to use Throw attacks.
+
+- Defense Oriented AIs
+
+    - Piccolo:  Concentrates on putting up a consistent defense and exploiting opponent's openings. (Silly Flavor Text)
+
+    - Chiaotzu:  Makes irregular movements and uses many Blast 1 attacks.
+
+    - Yajirobe:  Fights by evading the opponent, using Ki, and refilling the Blast Gauge. (WUT)
+
+    - Ginyu:  Emphasizes using Blast 1 and other techniques to boost strength.
 
 
+- Balanced AIs
+    - Goku: Emphasizes close combat.
 
-**Piccolo:** Emphasizes Defense. Concentrates on putting up a consistent defense and exploiting opponent's openings. (Silly Flavor Text)
+    - Vegeta: Emphasizes using energy blasts from a distance.
 
-**Chiaotzu:** Emphasizes Defense. Makes irregular movements and uses many Blast 1 attacks.
+    - Gohan: Becomes offensive while in MAX POWER Mode. (I like the caps)
 
-**Yajirobe:** Emphasizes Defense. Fights by evading the opponent, using Ki, and refilling the Blast Gauge. (WUT)
+    - Krillin: Emphasizes energy blasts, Blast 2, and other attacks that use Ki.
 
-**Ginyu:** Emphasizes Defense. Emphasizes using Blast 1 and other techniques to boost strength.
+    - Frieza: Fights based on emphasizing Blasts.
 
-
-
-**Goku:** Attack and Defense evenly balanced. Emphasizes close combat.
-
-**Vegeta:** Attack and Defense evenly balanced. Emphasizes using energy blasts from a distance.
-
-**Gohan:** Attack and Defense evenly balanced. Becomes offensive while in MAX POWER Mode. (I like the caps)
-
-**Krillin:** Attack and Defense evenly balanced. Emphasizes energy blasts, Blast 2, and other attacks that use Ki.
-
-**Frieza:** Attack and Defense evenly balanced. Fights based on emphasizing Blasts.
-
-**Cell:** Attack and Defense evenly balanced. Emphasizes attacking from dashing and then moving away; a "hit and run" strategy.
+    - Cell: Emphasizes attacking from dashing and then moving away; a "hit and run" strategy.

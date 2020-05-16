@@ -83,4 +83,4 @@ Available maps for the map trade boost:
     Planet Namek (Destroyed)
     Broly's Planet
 
-Please note, that these boosts are specifically designed to only be used during the season. You cannot use any of these boosts during the playoffs. Please make sure to "purchase" boosts at the top of your builds to avoid confusion.
+Please note, that these boosts are designed to only be used during the season. You cannot use any of these boosts during the playoffs. Please make sure to "purchase" boosts at the top of your builds to avoid confusion.

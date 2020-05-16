@@ -2,20 +2,21 @@
 
 I noticed a few weeks ago that there were some questions about charging that kept coming up in chat, especially for Androids. So I decided to pull out some notes I had made on charging and polish them up a bit in order to share them with everyone else. I hope you find them useful.
 
-Charge potaras: Unleash latent power 1, 2, 3 – increases the base ki bar level by 2, 3, or 4 bars respectively, also decreases ki charge rate (ULP 1 is a ki -1, ULP 2 is a ki -2, etc).
-(Blue potaras) Ki + 1, Ki + 2 – increases charge rate by 20 and 40% respectively. These affect both active and passive charging.
+Charge potaras: <br>
+- Unleash latent power 1, 2, 3 – increases the base ki bar level by 2, 3, or 4 bars respectively, also decreases ki charge rate (ULP 1 is a ki -1, ULP 2 is a ki -2, etc).
+- (Blue potaras) Ki + 1, Ki + 2 – increases charge rate by 20 and 40% respectively. These affect both active and passive charging.
 
-Launch's Support – equivalent to ki +1
-Fighting Spirit – Ki +.5 per health bar lost
-(passive charge potaras) Hatred of Saiyans, Tension Up, High Tension – passive charge 1 bar of ki every:
+- Launch's Support – equivalent to ki +1
+- Fighting Spirit – Ki +.5 per health bar lost
+- (passive charge potaras) Hatred of Saiyans, Tension Up, High Tension – passive charge 1 bar of ki every:
 
-    Hatred of Saiyans – 60 seconds
-    Tension up – 40 seconds
-    High Tension – 20 seconds 
+    - Hatred of Saiyans – 60 seconds
+    - Tension up – 40 seconds
+    - High Tension – 20 seconds 
 
 Notes on when to use the different potaras (note that for reasons, I use 20 second intervals for all charge rate calculations):
 
-ULP – think very carefully about this, as the ki minuses are hard to workaround after the first level. Tension Up/High Tension are probably going to be better, as they don't have the same minuses. But it will depend on how much you're willing to spend on charge potaras.
+- ULP – think very carefully about this, as the ki minuses are hard to workaround after the first level. Tension Up/High Tension are probably going to be better, as they don't have the same minuses. But it will depend on how much you're willing to spend on charge potaras.
 
 Note the math on what ULP 1 will be if you decide to use it (with no other charge potaras) for the passive portion of charging, and that charge rate is 1 bar/10 seconds:
 
@@ -27,10 +28,10 @@ And if you passively charge 1 bar every 7 seconds:
 
 But note that some characters could charge up to all 5 bars with ULP 1, which means that they will essentially be an android. If that character doesn't like to charge, and can passively charge up to 4 bars already, it may be worth using ULP 1 and Ki +1 or Ki +2 to increase charge rate. (Especially considering that the Ki+1/+2 will negate the charge negative, allowing active charging to go unaffected.)
 
-Blue potaras/Launch's Support– core part of a build
-Fighting Spirit – use when you think it'll do better for you than Hatred of Saiyans, or if already equipping a passive charge potara.
+- Blue potaras/Launch's Support– core part of a build
+- Fighting Spirit – use when you think it'll do better for you than Hatred of Saiyans, or if already equipping a passive charge potara.
 
-Passive Charge Potaras: so this is where it gets a bit complicated, as all androids (with the exception of 19 and Dr. Gero) charge to full power on their own by default, so passive charge potaras can be considered much like the regular charge potaras. (For simplicity's sake, I'm only dealing with Android characters below)
+Passive Charge Potaras: so this is where it gets a bit complicated, as all androids charge to full power on their own by default, so passive charge potaras can be considered much like the regular charge potaras. (For simplicity's sake, I'm only dealing with Android characters below)
 
 So here's the math behind the passive charge potaras:
 On average, a match lasts about 10 minutes, and if you make the assumption that each player has an equal amount of time on the field (2.5 minutes) this equates to:

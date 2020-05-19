@@ -3,10 +3,16 @@
 - Any team with a healing grab rotated in that week is banned from Eternal Life
     - Characters with these moves include:
         - Cell (Only applies to a form where he can gain health from grabs)
-    
+
+- Teams with 2 or more healing transformations are banned as a team from Eternal life. 
+For teams with only 1 healing transformation, only that character with the transformation is banned from Eternal Life
+    - Teams currently impacted:    
+        - Androids (Cell)
+        - Cold Kingdom (Frieza and Cooler)
+        
 - Any Super Saiyan may not start above SSJ1. The exceptions are
     - GT Goku (He may start in any form from SSJ3 and below), 
-    - SS4 Vegeta (since this is his only option for starting form)
+    - SS4 Vegeta (since this is his only form)
 
 - Any character with a giant form (That has a permanent brick wall) may not start in that giant form. There are no exceptions.
 
@@ -15,8 +21,18 @@
     - Goten (SSJ1)
     - Adult Gohan (SSJ1)
 
-- Forms of characters are not considered as separate characters. The exceptions are: 
+- Forms of characters are not considered to be separate characters. The exceptions are: 
     - Adult Gohan/Saiyaman. 
         - They have also been modded to be unable to transform into the other.
     - Videl/Saiyawoman 
         - At the moment, they need a free Broly's Ring. This will be rectified once the modding for this is understood. 
+
+- We do not allow for private testing by our supporters (but if you wish, you can become an authorized tester). If you need information for league purposes,
+it must come from official league sources. 
+    - These sources include but are not limited to
+        - this website
+        - the Discord
+        - the Youtube channels (the main channel and testing channel)
+        - the player calculator
+        - asking staff members.
+    - If you have the base Tenkaichi 3 game, we hope you enjoy playing it, just don't try to get information about the AI.

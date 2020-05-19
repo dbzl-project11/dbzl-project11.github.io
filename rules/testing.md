@@ -6,14 +6,16 @@
 
 2. All testing will be in the following formats
     - 1v1
-        - 2 distinct 1v1 tests with 3 guaranteed rounds (formatted as: 3R 1v1)
-        - 3 distinct 1v1 tests with 2 guaranteed rounds (formatted as: 2R 1v1)
-        - 1 test with 7 guaranteed rounds (formatted as: 7R 1v1)
+        - 1 test with 7 guaranteed rounds (formatted as: 1 1v1 7R)
+        - 2 distinct 1v1 tests with 3 guaranteed rounds (formatted as: 2 1v1 3R)
+        - 3 distinct 1v1 tests with 2 guaranteed rounds (formatted as: 3 1v1 2R)
+
     - 2v2
-        - 1 test with 3 guaranteed rounds (formatted as: 3R 2v2)
-        - 2 single round matches (formatted as: 1R 2v2)
-    - 4v4
-        - 1 elimination round (formatted as: 1R 4v4)
+        - 1 test with 3 guaranteed rounds (formatted as: 1 2v2 3R)
+        - 2 single round matches (formatted as: 2 2v2 1R)
+
+    - 4v4 
+        - 1 elimination round (formatted as: 1 4v4 1R)
 
 3. All tests may have a full 7 point build with the following caveats. 
 
@@ -28,7 +30,7 @@ All builds should follow this general template
 
 Team name Post #<br/>
 Map name and map time period if available<br/>
-Request type: 2R 1v1, 3R 1v1, 7R 1v1, 1R 2v2, 3R 2v2, 1R 4v4<br/>
+Request type:  1 1v1 7R, 2 1v1 3R, 3 1v1 2R, 1 2v2 3R, 2 2v2 1R, 1 4v4 1R<br/>
 
 Character name (character form)<br/>
 Costume, if none is selected then the tester will choose<br/>
@@ -55,7 +57,7 @@ Example:
 
 Hybrids Post 7<br/>
 Kings Castle<br/>
-3R 1v1
+2 1v1 3R
 
 1 <br/>
 Teen Gohan (SSJ)<br/>

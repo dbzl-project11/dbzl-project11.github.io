@@ -4,10 +4,10 @@ We are an AI vs AI league that is centered on DragonBall Z Budokai Tenkaichi 3. 
 
 Join one of our teams as we compete to see who is the strongest fighter of them all! You can find us at:
 
-Youtube: https://www.youtube.com/channel/UCYrEHQEtGnLXy_ly1GIN46g <br>
-Discord: https://discord.gg/gRQv8KC
+[Youtube](https://www.youtube.com/channel/UCYrEHQEtGnLXy_ly1GIN46g) <br>
+[Discord](https://discord.gg/gRQv8KC)
 
-We are currently in the process of updating our league's teams and are reviewing having the following teams going forward. Please note this is still a work in progress and may be changed.
+These are the teams duking it out to see who has the best fighters in DragonBall Z!
 
 - [The Androids](./teams/androids.md)
 - [Budokai](./teams/budokai.md)
@@ -55,3 +55,5 @@ Here is some useful info you may want:
 - [Boost store](./usefulInfo/boost.md)
 - [Notes on charging](./usefulInfo/charging.md)
 - [Player Calculator](./usefulInfo/playerCalc.md)
+
+Note - this is a non-profit fan based endeavour and we do not own the copyright to any DragonBall Z IP. Copyright is owned by the respective IP holders like Akira Toriyama, Shueisha and Fuji TV.

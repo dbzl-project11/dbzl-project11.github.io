@@ -16,7 +16,6 @@ Any character who legitimately participated on screen in the World Martial Arts 
 ### Master List
 - Android 18
 - Chiaotzu
-- Chi Chi
 - Cyborg Tao
 - Early Goku
 - Early Piccolo

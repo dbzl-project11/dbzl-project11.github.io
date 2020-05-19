@@ -5,7 +5,7 @@
 - Any character that can transform into a giant.
 
 ##### Team restrictions:
-  - Banned from using a night map for their home stadium. 
+  - May not have a free Broly's Ring as a limiter. Broly's Ring may still be used as a normal 1 point potara or via purchase in the boost store.
   - All character must start in base form. Base form cannot be giant.
 
 ##### Current Roster and Specific Player restrictions

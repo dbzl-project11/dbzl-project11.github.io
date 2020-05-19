@@ -38,3 +38,4 @@
 - Lord Slug
     - Must start in base form.
 - (Prince) SSJ4 Vegeta
+- (Lord) Garlic Jr.

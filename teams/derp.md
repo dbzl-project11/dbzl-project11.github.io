@@ -21,7 +21,9 @@
 - Android 19
 - Appule
 - Cui
+- Cyborg Tao
 - Devilman
+- Dr. Gero (Android 20)
 - Dodoria
 - Frieza's Soldier
 - Hercule

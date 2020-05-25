@@ -33,6 +33,7 @@
   - GT Goku
   - Krillin
   - Nuova Shenron
+      - Banned from Eternal Life
   - Pan
   - Super 17
   - SS4 Vegeta

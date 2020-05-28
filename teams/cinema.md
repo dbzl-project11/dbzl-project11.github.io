@@ -33,4 +33,5 @@
 - Salza
 - Saiyawoman
 - Slug
+- Turles
 - Zangya

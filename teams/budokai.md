@@ -6,7 +6,7 @@
 Any character who legitimately participated on screen in the World Martial Arts Tournament (Budokai Tenkaichi). Illicit entries and the junior division does not count.
 
 ##### Current Roster and specific player restrictions:
-- Spopovich
+- Early Goku
 - Kid Goku
 - Nam
 - End Goku

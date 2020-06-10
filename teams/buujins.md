@@ -11,7 +11,7 @@
 ##### Current Roster and specific player restrictions
 
 - Majin Buu
-- Babidi
+- Super Buu
 - Evil Buu
 - Kid Buu
 - Majuub

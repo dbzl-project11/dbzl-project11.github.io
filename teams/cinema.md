@@ -10,7 +10,7 @@
 
 ##### Current Roster and specific player restrictions:
 
-- Janemba
+- Turles
 - Garlic Jr
 - Gogeta
    - Banned from Master Blast and Rush Blast 2. 
@@ -29,6 +29,7 @@
 - Future Gohan
 - Garlic Jr.
 - Gogeta
+- Janemba
 - Meta-Cooler
 - Salza
 - Saiyawoman

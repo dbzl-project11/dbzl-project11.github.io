@@ -13,7 +13,7 @@
 - King Vegeta
 - Scouter Vegeta
   - Banned from Master Blast and Rush Blast (2)
-- Turles
+- Nappa
 - Raditz
 - Bardock
 

@@ -15,7 +15,8 @@
 - Supreme Kai
   - Banned from Eternal Life if he can gain health from transforming. 
 - Devilman
-- Dodoria
+- Dr. Gero (Android 20)
+  - Banned from Recoome AI.
 
 ##### Master List
 - Android 19

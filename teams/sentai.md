@@ -10,11 +10,11 @@
 ##### Current Roster and specific player restrictions
 
 - Jeice
-- Recoome
 - Burter
 - Captain Ginyu
-- Guldo
-  
+- Saiyaman
+- Saiyawoman
+
 ##### Master List
 - Burter
 - Captain Ginyu

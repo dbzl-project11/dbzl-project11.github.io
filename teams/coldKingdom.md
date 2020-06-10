@@ -15,7 +15,7 @@
 - Frieza
   - Banned from Master Blast, and Rush Blast (2) if starting in 3rd form.
 - Cooler
-- Zarbon
+- Recoome
 - King Cold
   
 ##### Master List

@@ -10,7 +10,7 @@
 ##### Current Roster and specific player restrictions
 
 - King Piccolo
-- Early Piccolo
+- Nuova Shenron
 - Late Piccolo
 - Nail
 - Tambourine

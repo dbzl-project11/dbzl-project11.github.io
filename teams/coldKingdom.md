@@ -6,8 +6,7 @@
 - Any member of the Cold family or those they ruled over. Saiyans are not included. 
 
 ##### Team restrictions:
-  - Banned from Eternal Life if Frieza can gain health from transforming, and is in their lineup.
-  - Banned from Eternal Life if Cooler can gain health from transforming, and is in their lineup.
+  - Banned from Eternal Life if they have access to 2 or more healing transformations between Frieza and Cooler.
 
 ##### Current Roster and specific player restrictions:
 

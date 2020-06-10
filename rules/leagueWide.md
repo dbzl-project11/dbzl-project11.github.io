@@ -2,10 +2,10 @@
 
 - Any team with a healing grab rotated in that week is banned from Eternal Life
     - Characters with these moves include:
-        - Cell (Only applies to a form where he can gain health from grabs)
+        - Cell (Base, Semi-Perfect forms)
 
 - Teams with 2 or more healing transformations are banned as a team from Eternal life. 
-For teams with only 1 healing transformation, only that character with the transformation is banned from Eternal Life
+For teams with only 1 healing transformation, only the character with the transformation is banned from Eternal Life
     - Teams currently impacted:    
         - Androids (Cell)
         - Cold Kingdom (Frieza and Cooler)
@@ -16,7 +16,7 @@ For teams with only 1 healing transformation, only that character with the trans
 
 - Any character with a giant form (That has a permanent brick wall) may not start in that giant form. There are no exceptions.
 
-- Any Character with a cutscene ultimate may not have savior in their starting form.  This means any ultimate that does full damage if *any* part of the ultimate hits you.
+- Any Character with a cutscene ultimate may not have savior in their starting form.  This refers to any ultimate which does full damage if *any* part of the ultimate hits you.
     - End Goku (base)
     - Goten (SSJ1)
     - Adult Gohan (SSJ1)

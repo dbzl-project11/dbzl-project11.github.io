@@ -10,7 +10,6 @@
 ##### Current Roster and specific player restrictions
 
 - Master Roshi
-  - Must start in base form. 
 - Broly
   - May not start in Legendary SSJ Broly form
 - Bojack

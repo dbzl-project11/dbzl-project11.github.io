@@ -25,7 +25,7 @@ For teams with only 1 healing transformation, only the character with the transf
     - Adult Gohan/Saiyaman. 
         - They have also been modded to be unable to transform into the other.
     - Videl/Saiyawoman 
-        - At the moment, they need a free Broly's Ring. This will be rectified once the modding for this is understood. 
+        - They have also been modded to be unable to transform into the other.
 
 - We do not allow for private testing by our supporters (but if you wish, you can become an authorized tester). If you need information for league purposes,
 it must come from official league sources. 

@@ -18,14 +18,16 @@ Free Agents will be produced each season after the team drop/add window has comp
 
 Other available FAs (as of the time this was posted) include the following:
 
-- Android 19
+
 - Appule
+- Babidi
 - Chi-Chi
+- Chiaotzu
 - Cui
+- Dodoria
 - Frieza Soldier
-- Nuova Shenron 
-- Saiyaman
-- Saiyawoman
-- Super Buu
-- Nappa
+- Guldo
+- Janemba
+- Spopovich
 - Yajirobe
+- Zarbon

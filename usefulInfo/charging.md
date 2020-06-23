@@ -1,3 +1,10 @@
+---
+layout: default
+title: Ki Charging
+nav_order: 2
+parent: Useful Info
+---
+
 ## Notes on charging
 
 I noticed a few weeks ago that there were some questions about charging that kept coming up in chat, especially for Androids. So I decided to pull out some notes I had made on charging and polish them up a bit in order to share them with everyone else. I hope you find them useful.

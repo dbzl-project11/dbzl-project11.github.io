@@ -1,3 +1,9 @@
+---
+layout: default
+title: Player Stat Calculator
+nav_order: 3
+parent: Useful Info
+---
 ## Player stat calculator
 
 During the previous era of DBZ League, one of the admins, Burnarator collected a lot of stats for DBZ league and built a tool

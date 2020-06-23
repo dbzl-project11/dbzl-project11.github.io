@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Gauntlet
+nav_order: 1
+parent: League Events
+---
 ## Gauntlet
 
 

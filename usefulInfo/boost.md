@@ -1,3 +1,9 @@
+---
+layout: default
+title: Boost Store
+nav_order: 1
+parent: Useful Info
+---
 ## Boost Store
 
 Each season, teams earn zeni based on their win loss record of the previous season. Additionally, teams earn 1 zenni per 

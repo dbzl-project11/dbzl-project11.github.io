@@ -1,3 +1,9 @@
+---
+layout: default
+title: Valkyries
+nav_order: 10
+parent: Retired Teams
+---
 ## Valkyries
 
 ##### Theme Description

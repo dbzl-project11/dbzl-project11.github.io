@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gohans
+nav_order: 6
+parent: Retired Teams
+---
 ## Gohans
 
 ##### Theme Description

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Majins
+nav_order: 8
+parent: Retired Teams
+---
 ## Majins
 
 ##### Theme Description

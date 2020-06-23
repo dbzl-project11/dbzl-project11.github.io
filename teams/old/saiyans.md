@@ -1,3 +1,9 @@
+---
+layout: default
+title: Saiyans
+nav_order: 9
+parent: Retired Teams
+---
 ## Saiyans
 
 ##### Theme Description

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cold
+nav_order: 3
+parent: Retired Teams
+---
 ## Cold
 
 ##### Theme Description

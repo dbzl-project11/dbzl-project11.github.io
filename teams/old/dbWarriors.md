@@ -1,3 +1,9 @@
+---
+layout: default
+title: DB Warriors
+nav_order: 4
+parent: Retired Teams
+---
 ## DB Warriors
 
 ##### Theme Description 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Buus
+nav_order: 2
+parent: Retired Teams
+---
 ## Buus
 
 ##### Theme Description

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ginyu Force
+nav_order: 5
+parent: Retired Teams
+---
 ## Ginyu Force
 
 ##### Theme Description

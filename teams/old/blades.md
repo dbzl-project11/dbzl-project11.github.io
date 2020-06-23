@@ -1,3 +1,9 @@
+---
+layout: default
+title: Blades
+nav_order: 1
+parent: Retired Teams
+---
 ## Blades
 
 ##### Theme Description

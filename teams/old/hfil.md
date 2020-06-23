@@ -1,3 +1,9 @@
+---
+layout: default
+title: Afterlife
+nav_order: 7
+parent: Retired Teams
+---
 ## Afterlife
 
 ##### Theme Description

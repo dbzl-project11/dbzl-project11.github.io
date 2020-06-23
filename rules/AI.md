@@ -1,3 +1,9 @@
+---
+layout: default
+title: AI Descriptions
+nav_order: 6
+parent: Rules
+---
 ## AI Potaras
 
 AI potaras are the brain of your player. It tells the player how to fight and what moves to use more often. Keep in mind that AI potaras work differently for each character and the only real way to see how it will affect your character is to test it. 

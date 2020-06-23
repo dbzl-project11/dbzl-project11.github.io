@@ -1,3 +1,10 @@
+---
+layout: default
+title: General Potara Rules
+nav_order: 2
+parent: Rules
+---
+
 ### Potara Rules
 
 - Unless otherwise specified, all potaras are restricted to 2 per team.

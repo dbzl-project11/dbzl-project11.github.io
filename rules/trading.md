@@ -1,3 +1,9 @@
+---
+layout: default
+title: Trading Characters
+nav_order: 9
+parent: Rules
+---
 ## Player trading
 
 In addition to our drop add window, teams may also initiate direct trades to swap players directly and not have to compete for

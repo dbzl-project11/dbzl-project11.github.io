@@ -1,3 +1,9 @@
+---
+layout: default
+title: League Wide Rules
+nav_order: 1
+parent: Rules
+---
 ## League-wide Rules
 
 - Any team with a healing grab rotated in that week is banned from Eternal Life

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Coaching Rules
+nav_order: 5
+parent: Rules
+---
+
 # Coach Rules
 
 Note to team-members: if you believe your coach isn’t abiding by these rules, then take your concerns PRIVATELY either to the coach themselves or to the Staff. Do NOT make them public.

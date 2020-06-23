@@ -1,3 +1,9 @@
+---
+layout: default
+title: Free Agents
+nav_order: 4
+parent: Rules
+---
 ## Free Agents
 
 Free Agents are characters in BT3 that can be on teams, but are not required to fit the team theme. The intention was that

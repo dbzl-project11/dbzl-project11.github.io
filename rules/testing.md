@@ -1,3 +1,9 @@
+---
+layout: default
+title: Testing Rules
+nav_order: 8
+parent: Rules
+---
 ## Testing
 
 ##### Rules

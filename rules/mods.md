@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mods
+nav_order: 7
+parent: Rules
+---
 ## Modding
 
 Currently, DBZ League makes use of a number of mods to make the league more balanced, and to make certain characters acceptable for use in the league.

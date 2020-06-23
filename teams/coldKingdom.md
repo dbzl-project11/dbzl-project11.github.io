@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cold Kingdom
+nav_order: 5
+parent: Teams
+---
 ## Cold Kingdom
 
 ![](../images/cold.jpg)

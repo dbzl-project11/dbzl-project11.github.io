@@ -1,3 +1,9 @@
+---
+layout: default
+title: Resurrected Warriors
+nav_order: 13
+parent: Teams
+---
 ## Resurrected Warriors
 ![](../images/reswar.jpg)
 

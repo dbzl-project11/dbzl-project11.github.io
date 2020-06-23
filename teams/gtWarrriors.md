@@ -1,9 +1,16 @@
+---
+layout: default
+title: GT
+nav_order: 8
+parent: Teams
+---
 ## Team GT 
 
 ![](../images/gt.jpg)
 
 ##### Theme Description
 - Any character who was introduced or played a significant role in a significant fight in DragonBall GT.
+
 
 ##### Team restrictions:
   -  No combination of builds that can allow SS4 Gogeta to occur will be allowed.

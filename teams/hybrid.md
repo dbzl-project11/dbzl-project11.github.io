@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hybrids
+nav_order: 9
+parent: Teams
+---
 ## Hybrid
 ![](../images/hybrids.jpg)
 

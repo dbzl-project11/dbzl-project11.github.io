@@ -1,3 +1,9 @@
+---
+layout: default
+title: Earth Defenders
+nav_order: 7
+parent: Teams
+---
 ## Earth Defenders
 
 ![](../images/ed.jpg)

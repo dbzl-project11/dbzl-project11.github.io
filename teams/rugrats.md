@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rugrats
+nav_order: 15
+parent: Teams
+---
 ## Rugrats
 ![](../images/rugrat.jpg)
 

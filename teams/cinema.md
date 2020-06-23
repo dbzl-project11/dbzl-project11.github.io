@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cinema
+nav_order: 4
+parent: Teams
+---
 ## Cinema
 
 ![](../images/cinema.jpg)

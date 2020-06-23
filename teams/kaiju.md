@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kaiju
+nav_order: 10
+parent: Teams
+---
 ## Kaiju
  ![](../images/kaiju.jpg)
 

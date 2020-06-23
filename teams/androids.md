@@ -1,3 +1,9 @@
+---
+layout: default
+title: Androids
+nav_order: 1
+parent: teams
+---
 ## Androids 
 
 ![](../images/androids.jpg)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Namek
+nav_order: 12
+parent: Teams
+---
 ## Namek
 ![](../images/namek.jpg)
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Derp
+nav_order: 6
+parent: Teams
+---
 ## Derp
 
 ![](../images/derp.jpg)

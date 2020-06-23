@@ -1,3 +1,9 @@
+---
+layout: default
+title: Buujins
+nav_order: 3
+parent: Teams
+---
 ## Buujins
 
 ![](../images/buujins.jpg)

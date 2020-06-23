@@ -1,3 +1,9 @@
+---
+layout: default
+title: Royals
+nav_order: 14
+parent: Teams
+---
 ## Royals
 ![](../images/royals.jpg)
 

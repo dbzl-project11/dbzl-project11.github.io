@@ -1,3 +1,9 @@
+---
+layout: default
+title: Budokai
+nav_order: 2
+parent: Teams
+---
 ## Budokai
 
 ![](../images/budokai.jpg)

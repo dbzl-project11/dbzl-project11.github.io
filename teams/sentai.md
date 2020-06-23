@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sentai Squad
+nav_order: 16
+parent: Teams
+---
 ## Sentai Squad
 ![](../images/sentai.jpg)
 

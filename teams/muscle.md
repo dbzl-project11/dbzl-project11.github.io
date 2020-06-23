@@ -1,3 +1,9 @@
+---
+layout: default
+title: Muscle
+nav_order: 11
+parent: Teams
+---
 ## Muscle
 ![](../images/muscle.jpg)
 

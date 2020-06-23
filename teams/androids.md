@@ -2,7 +2,7 @@
 layout: default
 title: Androids
 nav_order: 1
-parent: teams
+parent: Teams
 ---
 ## Androids 
 

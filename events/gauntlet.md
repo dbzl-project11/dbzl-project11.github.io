@@ -7,20 +7,33 @@ parent: League Events
 ## Gauntlet
 
 
-The Gauntlet is one the major events we are planning on doing during the off-season. It involves Division teams fighting off against the very toughest opponents Budokai Tenkaichi 3 has to offer. To create the team, one character from each of the four teams in a division are chosen, creating a five-player team for each division. However, rather than have a team decide on their own Gauntlet character, the other 2 teams in their division will decide for them. For example, in North Kai Cold would have NO SAY in who goes from their team is picked to go to the Gauntlet. The Earth's Defenders, and Buus will decide. Once those two teams have decided, then all three teams can collaborate on that players build. This five-player team is comprised of;
+The Gauntlet is one the major events we are planning on doing during the off-season. It involves Division teams fighting off 
+against the very toughest opponents Budokai Tenkaichi 3 has to offer. To create the team, one character from each of the four teams 
+in a division are chosen, along with a second character from any of the teams, creating a five-player team for each division. 
+However, rather than have a team decide on their own Gauntlet character, the other 2 teams in their division will decide for them. 
 
-    1 from each active team in a kai (determined by the other teams in the kai like normal)
-    1 from your assigned inactive team (determined as a group consensus)
-    1 from the active teams (determined as a group consensus. This one you may vote on someone from your own team, just please be kind to the other members of your kai)
+For example, in a Kai comprised of the Earth Defenders, Cold Kingdom, Buujins and Androids, Cold Kingdom would have NO SAY in who goes 
+from their team to the Gauntlet. The Earth's Defenders, Androids and Buujins will decide. Once those teams have decided, then all four teams
+ can collaborate on that players build. 
 
-Along with this, we are not allowing FAs into the gauntlet line normal. Unless they belong to an inactive team's base roster. Meaning west kai may use tapion if they desire. But nobody may use nuova shenron, vegito, etc.
-
-Season 10 Gauntlet teams:
+Note that Free Agents are not allowed to participate.
+   
+## Gauntlet teams
 
 ### Round 1 The Super Saiyans 
 These fighters have been retired specifically because they were too overbearing in the main competition. 5 Fighters): 
 
-To have a fairly tough challenge right off the bat, we have the retired Super Saiyans. All of this team's builds will be a maximum of 7 points, will adhere to the normal customization rules when they were still in the main season (only one EL, no duplicate blues, and be built like a normal team. However, Savior and Master Blast bannings are not in effect so they are allowed.), and teams will know their builds so that they may try and counter them. The only exception that the Staff have made is that we are not limiting the team to their SSJ1 form. This serves two purposes; To be an even harder challenge, and to also not give the teams that picked up these characters free information. No red potaras are allowed.
+To have a fairly tough challenge right off the bat, we have the retired Super Saiyans. All of this team's builds will be a maximum 
+of 7 points, will adhere to the normal customization rules when they were still in the main season (only one EL, no duplicate blues, 
+and be built like a normal team. However, Savior and Master Blast bannings are not in effect so they are allowed.), and teams 
+will know their builds so that they may try and counter them. The only exception that the Staff have made is that the SSJs are not required 
+to their SSJ1 form. 
+
+This serves two purposes:
+- To be an even harder challenge.
+- to also not give the teams that picked up these characters free information. 
+
+No red potaras are allowed.
 
 #### Round 1 builds:
 
@@ -61,7 +74,10 @@ To have a fairly tough challenge right off the bat, we have the retired Super Sa
 ### Round 2 The Banned 
 
 These fighters have much higher base stats than normal characters, and will not be added to any team's base rosters. 4 Fighters) - 
-To continue the challenge, all builds will have a maximum of 10 points, and will be given a free Master Roshi's Training. Meaning each character will have 50k HP.  All of this team's builds will adhere to any restrictions on those characters, and will adhere to the normal customization rules (only one EL, no duplicate blues, and be built like a normal team). Still, no red potaras are allowed.
+To continue the challenge, all builds will have a maximum of 10 points, and will be given a free Master Roshi's Training.
+ Meaning each character will have 50k HP.  All of this team's builds will adhere to any restrictions on those characters, 
+ and will adhere to the normal customization rules (only one EL, no duplicate blues, and be built like a normal team). 
+ Still, no red potaras are allowed.
 
 #### Round 2 builds
 
@@ -101,7 +117,10 @@ To continue the challenge, all builds will have a maximum of 10 points, and will
 
 ### Round 3 The Overpowered 
 
-The combination of Characters, Potaras, AIs, and Starting Forms which have been banned due to being too powerful. 4 Fighters) - This team's builds will have a maximum of 15 points and be given a free King Kai's Training. Meaning each character will have 60k HP. This round will not adhere to the normal customization rules (meaning duplicates are allowed). No red potaras still.
+The combination of Characters, Potaras, AIs, and Starting Forms which have been banned due to being too powerful. 4 Fighters) - 
+This team's builds will have a maximum of 15 points and be given a free King Kai's Training. 
+Meaning each character will have 60k HP. This round will not adhere to the normal customization rules (meaning duplicates are allowed). 
+No red potaras still.
 
 #### Round 3 Builds
 
@@ -141,23 +160,29 @@ The combination of Characters, Potaras, AIs, and Starting Forms which have been 
     
 ### Round 4 (The ???, 5 Fighters) - 
 
-This team's builds will not have any point maximum, will not adhere to any restrictions, and all red potaras are allowed. Each character will be given the "Max HP" red potara, meaning each character will have 70k HP.
+This team's builds will not have any point maximum, will not adhere to any restrictions, and all red potaras are allowed. 
+Each character will be given the "Max HP" red potara, meaning each character will have 70k HP.
 
 ### Final notes
 Along with this, we are including the following to build around;
 
-1) For the gauntlet only, the customization limits are increased to 8 pts.
+1. For the gauntlet only, the customization limits are increased to 8 pts.
 
-2) The following potaras are now allowed for the gauntlet only:
-    - Water Blessing (4) - The effects of EL, and High Tension while underwater (Normally 1 pt, counts as 4pts, max 1 per team)
-    - Satisfying Blow (3) - Your Supers ignore the effects of brick walls, and you get Ki -1 (Normally 1 pt, counts as 3 pts, max 1 per team)
-    - Master Roshi's Training (2) - Gain 10k max HP (Max 1 per team)
-    - 18's kiss (5) - Gain dragon homing and vanishing attack +2 (Normally 7 pts, counts as 5 pts)
-    - Medical Machine (7) - The effects of EL, KSA, and High Tension. (Max 1 per team)
+2. The gauntlet teams may designate one character to "Shatter the Limit". Meaning that any/all restrictions normally on them are removed. For example, that character may use any form (GT Goku starting in SSJ4), 
+Potara (such as using EL if Cell starts in base form), etc. they wish. However, there is a price! that character's build 
+limit will be 5 pts, and the potaras they use may not be used on any other member of the team. 
 
-3) The gauntlet teams may designate one character to "Shatter the Limit". Meaning that any/all restrictions normally on them are removed. For example, that character may use any form (GT starting with SSJ4), Potara (EL when Android 13 is on the team), etc. they wish. However, there is a price! that character's build limit is now lowered to 5 pts, and all of the potaras they use may not be used on any other member of the team.
+2. The following potaras are now allowed for the gauntlet only:
+- Water Blessing (4) - The effects of EL, and High Tension while underwater (Normally 1 pt, counts as 4pts, max 1 per team)
+- Satisfying Blow (3) - Your Supers ignore the effects of brick walls, and you get Ki -1 (Normally 1 pt, counts as 3 pts, max 1 per team)
+- Master Roshi's Training (2) - Gain 10k max HP (Max 1 per team)
+- 18's kiss (5) - Gain dragon homing and vanishing attack +2 (Normally 7 pts, counts as 5 pts)
+- Medical Machine (7) - The effects of EL, KSA, and High Tension. (Max 1 per team)
 
-Please note: For the "Water Blessing" and "Medical Machine" potaras, any characters that are normally banned from EL are also banned from them. Same deal with "Medical Machine" and KSA. However, you can use your "SHATTER THE LIMIT" to bypass all of these restrictions. Along with this, we have decided to allow Medical Machine to be your only potara on that build if you so desire on a character that has "SHATTERED THE LIMIT". However this is the only instance, and this will be your entire build.
+Please note: For the "Water Blessing" and "Medical Machine" potaras, any characters that are normally banned from EL are also banned from them. 
+Same deal with "Medical Machine" and KSA. However, you can use your "SHATTER THE LIMIT" to bypass all of these restrictions. 
+Along with this, we have decided to allow Medical Machine to be your only potara on that build if you so desire on a character that has "SHATTERED THE LIMIT". 
+However this is the only instance, and this will be your entire build.
 
-The deadline for the Gauntlet team builds will be the Wednesday before the bowl.
+The deadline for the Gauntlet team builds will be the Wednesday before the event.
  

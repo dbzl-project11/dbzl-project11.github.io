@@ -119,7 +119,7 @@ parent: 2020 Season
     * Combo Master (1)
     * Light Body (1)
     * Ginyu AI
-* Buu
+* Super Buu
     * Attack +2 Defense -1 (1)
     * Serious! (1)
     * Quick Fast Attack (1)

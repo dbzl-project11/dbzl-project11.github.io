@@ -7,13 +7,13 @@ parent: Teams
 ## Namek
 ![](../images/namek.jpg)
 
-##### Theme Description
+### Theme Description
 - Any fighter that is a Namekian or one of their creations.
 
-##### Team restrictions:
+### Team restrictions:
   - N/A 
 
-##### Current Roster and specific player restrictions
+### Current Roster and specific player restrictions
 
 - King Piccolo
 - Nuova Shenron
@@ -21,7 +21,7 @@ parent: Teams
 - Nail
 - Tambourine
 
-##### Master List
+### Master List
 - Early Piccolo
 - King Piccolo
 - Late Piccolo

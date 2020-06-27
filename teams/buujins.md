@@ -8,13 +8,13 @@ parent: Teams
 
 ![](../images/buujins.jpg)
 
-##### Theme Description
+### Theme Description
 - The various minions of the sorcerer Babidi and iterations of Majin Buu.
 
-##### Team restrictions:
+### Team restrictions:
   - If they have Super Buu, he must start in base form.
 
-##### Current Roster and specific player restrictions
+### Current Roster and specific player restrictions
 
 - Majin Buu
 - Super Buu
@@ -22,7 +22,7 @@ parent: Teams
 - Kid Buu
 - Majuub
   
-##### Master List
+### Master List
 - Babidi
 - Dabura
 - Evil Buu

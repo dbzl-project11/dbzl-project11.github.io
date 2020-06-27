@@ -8,13 +8,13 @@ parent: Teams
 
 ![](../images/androids.jpg)
 
-##### Theme Description
+### Theme Description
 - Any robot, cyborg, or android like character
 
-##### Team restrictions:
+### Team restrictions:
   -  Banned from Eternal Life if Cell is in their lineup and starts in base or Semi-Perfect forms.
 
-##### Current Roster and specific player restrictions
+### Current Roster and specific player restrictions
 
 - Cell
   -  Banned from using Recoome AI if he can gain health from his grabs.
@@ -28,7 +28,7 @@ parent: Teams
 - Android 19
   - Banned from Recoome AI.
   
-##### Master List
+### Master List
   - Android 13
   - Android 16
   - Android 17

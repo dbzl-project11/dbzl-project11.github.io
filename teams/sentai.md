@@ -7,13 +7,13 @@ parent: Teams
 ## Sentai Squad
 ![](../images/sentai.jpg)
 
-##### Theme Description
+### Theme Description
 - Anyone who makes poses such as the ones found in a sentai series and is known in series for such poses.
 
-##### Team restrictions:
+### Team restrictions:
   - N/A 
 
-##### Current Roster and specific player restrictions
+### Current Roster and specific player restrictions
 
 - Jeice
 - Burter
@@ -21,7 +21,7 @@ parent: Teams
 - Saiyaman
 - Saiyawoman
 
-##### Master List
+### Master List
 - Burter
 - Captain Ginyu
 - Guldo

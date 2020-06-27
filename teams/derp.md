@@ -8,13 +8,13 @@ parent: Teams
 
 ![](../images/derp.jpg)
 
-##### Theme Description
+### Theme Description
 - Any fighter who were supposed to be powerful but were made to look so weak it was stupid.
 
-##### Team restrictions:
+### Team restrictions:
   - N/A
 
-##### Current Roster and specific player restrictions:
+### Current Roster and specific player restrictions:
 
 - Hercule
 - Salza
@@ -24,7 +24,7 @@ parent: Teams
 - Dr. Gero (Android 20)
   - Banned from Recoome AI.
 
-##### Master List
+### Master List
 - Android 19
 - Appule
 - Cui

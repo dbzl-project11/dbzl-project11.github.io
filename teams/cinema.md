@@ -8,13 +8,13 @@ parent: Teams
 
 ![](../images/cinema.jpg)
 
-##### Theme Description
+### Theme Description
 - Any character that first appeared in a movie or OVA before appearing in the official DB manga or anime (if they appeared there at all).
 
-##### Team restrictions:
+### Team restrictions:
 -N/A
 
-##### Current Roster and specific player restrictions:
+### Current Roster and specific player restrictions:
 
 - Turles
 - Garlic Jr
@@ -23,7 +23,7 @@ parent: Teams
 - Zangya
 - Fasha
   
-##### Master List
+### Master List
 - Android 13
 - Arale
   - First appeared in Dr. Slump movies before DB existed. So she technically counts.

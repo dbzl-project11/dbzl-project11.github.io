@@ -7,14 +7,14 @@ parent: Teams
 ## Kaiju
  ![](../images/kaiju.jpg)
 
-##### Theme Description
+### Theme Description
 - Any character that can transform into a giant.
 
-##### Team restrictions:
+### Team restrictions:
   - May not have a free Broly's Ring as a limiter. Broly's Ring may still be used as a normal 1 point potara or via purchase in the boost store.
   - All character must start in base form. Base form cannot be giant.
 
-##### Current Roster and Specific Player restrictions
+### Current Roster and Specific Player restrictions
 
 - King Vegeta
 - Scouter Vegeta
@@ -23,7 +23,7 @@ parent: Teams
 - Raditz
 - Bardock
 
-##### Master List
+### Master List
 - Baby Vegeta 
 - Bardock
 - Fasha

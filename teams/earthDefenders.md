@@ -8,13 +8,13 @@ parent: Teams
 
 ![](../images/ed.jpg)
 
-##### Theme Description 
+### Theme Description 
 - The main good guys in the "Dragon Ball Z" series until the end of the Android saga. Nicknamed "The Z fighters" (A form of Goku must be on the team)
 
-##### Team restrictions:
+### Team restrictions:
   - N/A
 
-##### Current Roster and specific player restrictions
+### Current Roster and specific player restrictions
 
 - Krillin
 - Mid Goku
@@ -25,7 +25,7 @@ parent: Teams
   - Must start in base form or SSJ1
   - Banned from Master Blast, and Rush Blast (2)
   
-##### Master List
+### Master List
 - Android 16 
 - Chiaotzu
 - Early Goku

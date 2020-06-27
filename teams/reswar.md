@@ -7,13 +7,13 @@ parent: Teams
 ## Resurrected Warriors
 ![](../images/reswar.jpg)
 
-##### Theme Description
+### Theme Description
 - Any character who was actually resurrected via use of the DragonBalls or Whis' time rewind ability.
 
-##### Team restrictions:
+### Team restrictions:
  - N/A
  
-##### Current Roster and specific player restrictions
+### Current Roster and specific player restrictions
 
 - Android 18
 - Videl
@@ -24,7 +24,7 @@ parent: Teams
   - Must start in either SSJ1 form, or Base form.
   - Banned from Master Blast, and Rush Blast (2)
 
-##### Master List
+### Master List
 - Adult Trunks
 - Android 18
 - Android 17

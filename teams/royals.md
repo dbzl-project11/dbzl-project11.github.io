@@ -7,12 +7,12 @@ parent: Teams
 ## Royals
 ![](../images/royals.jpg)
 
-##### Theme Description
+### Theme Description
 - Characters that have been given or gave themselves a royal title in the show
 
-##### Team restrictions
-
-##### Current Roster and specific player restrictions
+### Team restrictions
+    - N/A
+### Current Roster and specific player restrictions
 
 - Lord Slug
     - Must start in base form.
@@ -23,7 +23,7 @@ parent: Teams
 - Emperor Pilaf
     - Must start in base form.
 
-##### Master List
+### Master List
 - Lord Cooler
 - Demon King Dabura
 - (Prince) End Vegeta

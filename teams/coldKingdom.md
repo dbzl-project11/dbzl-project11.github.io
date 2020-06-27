@@ -8,13 +8,13 @@ parent: Teams
 
 ![](../images/cold.jpg)
 
-##### Theme Description
+### Theme Description
 - Any member of the Cold family or those they ruled over. Saiyans are not included. 
 
-##### Team restrictions:
+### Team restrictions:
   - Banned from Eternal Life if they have access to 2 or more healing transformations between Frieza and Cooler.
 
-##### Current Roster and specific player restrictions:
+### Current Roster and specific player restrictions:
 
 - Metacooler
 - Frieza
@@ -23,7 +23,7 @@ parent: Teams
 - Recoome
 - King Cold
   
-##### Master List
+### Master List
 - Appule
 - Burter
 - Cooler

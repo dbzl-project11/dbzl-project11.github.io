@@ -8,14 +8,14 @@ parent: Teams
 
 ![](../images/gt.jpg)
 
-##### Theme Description
+### Theme Description
 - Any character who was introduced or played a significant role in a significant fight in DragonBall GT.
 
 
-##### Team restrictions:
+### Team restrictions:
   -  No combination of builds that can allow SS4 Gogeta to occur will be allowed.
 
-##### Current Roster and specific player restrictions
+### Current Roster and specific player restrictions
 
 - GT Goku
   -  Cannot start in SS4.
@@ -30,7 +30,7 @@ parent: Teams
 - Pan
   - N/A
   
-##### Master List
+### Master List
   - Android 18
   - Baby Vegeta
   - End Goku

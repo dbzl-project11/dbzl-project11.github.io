@@ -7,13 +7,13 @@ parent: Teams
 ## Hybrid
 ![](../images/hybrids.jpg)
 
-##### Theme Description
+### Theme Description
 - Any character who is a Saiyan/Human hybrid. 
 
-##### Team Specific Restrictions
+### Team Specific Restrictions
 - N/A
 
-##### Current Roster and player specific restrictions
+### Current Roster and player specific restrictions
 
 - Sword Trunks
 - Future Gohan
@@ -23,7 +23,7 @@ parent: Teams
   - Cannot start in SSJ2 form.
   - If he can transform into SSJ2 form, he cannot have Kibito's Secret Art or Secret Measures.
   
-##### Master List
+### Master List
 - Adult Trunks
 - Future Gohan
 - Goten

@@ -336,7 +336,7 @@ parent: 2020 Season
 </details>
 
 <details>
-  <summary>Androids</summary>
+  <summary>Hybrids</summary>
   
 * Weekly Bench: Sword Trunks
 * Boost Store: None

@@ -567,7 +567,6 @@ parent: 2020 Season
     * Launch's Support (2)
     * Quick Fast Attack (1)
     * Serious (1)
-    * Serious (1)
     * Chaiotzu AI
 * Trunks (base): Costume 1
     * Attack +2 Defense -1 (1)
@@ -578,7 +577,6 @@ parent: 2020 Season
     * Broly's Ring (free)
     * Chaiotzu AI
 * Cell Jr.: Costume 1
-    * Defense +2 Attack -1 (1)
     * Defense +2 Attack -1 (1)
     * Fighting Spirit (1)
     * Light Body (1)

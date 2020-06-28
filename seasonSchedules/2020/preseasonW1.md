@@ -12,7 +12,7 @@ parent: 2020 Season
 | 2             | Kaiju                 | Budokai          | Budokai         |
 | 3             | Muscle                | Buujins          | Muscle          |
 | 4             | Namek                 | Cinema           | Namek           |
-| 5             | Resurrected Warrirors | Cold Kingdom     | Resurrected Warrirors |
+| 5             | Resurrected Warriors  | Cold Kingdom     | Resurrected Warriors |
 | 6             | Royals                | Derp             | Derp            |
 | 7             | Rugrats               | Earth Defenders  | Earth Defenders | 
 | 8             | Sentai Squad          | GT               | Sentai Squad    |

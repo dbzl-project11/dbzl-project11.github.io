@@ -36,7 +36,9 @@ This serves two purposes:
 No red potaras are allowed.
 
 #### Round 1 builds:
-
+<details>
+  <summary>Round 1 builds - click to reveal</summary>
+  
 - Mid Vegeta (SSJ2)
     - Attack +2 Defense -1 (1)
     - Serious! (1)
@@ -70,7 +72,9 @@ No red potaras are allowed.
     - Savior (1)
     - Master Blast (1)
     - Kibito's Secret Art (2) 
-    
+
+</details>
+
 ### Round 2 The Banned 
 
 These fighters have much higher base stats than normal characters, and will not be added to any team's base rosters. 4 Fighters) - 
@@ -81,6 +85,9 @@ To continue the challenge, all builds will have a maximum of 10 points, and will
 
 #### Round 2 builds
 
+<details>
+  <summary>Round 2 Builds - click to reveal</summary>
+  
 - Super 17
     - Defense +3 Attack -1 (1)
     - Latent Energy! (1)
@@ -115,6 +122,8 @@ To continue the challenge, all builds will have a maximum of 10 points, and will
     - Dragon Power (3)
     - Master Roshi's Training (Free) 
 
+</details> 
+
 ### Round 3 The Overpowered 
 
 The combination of Characters, Potaras, AIs, and Starting Forms which have been banned due to being too powerful. 4 Fighters) - 
@@ -124,6 +133,9 @@ No red potaras still.
 
 #### Round 3 Builds
 
+<details>
+  <summary>Round 3 builds - click to reveal</summary>
+  
 - Semi-perfect Cell
     - Defense +3 (3)
     - Master Throw (1)
@@ -157,7 +169,9 @@ No red potaras still.
     - Spiritual Control (3)
     - Style of the Strong (4)
     - King Kai's training (Free)
-    
+
+</details> 
+
 ### Round 4 (The ???, 5 Fighters) - 
 
 This team's builds will not have any point maximum, will not adhere to any restrictions, and all red potaras are allowed. 

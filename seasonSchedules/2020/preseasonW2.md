@@ -23,6 +23,8 @@ parent: 2020 Season
 <details>
   <summary>Androids</summary>
   
+* Home Map: Glacier
+* Music: Boss Ganges
 * Weekly Bench: 
 * Boost Store: None
 
@@ -44,14 +46,18 @@ parent: 2020 Season
 <details>
   <summary>Buujins</summary>
 
-* Benched:
+* Home Map: Supreme Kai's World
+* Music: Nanshan
+* Bench:
 
 </details>
 
 <details>
   <summary>Cinema</summary>
   
- * Weekly Bench: 
+* Home Map: Hell
+* Music: Warlord F
+* Bench: 
 
 
 </details>
@@ -59,66 +65,82 @@ parent: 2020 Season
 <details>
   <summary>Cold Kingdom </summary>
   
+* Home Map: Broly's Planet
+* Music: Paranoia
 * Bench: 
+
 </details>
 
 <details>
   <summary>Derp</summary>
   
-* Weekly Bench:
+* Home Map: Penguin Village
+* Music: War Begins
+* Bench:
 
 </details>
 
 <details>
   <summary>Earth Defenders</summary>
   
-* Weekly Bench: 
+* Home Map: Mt. Paozu
+* Music: Aether
+* Bench: 
 
 </details>
 
 <details>
   <summary>GT</summary>
   
-* Weekly Bench: 
-* Boost Store: 
+* Home Map: Kings Castle
+* Music: Turbulence
+* Bench: 
+
 </details>
 
 <details>
   <summary>Hybrids</summary>
   
-* Weekly Bench: 
-* Boost Store:
+* Home Map: Wastelands
+* Music: Dragon Castle
+* Bench: 
+
 
 </details>
 
 <details>
   <summary>Kaiju</summary>
   
-* Weekly Bench: 
-* Boost Store: 
+* Home Map: Rocky Area
+* Music: Crongus
+* Bench: 
+
 </details>
 
 <details>
   <summary>Muscle</summary>
   
-* Weekly Bench: 
-* Boost Store: 
+* Home Map: Muscle Tower
+* Music: Epic Boss Fight
+* Bench: 
 
 </details>
 
 <details>
   <summary>Namek</summary>
   
-* Weekly Bench: 
-* Boost Store: 
+* Home Map: Kami's Lookout
+* Music: Fight me if you can
+* Bench: 
 
 </details>
 
 <details>
   <summary>Resurrected Warriors</summary>
   
-* Weekly Bench: 
-* Boost Store: 
+* Home Map: Desert
+* Music: Action Fight
+* Bench: 
 
 </details>
 
@@ -126,22 +148,26 @@ parent: 2020 Season
 <details>
   <summary>Royals</summary>
   
-* Weekly Bench: 
-* Boost Store: 
+* Home Map: Hyperbolic Time Chamber
+* Music: Thunder
+* Bench: 
+
 </details>
 
 <details>
   <summary>Rugrats</summary>
   
-* Weekly Bench: 
-* Boost Store: 
+* Home Map: City Ruins
+* Music: Nanga-F
+* Bench: 
 
 </details>
 
 <details>
   <summary>Sentai Squad</summary>
   
-* Weekly Bench:  
-* Boost Store: 
+* Home Map: Frieza's Ship
+* Music: Hurricane
+* Bench:  
 
 </details>

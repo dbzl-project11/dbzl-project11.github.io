@@ -22,7 +22,7 @@ parent: 2020 Season
 
 <details>
   <summary>Androids</summary>
-  
+<br />  
 <br />Home Map: Glacier
 <br />Music: Boss Ganges
 <br />Weekly Bench: 16

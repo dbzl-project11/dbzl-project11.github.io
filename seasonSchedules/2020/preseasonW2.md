@@ -22,11 +22,11 @@ parent: 2020 Season
 
 <details>
   <summary>Androids</summary>
-  
-* Home Map: Glacier
-* Music: Boss Ganges
-* Weekly Bench: Cell
-* Boost Store: None
+ <br /> 
+<br />Home Map: Glacier
+<br />Music: Boss Ganges
+<br />Weekly Bench: Cell
+<br />Boost Store: None
 
 * Android 16:
     * Attack +2, Defense -1 (1)
@@ -66,11 +66,11 @@ parent: 2020 Season
 
 <details>
   <summary>Budokai</summary>
-
-* Home Map: Planet Namek
-* Music: Boss Battle Rock
-* Weekly bench: Early Goku
-* Boosts: N/A
+<br />
+<br />Home Map: Planet Namek
+<br />Music: Boss Battle Rock
+<br />Weekly bench: Early Goku
+<br />Boosts: N/A
 
 * Kid Goku
     * Attack +2 Defense -1 (1)
@@ -110,11 +110,11 @@ parent: 2020 Season
 
 <details>
   <summary>Buujins</summary>
-
-* Home Map: Supreme Kai's World
-* Music: Nanshan
-* Bench: Super Buu
-* Boosts: N/A
+<br />
+<br />Home Map: Supreme Kai's World
+<br />Music: Nanshan
+<br />Bench: Super Buu
+<br />Boosts: N/A
 
 * Majuub
     * Attack +1 (1)
@@ -152,11 +152,11 @@ parent: 2020 Season
 
 <details>
   <summary>Cinema</summary>
-  
-* Home Map: Hell
-* Music: Warlord F
-* Bench: Garlic Jr. (Base Form)
-* Boosts: N/A
+  <br />
+<br />Home Map: Hell
+<br />Music: Warlord F
+<br />Bench: Garlic Jr. (Base Form)
+<br />Boosts: N/A
 
 * Turles
     * Defense +3 Attack -1 (2)
@@ -192,11 +192,11 @@ parent: 2020 Season
 
 <details>
   <summary>Cold Kingdom </summary>
-  
-* Home Map: Broly's Planet
-* Music: Paranoia
-* Bench: Cooler
-* Boosts: N/A
+  <br />
+<br />Home Map: Broly's Planet
+<br />Music: Paranoia
+<br />Bench: Cooler
+<br />Boosts: N/A
 
 * Meta Cooler
     * Defense +2(2)
@@ -233,11 +233,11 @@ parent: 2020 Season
 
 <details>
   <summary>Derp</summary>
-  
-* Home Map: Penguin Village
-* Music: War Begins
-* Bench: Dr. Gero/Android 20
-* Boosts: N/A
+  <br />
+<br />Home Map: Penguin Village
+<br />Music: War Begins
+<br />Bench: Dr. Gero/Android 20
+<br />Boosts: N/A
 
 
 * Kibito
@@ -274,11 +274,11 @@ parent: 2020 Season
 
 <details>
   <summary>Earth Defenders</summary>
-  
-* Home Map: Mt. Paozu
-* Music: Aether
-* Bench: Krillin
-* Boosts: N/A
+  <br />
+<br />Home Map: Mt. Paozu
+<br />Music: Aether
+<br />Bench: Krillin
+<br />Boosts: N/A
 
 * Notes - Yamcha’s latent energy was randomized off due to his build being 8 points.
  
@@ -322,11 +322,11 @@ parent: 2020 Season
 
 <details>
   <summary>GT</summary>
-  
-* Home Map: Kings Castle
-* Music: Turbulence
-* Bench: Baby Vegeta
-* Boosts: N/A
+  <br />
+<br />Home Map: Kings Castle
+<br />Music: Turbulence
+<br />Bench: Baby Vegeta
+<br />Boosts: N/A
 
 * Syn Shenron
     * Ki 1
@@ -366,11 +366,11 @@ parent: 2020 Season
 
 <details>
   <summary>Hybrids</summary>
-  
-* Home Map: Wastelands
-* Music: Dragon Castle
-* Bench: Kid Gohan
-* Boosts: N/A
+  <br />
+<br />Home Map: Wastelands
+<br />Music: Dragon Castle
+<br />Bench: Kid Gohan
+<br />Boosts: N/A
 
  
 * Ultimate Gohan
@@ -411,11 +411,11 @@ parent: 2020 Season
 
 <details>
   <summary>Kaiju</summary>
-  
-* Home Map: Rocky Area
-* Music: Crongus
-* Bench: Raditz
-* Boosts: N/A
+  <br />
+<br />Home Map: Rocky Area
+<br />Music: Crongus
+<br />Bench: Raditz
+<br />Boosts: N/A
 
 * Bardock
     * Attack +2 Defense -1 (1)
@@ -453,11 +453,11 @@ parent: 2020 Season
 
 <details>
   <summary>Muscle</summary>
-  
-* Home Map: Muscle Tower
-* Music: Epic Boss Fight
-* Bench: Roshi
-* Boosts: N/A
+  <br />
+<br />Home Map: Muscle Tower
+<br />Music: Epic Boss Fight
+<br />Bench: Roshi
+<br />Boosts: N/A
 
 * SSJ Broly
     * Attack +2 Def -1
@@ -495,11 +495,11 @@ parent: 2020 Season
 
 <details>
   <summary>Namek</summary>
-  
-* Home Map: Kami's Lookout
-* Music: Fight me if you can
-* Bench: Tambourine
-* Boosts: N/A
+  <br />
+<br />Home Map: Kami's Lookout
+<br />Music: Fight me if you can
+<br />Bench: Tambourine
+<br />Boosts: N/A
 
 * Late Piccolo
     * Defense+2
@@ -537,11 +537,11 @@ parent: 2020 Season
 
 <details>
   <summary>Resurrected Warriors</summary>
-  
-* Home Map: Desert
-* Music: Action Fight
-* Bench: End Vegeta
-* Boosts: N/A
+  <br />
+<br />Home Map: Desert
+<br />Music: Action Fight
+<br />Bench: End Vegeta
+<br />Boosts: N/A
 
  
 * Eighter -Costume 1
@@ -579,11 +579,11 @@ parent: 2020 Season
 
 <details>
   <summary>Royals</summary>
-  
-* Home Map: Hyperbolic Time Chamber
-* Music: Thunder
-* Bench: Majin Vegeta
-* Boosts: N/A
+  <br />
+<br />* Home Map: Hyperbolic Time Chamber
+<br />Music: Thunder
+<br />Bench: Majin Vegeta
+<br />Boosts: N/A
 
 * Slug
     * Defense +3 ATK -1 (2)
@@ -621,11 +621,11 @@ parent: 2020 Season
 
 <details>
   <summary>Rugrats</summary>
-  
-* Home Map: City Ruins (Night)
-* Music: Nanga-F
-* Bench: Arale
-* Boosts: N/A
+<br />  
+<br />Home Map: City Ruins (Night)
+<br />Music: Nanga-F
+<br />Bench: Arale
+<br />Boosts: N/A
 
 * Saibaman
     * Defense +3 Atk -1 (2)
@@ -662,11 +662,11 @@ parent: 2020 Season
 
 <details>
   <summary>Sentai Squad</summary>
-  
-* Home Map: Frieza's Ship
-* Music: Hurricane
-* Bench: Jeice
-* Boosts: N/A
+  <br />
+<br />Home Map: Frieza's Ship
+<br />Music: Hurricane
+<br />Bench: Jeice
+<br />Boosts: N/A
 
 * Saiyawoman - Costume 2
     * Attack +1 (1)

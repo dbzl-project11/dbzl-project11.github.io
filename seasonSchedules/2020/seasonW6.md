@@ -23,11 +23,11 @@ parent: 2020 Season
 
 <details>
   <summary>Androids</summary>
-  
-* Home Map: Glacier
-* Music: Boss Ganges
-* Weekly Bench: 
-* Boost Store: None
+  <br />
+<br />Home Map: Glacier
+<br />Music: Boss Ganges
+<br />Weekly Bench: 
+<br />Boost Store: None
 
 
 </details>
@@ -35,10 +35,11 @@ parent: 2020 Season
 <details>
   <summary>Budokai</summary>
 
-* Home Map: Planet Namek
-* Music: Boss Battle Rock
-* Weekly bench: 
-* Boosts: N/A
+<br />
+<br />Home Map: Planet Namek
+<br />Music: Boss Battle Rock
+<br />Weekly bench: 
+<br />Boosts: N/A
 
 
 
@@ -46,129 +47,141 @@ parent: 2020 Season
 
 <details>
   <summary>Buujins</summary>
-
-* Home Map: Supreme Kai's World
-* Music: Nanshan
-* Bench:
+<br />
+<br /> Home Map: Supreme Kai's World
+<br />Music: Nanshan
+<br />Bench:
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>Cinema</summary>
-  
-* Home Map: Hell
-* Music: Warlord F
-* Bench: 
-
+<br />  
+<br />Home Map: Hell
+<br />Music: Warlord F
+<br />Bench: 
+<br />Boosts: 
 
 </details>
 
 <details>
   <summary>Cold Kingdom </summary>
-  
-* Home Map: Broly's Planet
-* Music: Paranoia
-* Bench: 
+  <br />
+<br />Home Map: Broly's Planet
+<br />Music: Paranoia
+<br />Bench: 
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>Derp</summary>
-  
-* Home Map: Penguin Village
-* Music: War Begins
-* Bench:
+<br />  
+<br />Home Map: Penguin Village
+<br />Music: War Begins
+<br />Bench:
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>Earth Defenders</summary>
-  
-* Home Map: Mt. Paozu
-* Music: Aether
-* Bench: 
+  <br />
+<br />Home Map: Mt. Paozu
+<br />Music: Aether
+<br />Bench: 
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>GT</summary>
-  
-* Home Map: Kings Castle
-* Music: Turbulence
-* Bench: 
+<br />  
+<br />Home Map: Kings Castle
+<br />Music: Turbulence
+<br />Bench: 
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>Hybrids</summary>
-  
-* Home Map: Wastelands
-* Music: Dragon Castle
-* Bench: 
-
+<br />  
+<br />Home Map: Wastelands
+<br />Music: Dragon Castle
+<br />Bench: 
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>Kaiju</summary>
-  
-* Home Map: Rocky Area
-* Music: Crongus
-* Bench: 
+<br />  
+<br />Home Map: Rocky Area
+<br />Music: Crongus
+<br />Bench: 
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>Muscle</summary>
-  
-* Home Map: Muscle Tower
-* Music: Epic Boss Fight
-* Bench: 
+<br />  
+<br />Home Map: Muscle Tower
+<br />Music: Epic Boss Fight
+<br />Bench: 
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>Namek</summary>
-  
-* Home Map: Kami's Lookout
-* Music: Fight me if you can
-* Bench: 
+<br />  
+<br />Home Map: Kami's Lookout
+<br />Music: Fight me if you can
+<br />Bench: 
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>Resurrected Warriors</summary>
-  
-* Home Map: Desert
-* Music: Action Fight
-* Bench: 
+<br />  
+<br />Home Map: Desert
+<br />Music: Action Fight
+<br />Bench: 
+<br />Boosts:
 
 </details>
 
 
 <details>
   <summary>Royals</summary>
-  
-* Home Map: Hyperbolic Time Chamber
-* Music: Thunder
-* Bench: 
+<br />  
+<br />Home Map: Hyperbolic Time Chamber
+<br />Music: Thunder
+<br />Bench: 
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>Rugrats</summary>
-  
-* Home Map: City Ruins
-* Music: Nanga-F
-* Bench: 
+<br />  
+<br />Home Map: City Ruins
+<br />Music: Nanga-F
+<br />Bench: 
+<br />Boosts:
 
 </details>
 
 <details>
   <summary>Sentai Squad</summary>
-  
-* Home Map: Frieza's Ship
-* Music: Hurricane
-* Bench:  
+<br />  
+<br />Home Map: Frieza's Ship
+<br />Music: Hurricane
+<br />Bench:  
+<br />Boosts:
 
 </details>

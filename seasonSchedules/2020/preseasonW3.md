@@ -65,11 +65,11 @@ parent: 2020 Season
 
 <details>
   <summary>Budokai</summary>
-
-* Home Map: Planet Namek
-* Music: Boss Battle Rock
-* Weekly bench: Cyborg Tao
-* Boosts: N/A
+<br />
+<br />Home Map: Planet Namek
+<br />Music: Boss Battle Rock
+<br />Weekly bench: Cyborg Tao
+<br />Boosts: N/A
 
 * Nam
     * Defense +2 (2)

@@ -6,6 +6,7 @@ has_toc: false
 nav_order: 8
 ---
 
+
 # 2020 Schedule 
 These are the planned dates for the 2020 season. 
 
@@ -47,3 +48,29 @@ These are the planned dates for the 2020 season.
 1/2/2021 - Semi-Finals (Match 2&3)<br />
 1/9/2021 - Tenkaichi Bowl<br />
 
+
+# Kai Placements
+
+## North Kai 
+* Androids
+* Kaiju
+* Royals
+* Budokai
+
+## East Kai
+* Muscle
+* Derp
+* Cinema
+* GT
+
+## West Kai
+* Buujins
+* Earth Defenders
+* Namek
+* Hybrids
+
+## South Kai
+* Sentai Squad
+* Resurrected Warriors
+* Cold Kingdom
+* Rugrats

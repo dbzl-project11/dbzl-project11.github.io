@@ -3,21 +3,21 @@ layout: default
 title: Main Season Week 2
 nav_order: 6
 parent: 2020 Season
-nav_exclude: true
 ---
 ### Schedule
 
 |Match          |  Home Team            | Away Team        | Winner          |
 | :-------------| :---------------------| :----------------| :---------------|
-| 1             | Rugrats               | Hybrids          |                 |
-| 2             | Resurrected Warriors  | Muscle           |                 |
-| 3             | Royals                | Kaiju            |                 |
-| 4             | Androids              | Namek            |                 |
-| 5             | Sentai Squad          | Budokai          |                 |
-| 6             | GT                    | Buujins          |                 |
-| 7             | Earth Defenders       | Cinema           |                 | 
-| 8             | Derp                  | Cold             |                 |
+| 1             | Cinema                | Kaiju            |                 |
+| 2 (div)       | Buujins               | Hybrids          |                 |
+| 3 (div)       | Androids              | Budokai          |                 |
+| 4             | Cold Kingdom          | Muscle           |                 |
+| 5             | Derp                  | Namek            |                 |
+| 6             | Earth Defenders       | Resurrected Warriors |             |
+| 7             | GT                    | Royals           |                 | 
+| 8 (div)       | Sentai                | Rugrats          |                 |
 
+(div) indicates a divisional match
 
 ### Team Builds (Click to reveal)
 
@@ -634,5 +634,156 @@ nav_exclude: true
     * Combo Master (1)
     * Savior(2)
     * Yajirobe AI
+
+</details>
+<details>
+  <summary>Androids</summary>
+  
+* Home Map: Glacier
+* Music: Boss Ganges
+* Weekly Bench: 
+* Boost Store: None
+
+
+</details>
+
+<details>
+  <summary>Budokai</summary>
+
+* Home Map: Planet Namek
+* Music: Boss Battle Rock
+* Weekly bench: 
+* Boosts: N/A
+
+
+
+</details>
+
+<details>
+  <summary>Buujins</summary>
+
+* Home Map: Supreme Kai's World
+* Music: Nanshan
+* Bench:
+
+</details>
+
+<details>
+  <summary>Cinema</summary>
+  
+* Home Map: Hell
+* Music: Warlord F
+* Bench: 
+
+
+</details>
+
+<details>
+  <summary>Cold Kingdom </summary>
+  
+* Home Map: Broly's Planet
+* Music: Paranoia
+* Bench: 
+
+</details>
+
+<details>
+  <summary>Derp</summary>
+  
+* Home Map: Penguin Village
+* Music: War Begins
+* Bench:
+
+</details>
+
+<details>
+  <summary>Earth Defenders</summary>
+  
+* Home Map: Mt. Paozu
+* Music: Aether
+* Bench: 
+
+</details>
+
+<details>
+  <summary>GT</summary>
+  
+* Home Map: Kings Castle
+* Music: Turbulence
+* Bench: 
+
+</details>
+
+<details>
+  <summary>Hybrids</summary>
+  
+* Home Map: Wastelands
+* Music: Dragon Castle
+* Bench: 
+
+
+</details>
+
+<details>
+  <summary>Kaiju</summary>
+  
+* Home Map: Rocky Area
+* Music: Crongus
+* Bench: 
+
+</details>
+
+<details>
+  <summary>Muscle</summary>
+  
+* Home Map: Muscle Tower
+* Music: Epic Boss Fight
+* Bench: 
+
+</details>
+
+<details>
+  <summary>Namek</summary>
+  
+* Home Map: Kami's Lookout
+* Music: Fight me if you can
+* Bench: 
+
+</details>
+
+<details>
+  <summary>Resurrected Warriors</summary>
+  
+* Home Map: Desert
+* Music: Action Fight
+* Bench: 
+
+</details>
+
+
+<details>
+  <summary>Royals</summary>
+  
+* Home Map: Hyperbolic Time Chamber
+* Music: Thunder
+* Bench: 
+
+</details>
+
+<details>
+  <summary>Rugrats</summary>
+  
+* Home Map: City Ruins
+* Music: Nanga-F
+* Bench: 
+
+</details>
+
+<details>
+  <summary>Sentai Squad</summary>
+  
+* Home Map: Frieza's Ship
+* Music: Hurricane
+* Bench:  
 
 </details>

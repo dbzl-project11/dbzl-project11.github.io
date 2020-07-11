@@ -33,6 +33,18 @@ For teams with only 1 healing transformation, only the character with the transf
     - Videl/Saiyawoman 
         - They have also been modded to be unable to transform into the other.
 
+- The following characters are banned from Master Blast and Rush Blast 2 due to their rush blast volleys doing more than 3000. They may still use Rush Blast 3 though.
+    - SS4 Vegeta
+    - Majin Vegeta
+    - Mid Vegeta
+    - End Vegeta
+    - Scouter Vegeta
+    - Nuova Shenron
+    - Super Gogeta
+    - Frieza (only applies if he starts in 3rd form) 
+    - Vegito (base form)
+    - 
+
 - We do not allow for private testing by our supporters (but if you wish, you can become an authorized tester). If you need information for league purposes,
 it must come from official league sources. 
     - These sources include but are not limited to

@@ -324,6 +324,7 @@ parent: 2020 Season
 <br />Music: Turbulence
 <br />Bench: Pan
 <br />Boosts: N/A
+
 * Syn Shenron
     * Ki 1
     * Fighting Spirit 

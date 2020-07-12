@@ -6,6 +6,11 @@ has_toc: false
 nav_order: 8
 ---
 
+##Schedule at a glance
+
+![](../../images/schedule_2020.jpg) 
+
+
 
 # 2020 Schedule 
 These are the planned dates for the 2020 season. 

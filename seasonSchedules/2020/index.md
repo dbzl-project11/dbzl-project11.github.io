@@ -11,7 +11,7 @@ nav_order: 8
 
 ## Schedule at a glance
 
-![](../../images/schedule_2020.jpg) 
+[![](../../images/schedule_2020.jpg) ](../../images/schedule_2020.jpg)
 
 
 

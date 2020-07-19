@@ -8,14 +8,14 @@ parent: 2020 Season
 
 |Match          |  Home Team            | Away Team        | Winner          |
 | :-------------| :---------------------| :----------------| :---------------|
-| 1             | Buujins               | Cold             |                 |
-| 2             | Androids              | Cinema           |                 |
-| 3             | Budokai               | Derp             |                 |
-| 4             | Hybrids               | Earth Defenders  |                 |
-| 5             | Kaiju                 | GT               |                 |
-| 6             | Muscle                | Sentai           |                 |
-| 7             | Namek                 | Rugrats          |                 | 
-| 8             | Resurrected Warriors  | Royals           |                 |
+| 1             | Buujins               | Cold             | Buujins         |
+| 2             | Androids              | Cinema           | Androids        |
+| 3             | Budokai               | Derp             | Derp            |
+| 4             | Hybrids               | Earth Defenders  | Earth Defenders |
+| 5             | Kaiju                 | GT               | Kaiju           |
+| 6             | Muscle                | Sentai           | Muscle          |
+| 7             | Namek                 | Rugrats          | Rugrats         | 
+| 8             | Resurrected Warriors  | Royals           | Royals          |
 
 
 ### Team Builds (Click to reveal)

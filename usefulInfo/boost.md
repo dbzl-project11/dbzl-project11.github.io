@@ -18,6 +18,9 @@ one-time use, and the same one cannot be used on the same character two weeks in
 Super +3 (Super +2 Ki-1, and Super +1) one week, he cannot have a free Super +1 the next. This rule is in place to prevent 
 teams from using the same boost multiple times in a row. 
 
+Note - this does not for you to have duplicate potaras on a build. In cases where you want to use a +1 potara on a build, 
+and the same +1 potara as a boost on that same character, the corresponding +2 potara will be used. 
+
 Please remember that this does take up one of your 7 customization slots, and potara rules for characters are still in effect. 
 The store does not allow you to put potaras on characters that are not allowed to use them. However, these free potaras will 
 bypass potara limits. For instance, if you have Dragon Power on Krillin and Yamcha, you may use the Dragon Power boost on 
@@ -30,21 +33,23 @@ boost.
     - Broly's Ring	
     - Rising Fighting Spirit	
     - Aura Change (Any color or type)
+    - Mirage
 - 2 zenni 
     - Exquisite Skill
     - Unleash Ki
     - Latent Energy!	
+    - Light Body
 - 3 zenni 	
     - Kibito's Secret Art
     - Power of Rage	
     - Serious!	
     - Indignation!	
     - Fighting Spirit!
-    - Defense +1	
+    - Draconic Aura
+    - Defense +1 (Not available with Defense +3 builds)
 - 4 zenni 
     - Super +1	
     - Attack +1	
-    - Draconic Aura
     - Ki +1	
 - 5 zenni
     - Dragon Power
@@ -53,6 +58,9 @@ boost.
     
 #### Other boosts
 
+<details>
+  <summary>Boosts not applicable to 2020 season (click to reveal)</summary>
+  
 - Immediately "rotate" your free agent regardless of what week it is - 2 Zenni
     - This boost would also enable you to trade out someone who was already rotated out as if it was a week where you could do so normally. For example, if you are the Earth's Defenders, and you have Mid Vegeta (Your free agent), Goku, Tien, Krillin, and Yamcha in as fighters and Chiaotzu swapped out. You may choose to use this boost to swap Krillin out and Chiaotzu in as fighters.
 
@@ -62,6 +70,8 @@ The weeks you normally rotate your free agent bench are the following:
     Week 6
     Week 11
     At the beginning of the playoffs, you may rotate your free agent bench around again. To ensure you have the best team you can create for the playoffs.
+
+</details>
 
 - Remove a limiter! (Only usable once in a season) - 10 Zenni
     - This boost enables you to remove a "Limiter ring" on one of your players. This is more of a safety feature in case things aren't going right, and you wish for that character to transform once again. Please note, that once you remove a limiter, you may not put another one on a seperate character. Once a Limiter is used, or removed, there is no reversing that decision. So please, use this boost wisely.

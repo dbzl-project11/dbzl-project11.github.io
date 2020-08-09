@@ -8,14 +8,14 @@ parent: 2020 Season
 
 |Match          |  Home Team            | Away Team        | Winner          |
 | :-------------| :---------------------| :----------------| :---------------|
-| 1             | Cinema                | Kaiju            |                 |
-| 2 (div)       | Buujins               | Hybrids          |                 |
-| 3 (div)       | Androids              | Budokai          |                 |
-| 4             | Cold Kingdom          | Muscle           |                 |
-| 5             | Derp                  | Namek            |                 |
-| 6             | Earth Defenders       | Resurrected Warriors |             |
-| 7             | GT                    | Royals           |                 | 
-| 8 (div)       | Sentai                | Rugrats          |                 |
+| 1             | Cinema                | Kaiju            | Cinema          |
+| 2 (div)       | Buujins               | Hybrids          | Buujins         |
+| 3 (div)       | Androids              | Budokai          | Budokai         |
+| 4             | Cold Kingdom          | Muscle           | Cold Kingdom    |
+| 5             | Derp                  | Namek            | Namek           |
+| 6             | Earth Defenders       | Resurrected Warriors | Resurrected Warriors |
+| 7             | GT                    | Royals           | Royals          | 
+| 8 (div)       | Sentai                | Rugrats          | Rugrats         |
 
 (div) indicates a divisional match
 
@@ -120,7 +120,7 @@ parent: 2020 Season
 <br /> Home Map: Supreme Kai's World
 <br />Music: Nanshan
 <br />Bench: Majin Buu
-<br />Boosts:
+<br />Boosts: None
  
 - Super Buu
     - Attack +2 Defense -1 (1)

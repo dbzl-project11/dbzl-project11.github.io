@@ -32,17 +32,7 @@ So here is the deal, every player has 7 points with which to customize. Below is
 
 - Defense +3 Attack -1 – You take 15% less damage from any attack, but you deal 13% less damage with your non-super moves. * (Limited to 1 per team)
 
-Please note, to keep Defense in-line with the other potaras, you may only use one Defense + potara without a penalty (Def +1 / Def +2) and one Defense + potara with a penalty (Def +2, Atk -1 / Def +3, Atk -1). So the following are the only acceptable combinations:
-
-    Defense +1 & Defense +2, Attack -1
-    Defense +2 & Defense +2, Attack -1
-    Defense +1 & Defense +3 Attack -1
-    Defense +2 & Defense +3 Attack -1
-
-The following is Illegal and the blue potaras will be removed if used in these combinations:
-
-    Defense +1 & Defense +2
-    Defense +2, Attack -1 & Defense +3, Attack -1
+Please note, to keep Defense in-line with the other potaras, you may only use 2 Defense potaras (whether 1 pt or 2 pts). 
 
 #### 1-Point Yellow Potaras —
 

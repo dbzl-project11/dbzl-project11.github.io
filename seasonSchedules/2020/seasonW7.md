@@ -14,8 +14,8 @@ parent: 2020 Season
 | 4             | Rugrats               | Cinema           |                 |
 | 5             | Earth Defenders       | Androids         |                 |
 | 6             | Resurrected Warriors  | Budokai          |                 |
-| 7 (div)       | Earth Defenders       | Cinema           |                 | 
-| 8             | Derp                  | Cold             |                 |
+| 7 (div)       | Namek                 | Hybrids          |                 | 
+| 8             | Muscle                | Kaiju            |                 |
 
 (div) indicates a divisional match
 

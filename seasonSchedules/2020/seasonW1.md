@@ -165,7 +165,7 @@ parent: 2020 Season
 
 * Fasha
    * Defense +2 (2)
-   *Dende's Healing (2)
+   * Dende's Healing (2)
    * Light Body (1)
    * Serious! (1)
    * Quick Fast Attack (1)
@@ -476,7 +476,7 @@ parent: 2020 Season
    * Quick Fast Attack (1)
    * Goku AI
 
-   * SSJ Broly
+* SSJ Broly
    * Super +2 Ki -1 (1)
    * Spiritual Control (3)
    * Kibito Secret Art (2)

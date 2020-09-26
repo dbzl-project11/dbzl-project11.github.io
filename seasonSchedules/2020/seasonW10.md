@@ -8,7 +8,7 @@ parent: 2020 Season
 
 |Match          |  Home Team            | Away Team           |  Winner          |
 | :-------------| :---------------------| :-------------------| :----------------|
-| 1             | Rugrats               | Hybrids             |                  |
+| 1             | Budokai               | Namek             |                  |
 | 2             | Hybrids               | Muscle              |                  |
 | 3 (div)       | Kaiju                 | Androids            |                  |
 | 4             | Buujins               | Resurrected Warriors |                 |

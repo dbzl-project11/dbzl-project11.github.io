@@ -7,7 +7,7 @@ parent: League Events
 
 ## All-Star Games!
 
-- The All-Star Games stream will run two weeks after Week 9, on October 3rd. It will feature two events, starting with the Sweeper
+- The All-Star Games stream will run two weeks after Week 9. It will feature two events, starting with the Sweeper
 Games and leading into the main event, the All-Star Battle!
 
 

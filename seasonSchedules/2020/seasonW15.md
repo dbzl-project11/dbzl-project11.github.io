@@ -8,7 +8,7 @@ parent: 2020 Season
 
 |Match          |  Home Team            | Away Team        | Winner          |
 | :-------------| :---------------------| :----------------| :---------------|
-| 1             | Earth Defenders       | Earth Defenders  |                 |
+| 1             | Kaiju                 | Earth Defenders  |                 |
 | 2 (div)       | Resurrected Warriors  | Rugrats          |                 |
 | 3             | Namek                 | Sentai Squad     |                 |
 | 4             | Budokai               | Cold Kingdom     |                 |

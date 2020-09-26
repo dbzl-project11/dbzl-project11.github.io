@@ -43,7 +43,7 @@ For teams with only 1 healing transformation, only the character with the transf
     - Super Gogeta
     - Frieza (only applies if he starts in 3rd form) 
     - Vegito (base form)
-    - 
+    
 
 - We do not allow for private testing by our supporters (but if you wish, you can become an authorized tester). If you need information for league purposes,
 it must come from official league sources. 

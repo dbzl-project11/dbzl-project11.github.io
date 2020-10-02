@@ -32,19 +32,6 @@ These are the teams duking it out to see who has the best fighters in DragonBall
 - [Resurrected Warriors](./teams/reswar.md)
 - [Sentai Squad](./teams/sentai.md)
 
-For posterity, these are the teams that were active in a previous era of the league, but are now retired. 
-
-- [The Ginyu Force](teams/old/ginyu.md)
-- [The Saiyans](teams/old/saiyans.md)
-- [The Buus](teams/old/buus.md)
-- [The Majins](teams/old/majins.md)
-- [Team Afterlife (HFIL)](teams/old/hfil.md)
-- [The Valkyries](teams/old/valkyries.md)
-- [The Gohans](teams/old/gohans.md)
-- [The Cold Family](teams/old/cold.md)
-- [DragonBall Warriors](teams/old/dbWarriors.md)
-- [The Blades](teams/old/blades.md)
-
 Here are the rules:
 
 - [League Wide Rules](./rules/leagueWide.md)

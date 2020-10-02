@@ -34,7 +34,7 @@ parent: 2020 Season
 | Guru          |                |            |            |
 
 
-### All Star Team builds
+### All Star Team builds (click to reveal)
 
 <details>
   <summary>Team Kami</summary>

@@ -15,7 +15,9 @@ Games and leading into the main event, the All-Star Battle!
 
 - Each team will send one fighter to face a "gauntlet" of five of the weakest characters in the game in a 1v5 format.
 The selected fighters will fight to take out as many of the opponents as they can in hopes of sweeping them or dealing as much damage
-as they can before falling.
+as they can before falling. 
+
+- The sweeper games will be held on Cell Games Arena.
 
 ## Rules:
 - Each team will select one fighter to represent them in the Sweeper Games. There is no restriction on which character they select as

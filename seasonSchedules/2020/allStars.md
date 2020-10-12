@@ -9,28 +9,28 @@ parent: 2020 Season
 #### Sweeper Games
 |Match           |  Team                 | Damage done           |  
 | :------------- | :---------------------| :-------------------  | 
-|  1             | Androids              |                       |  
-|  2             | Budokai               |                       |  
-|  3             | Buujins               |                       | 
-|  4             | Cinema                |                       |  
-|  5             | Cold Kingdom          |                       |  
-|  6             | Derp                  |                       | 
-|  7             | Earth Defenders       |                       | 
-|  8             | GT                    |                       | 
-|  9             | Hybrids               |                       | 
-| 10             | Kaiju                 |                       | 
-| 11             | Muscle                |                       | 
-| 12             | Namek                 |                       | 
-| 13             | Resurrected Warriors  |                       | 
-| 14             | Royals                |                       | 
-| 15             | Rugrats               |                       | 
-| 16             | Sentai Squad          |                       | 
+|  1             | Androids (Android 16) |  12 bars                     |  
+|  2             | Budokai  (Cyborg Tao) |  12.9 bars                     |  
+|  3             | Buujins (Majin Buu)   |  9 bars                     | 
+|  4             | Cinema   (Fasha)      |  20 bars - Winner!     |  
+|  5             | Cold Kingdom (Cooler) |  20 bars - Winner!     |  
+|  6             | Derp  (Salza)         |  12.8 bars                     | 
+|  7             | Earth Defenders (Mid Vegeta) |  6.2 bars                     | 
+|  8             | GT (Baby Vegeta)      |  10.6 bars                     | 
+|  9             | Hybrids  (Teen Gohan) |  12.5 bars                     | 
+| 10             | Kaiju (Scouter Vegeta)|  4.9 bars                     | 
+| 11             | Muscle (Trunks)       |  17.2 bars                     | 
+| 12             | Namek  (Late Piccolo) |  12.1 bars                     | 
+| 13             | Resurrected Warriors (End Vegeta) | 12 bars   | 
+| 14             | Royals  (Majin Vegeta)| 6 bars                      | 
+| 15             | Rugrats (Goten)       | 7.7 bars                      | 
+| 16             | Sentai Squad (Ginyu)  | 6.8 bars                      | 
 
 #### All Stars Match (best of 3)
 
 |Team           |  Match 1       | Match 2    |  Match 3   |
 | :-------------| :--------------| :----------| :----------|
-| Kami          |                |            |            |
+| Kami          |    X            |     X       |            |
 | Guru          |                |            |            |
 
 

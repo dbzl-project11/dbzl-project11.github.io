@@ -38,7 +38,6 @@ parent: 2020 Season
 
 <details>
   <summary>Team Kami</summary>
-  <br />
 <br />Map: Cell Games Arena - Evening
 
 - Bardock
@@ -83,7 +82,6 @@ parent: 2020 Season
 
 <details>
   <summary>Team Guru</summary>
-  <br />
 <br />Map: Cell Games Arena - Evening
   
   - SS Broly (Costume 2)
@@ -214,8 +212,7 @@ parent: 2020 Season
 
 <details>
   <summary>Earth Defenders</summary>
-  <br />
-Note: Mid Vegeta was given an 8-point build so "Dende’s Healing Ability" was randomized off.
+<br />Note: Mid Vegeta was given an 8-point build so "Dende’s Healing Ability" was randomized off.
 
    - SS Mid Vegeta
      - Defense +2 (2)

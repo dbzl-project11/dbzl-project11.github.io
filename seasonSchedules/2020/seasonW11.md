@@ -501,7 +501,7 @@ Note - Forgot to list map.
 <br />Home Map: Kami's Lookout
 <br />Music: Fight me if you can
 <br />Bench: Nail
-<br />Boosts: Super +1 (4z), ~~Latent Energy! (3z)~~
+<br />Boosts: Super +1 (4z), Latent Energy! (3z)
 
 Note - The "Latent Energy!" boost was removed and refunded as it wasn't assigned to any character.
 

@@ -8,14 +8,14 @@ parent: 2020 Season
 
 |Match          |  Home Team            | Away Team        | Winner          |
 | :-------------| :---------------------| :----------------| :---------------|
-| 1             | Hybrids               | Rugrats          |                 |
-| 2             | Muscle                | Resurrected Warriors |                 |
-| 3  (div)      | Kaiju                 | Royals           |                 |
-| 4             | Namek                 | Androids         |                 |
-| 5             | Budokai               | Sentai Squad     |                 |
-| 6             | Buujins               | GT               |                 |
-| 7             | Cinema                | Earth Defenders  |                 | 
-| 8             | Cold Kingdom          | Derp             |                 |
+| 1             | Hybrids               | Rugrats          |  Hybrids               |
+| 2             | Muscle                | Resurrected Warriors | Resurrectd Warriors                |
+| 3  (div)      | Kaiju                 | Royals           | Kaiju                |
+| 4             | Namek                 | Androids         | Androids                |
+| 5             | Budokai               | Sentai Squad     | Budokai                |
+| 6             | Buujins               | GT               | Buujins                |
+| 7             | Cinema                | Earth Defenders  | Cinema                | 
+| 8             | Cold Kingdom          | Derp             | Cold                |
 
 (div) indicates a divisional match
 

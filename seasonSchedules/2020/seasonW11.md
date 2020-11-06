@@ -146,6 +146,7 @@ parent: 2020 Season
     - Indignation! (1)
     - Savior (1)
     - Launch's Support (2)
+    - Tien AI
 
 </details>
 
@@ -346,6 +347,7 @@ Note - Neither SS4 Vegeta or GT Goku had the required limiters on their builds.
     - Savior (1)
     - Quick Fast Attack (1)
     - Broly's Ring (Limiter)
+    - Yajirobe AI
     
 - Pan - Costume 2
     - Super +2 Ki Power -1 (1)
@@ -485,6 +487,7 @@ Note - Forgot to list map.
     - Light Body (1)
     - Quick Fast Attack (1)
     - Attack +1 (Boost)
+    - Goku AI
     
 - Master Roshi
     - Ki Power +1 (1)

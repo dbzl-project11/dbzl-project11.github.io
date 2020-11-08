@@ -29,15 +29,6 @@ parent: 2020 Season
 <br />Weekly Bench: Android 17
 <br />Boost Store: None
 
-- Android 16:
-    - Super +2 Ki -1 (1)
-    - Launch's Support (2)
-    - Quick Fast Attack (1)
-    - Indignation! (1)
-    - Fighting Spirit! (1)
-    - Serious! (1)
-    - Chiaotzu AI
-
 - Android 16
     - Attack +2 Defense -1 (1)
     - Dende's Healing Ability (2)

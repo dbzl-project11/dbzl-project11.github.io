@@ -201,19 +201,19 @@ parent: 2020 Season
 <br />Boosts: None
 
 - Recoome
-    - Defense +3 Attack -1(2)
-    - Launch's Support(2)
-    - Master Throw(1)
+    - Defense +3 Attack -1 (2)
+    - Launch's Support (2)
+    - Master Throw (1)
     - Dende's Healing Ability (2)
     - Tien AI
 
 - First Form Cooler - Costume 2
-    - Super +1(1) 
+    - Super +1 (1) 
     - Indignation! (1) 
     - Savior (1) 
-    - Light Body(1)
+    - Light Body (1)
     - Fighting Spirit! (1)
-    - Launch's Support(2)
+    - Launch's Support (2)
     - Broly's Ring (Limiter)
     - Yajirobe AI
 
@@ -355,7 +355,7 @@ Tien AI
     - Ki Power +1 (1)
     - Launch's Support (2)
     - Indignation! (1)
-    - Light Body  (1)
+    - Light Body (1)
     - Fighting Spirit! (1)
     - Savior (1)
     - Broly's Ring (Limiter)

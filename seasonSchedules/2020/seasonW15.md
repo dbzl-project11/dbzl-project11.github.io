@@ -525,6 +525,16 @@ Note: Earth Defenders bought 4 boosts which had them above their total zeni, Sup
    * Boost: kibito secret art (3zeni)
    * Frieza ai
 
+* SSJ Broly
+   * Attack +2 def -1 (1)
+   * Dende's healing (2)
+   * Serious (1)
+   * Quick fast attack (1)
+   * Light body (1)
+   * Mirage (1)
+   * Boost: Attack +1 (4zeni)
+   * Goku AI
+
 
 </details>
 

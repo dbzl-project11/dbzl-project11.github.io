@@ -14,12 +14,16 @@ The two main versions of this that we have are the Most Valuable Player Tourname
 
 #### Most Valuable Player (MVP) Tournament
 
+![](./images/mvp.jpg)
+
 The MVP tournament takes the player from each team with the highest average damage and pits them in a single elimination 
 match, with the winner proceeding.
 
 Normal Build rules apply, and characters with limiters will also have those limiters on their builds.
 
 #### Least Valuable Player (LVP)
+
+![](./images/lvp.jpg)
 
 If the MVP tournament is about finding the best of the best, the LVP is about finding the worst of the worst. Your representative
 will be the character on your team with the lowest average damage.  The tournament is single elimination as well, BUT the 

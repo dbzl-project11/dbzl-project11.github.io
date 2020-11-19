@@ -22,8 +22,8 @@ For teams with only 1 healing transformation, only the character with the transf
 
 - Any character with a giant form (That has a permanent brick wall) may not start in that giant form. There are no exceptions.
 
-- Any Character with a cutscene ultimate may not have savior in their starting form.  This refers to any ultimate which does full damage if *any* part of the ultimate hits you.
-    - End Goku (base)
+- Any character with a cutscene ultimate may not have "Savior" in their starting form. This refers to any unblockable ultimate that connects if *any* part of the blast hits you. The rule currently applies only to the following characters: 
+    - End Goku (Base)
     - Goten (SSJ1)
     - Adult Gohan (SSJ1)
 

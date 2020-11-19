@@ -29,10 +29,10 @@ Note that Free Agents are not allowed to participate in this event.
     - Satisfying Blow (3) - Your Supers ignore the effects of brick walls, and you get Ki -1 (Normally 1 pt, counts as 3 pts, max 1 per team)
     - Master Roshi's Training (2) - Gain 10k max HP (Max 1 per team)
     - 18's kiss (5) - Gain dragon homing and vanishing attack +2 (Normally 7 pts, counts as 5 pts)
-    - Medical Machine (7) - The effects of EL, KSA, and High Tension. (Max 1 per team, does not count to EL limit)
+    - Medical Machine (7) - The effects of EL, and High Tension. Also heal faster when rotated out. (Max 1 per team, does not count to EL limit)
 
 - Note that Eternal Life and B1 potara bans carryover here. So a character banned from Eternal Life may not use Water Blessing or
-Medical Machine. Similarly, a character banned from Kibito's Secret Art may not use Medical Machine.
+Medical Machine.
     - However, you can use the Shatter the limit build to bypass these restrictions. In the case of Medical Machine, this will be the 
     entirety of your build. As of now, only Medical Machine can be used in this way.
 

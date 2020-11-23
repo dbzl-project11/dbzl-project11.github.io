@@ -19,15 +19,19 @@ parent: Rules
     - 2v2
         - 1 test with 3 guaranteed rounds (formatted as: 1 2v2 3R)
         - 2 single round matches (formatted as: 2 2v2 1R)
-
+    
+    - 3v3 
+        - 1 elimination round (formatted as: 1 3v3 1R)
     - 4v4 
         - 1 elimination round (formatted as: 1 4v4 1R)
+        - Once a week.
+        - These requests do not stack, use it or lose it.
+        - 4v4 requests must be submitted by Thursday 11:59pm CST. 
 
 3. All tests may have a full 7 point build with the following caveats. 
 
     - Team potara limitations do not apply. For example, in a 4 v4, you can have Dende's Healing on each member of your team.
-
-    - Unless specifically requested, you will be testing on your current home map (at this time, just specify your home map until these have been assigned).
+    - Unless specifically requested, you will be testing on your current home map.
     
 ##### Template
 
@@ -36,7 +40,7 @@ All builds should follow this general template
 
 Team name Post #<br/>
 Map name and map time period if available<br/>
-Request type:  1 1v1 7R, 2 1v1 3R, 3 1v1 2R, 1 2v2 3R, 2 2v2 1R, 1 4v4 1R<br/>
+Request type:  1 1v1 7R, 2 1v1 3R, 3 1v1 2R, 1 2v2 3R, 2 2v2 1R, 1 3v3 1R, 1 4v4 1R<br/>
 
 Character name (character form)<br/>
 Costume, if none is selected then the tester will choose<br/>

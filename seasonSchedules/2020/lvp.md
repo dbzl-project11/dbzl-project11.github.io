@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Main Season Week 15
+title: Least Valuable Player Tournament
 nav_order: 20
 parent: 2020 Season
 ---

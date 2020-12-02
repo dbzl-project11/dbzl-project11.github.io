@@ -9,10 +9,10 @@ parent: 2020 Season
 
 |  Home Team            | Away Team        | Winner          |
 | :---------------------| :----------------| :---------------|
-| Androids              | Kaiju            |                 |
-| Cinema                | Muscle           |                 |
-| Hybrids               | Namek            |                 |
-| Resurrected Warriors  | Cold Kingdom     |                 |
+| Androids              | Kaiju            |  Androids       |
+| Cinema                | Muscle           |  Cinema         |
+| Hybrids               | Namek            |  Namek          |
+| Resurrected Warriors  | Cold Kingdom     |  Cold Kingdom   |
 
 
 
@@ -23,39 +23,95 @@ parent: 2020 Season
 
 * Home Map: Glacier
 * Music: Boss Ganges
-* Weekly Bench:
-* Boost Store: None
 
+- Android 16
+    - Defense +3, Attack -1 (2)
+    - Power of Rage (2)
+    - Quick Fast Attack (1)
+    - Master Throw (1)
+    - Light Body (1)
+    - Trunks AI
+
+- Android 17 - Costume 2
+    - Super +2, Ki -1 (1)
+    - Launch's Support (2)
+    - Quick Fast Attack (1)
+    - Indignation (1)
+    - Fighting Spirit (1)
+    - Savior (1)
+    - Chiaotzu AI
+
+- Android 19
+    - Defense +2 (2)
+    - Draconic Aura (3)
+    - Master Throw (1)
+    - Light Body (1)
+    - Majin Buu AI
+
+- Cell (Perfect Form) Costume 2
+    - Attack +1 (1)
+    - Eternal Life (4)
+    - Serious (1)
+    - Savior (1)
+    - Broly's Ring (Limiter)
+    - Cell AI
+
+- Super 17
+    - Attack +2, Defense -1 (1)
+    - Launch's Support (2)
+    - Serious (1)
+    - Indignation (1)
+    - Fighting Spirit (1)
+    - Latent Energy (1)
+    - Piccolo AI
 
 </details>
 
-<details>
-  <summary>Budokai</summary>
-
-* Home Map: Planet Namek
-* Music: Boss Battle Rock
-* Weekly bench:
-* Boosts: N/A
-
-
-
-</details>
-
-<details>
-  <summary>Buujins</summary>
-
-* Home Map: Supreme Kai's World
-* Music: Nanshan
-* Bench:
-
-</details>
 
 <details>
   <summary>Cinema</summary>
 
 * Home Map: Hell
 * Music: Warlord F
-* Bench:
+
+- Gogeta
+    - Ki +2 Super -1 (1)
+    - Rush Blast 3 (3)
+    - Indignation! (1)
+    - Serious! (1)
+    - Light Body (1)
+    - Frieza AI
+
+- Fasha
+    - Attack +2 Defense -1 (1)
+    - Eternal Life (4)
+    - Quick Fast Attack (1)
+    - Serious! (1)
+    - Goku AI
+
+- Turles
+    - Super +2 Ki -1 (2)
+    - Dende's Healing (2)
+    - Launch's Support (2)
+    - Fighting Spirit! (1)
+    - Savior (1)
+    - Chiaotzu AI
+
+- Zangya
+    - Defense +3 Attack -1 (2)
+    - Rush Blast 2 (2)
+    - Exquisite Skill (1)
+    - Savior (1)
+    - Quick Fast Attack (1)
+    - Ginyu AI
+
+- Garlic Jr. (Base Form)
+    - Defense +2 (2)
+    - Launch's Support (2)
+    - Dende's Healing (2)
+    - Fighting Spirit! (1)
+    - Broly's Ring (Limiter)
+    - Tien AI
 
 
 </details>
@@ -65,34 +121,48 @@ parent: 2020 Season
 
 * Home Map: Broly's Planet
 * Music: Paranoia
-* Bench:
 
-</details>
+- Meta Cooler
+    - Defense +2(2)
+    - Dende’s Healing(2)
+    - Serious(1)
+    - Latent Energy(1)
+    - Light Body(1)
+    - Trunks AI
 
-<details>
-  <summary>Derp</summary>
+- First Form Cooler - Costume 2
+    - Ki +2 Super -1 (1) 
+    - Fighting Spirit! (1) 
+    - Indignation (1) 
+    - Savior (1) 
+    - Exquisite Skill(1)
+    - Launches Support(2) 
+    - Limiter(Free)
+    - Yajirobe AI
 
-* Home Map: Penguin Village
-* Music: War Begins
-* Bench:
+- 3rd Form Freeza
+    - Ki +1(1)
+    - Launches Support(2)
+    - Power of Rage(2)
+    - Indignation(1)
+    - Quick Fast Attack(1)
+    - Freeza AI
 
-</details>
+- Recoome - Costume 2
+    - Defense +1(1)
+    - Savior(1)
+    - Dende’s Healing(2)
+    - Fighting Spirit(1)
+    - Latent Energy(1)
+    - Quick Fast Attack(1)
+    - Tien AI
 
-<details>
-  <summary>Earth Defenders</summary>
-
-* Home Map: Mt. Paozu
-* Music: Aether
-* Bench:
-
-</details>
-
-<details>
-  <summary>GT</summary>
-
-* Home Map: Kings Castle
-* Music: Turbulence
-* Bench:
+- King Cold - Costume 2
+    - Attack +1(1)
+    - Eternal Life(4)
+    - Serious(1)
+    - Light Body(1)
+    - Trunks AI
 
 </details>
 
@@ -101,8 +171,47 @@ parent: 2020 Season
 
 * Home Map: Wastelands
 * Music: Dragon Castle
-* Bench:
 
+- Ultimate Gohan
+    - Attack +2 Defense -1 (1)
+    - Serious (1)
+    - Quick Fast Attack (1)
+    - Eternal Life (4)
+    - Majin Buu Ai
+
+- Sword Trunks (Base)
+    - Ki + 2 Super - 1 (1)
+    - Launch’s Support (2)
+    - Savior (1)
+    - Master Blast (1)
+    - Dragon Spirit (2)
+    - Broly's Ring (free)
+    - Frieza Ai
+
+- Kid Gohan - Costume 2
+    - Defense +3, Attack -1 (2)
+    - Latent Energy (1)
+    - Serious (1)
+    - Quick Fast Attack (1)
+    - Dendes Healing (2)
+    - Trunks AI
+
+- Teen Gohan (SSJ) - Costume 1
+    - Super +2, Ki-1 (1)
+    - Indignation (1)
+    - Fighting Spirit (1)
+    - Launch’s Support (2)
+    - Dende's Healing (2)
+    - Krillin AI
+
+- Future Gohan (SSJ)
+    - Ki +1 (1)
+    - Fighting Spirit (1)
+    - Latent Energy (1)
+    - Indignation (1)
+    - Savior (1)
+    - Kibito's Secret Art (2)
+    - Frieza Ai
 
 </details>
 
@@ -111,7 +220,45 @@ parent: 2020 Season
 
 * Home Map: Rocky Area
 * Music: Crongus
-* Bench:
+
+- Raditz (Pog) 
+    - Attack+1 (1)
+    - Serious (1)
+    - Latent Energy (1)
+    - Active Heart (1)
+    - Dragon Power (3)
+    - Broly Ai
+
+- King vegeta 
+    - Defense +2 (2)
+    - Savior (1)
+    - Eternal Life (4)
+    - Yajirobe Ai
+
+- Bardock
+    - Attack +2 Defense -1 (1)
+    - Serious (1)
+    - Quick Fast Attack (1)
+    - Combo Master (1)
+    - Latent Energy (1)
+    - Dende's Healing (2)
+    - Majin Buu Ai
+
+- Nappa  - Costume 2 (Our hope is this costume)
+    - Defense +3 Attack -1 (2)
+    - Savior (1)
+    - Fighting Spirit (1)
+    - Indignation (1)
+    - Dende's Healing (2)
+    - Yajirobe Ai
+
+- Scouter Vegeta
+    - Super +1 (1)
+    - Indignation (1)
+    - Quick Fast Attack (1)
+    - Launch's Support (2)
+    - Indomitable Fighting Spirit (2)
+    - Chiaotzu Ai 
 
 </details>
 
@@ -120,7 +267,45 @@ parent: 2020 Season
 
 * Home Map: Muscle Tower
 * Music: Epic Boss Fight
-* Bench:
+
+- SSJ Trunks (Costume 2)
+    - Attack +2 Def-1 (1)
+    - Dende's Healing (2)
+    - Quick Fast Attack (1)
+    - Serious (1)
+    - Rising Fighting Spirit (1)
+    - Latent Energy (1)
+    - Goku AI
+
+- Android 13 (costume 2)
+    - Attack +1 (1)
+    - Dende’s Healing (2)
+    - Tension Up (2)
+    - Fighting Spirit (1)
+    - Serious (1)
+    - Goku AI
+
+- Master Roshi (Costume 3)
+    - Ki+2 Sup -1 (1)
+    - Savior (1)
+    - Launch's Support (2)
+    - Power of RAge (2)
+    - Indignation (1)
+    - Ginyu AI
+
+- Bojack (Costume 2)
+    - Ki+1 (1)
+    - Launch's Support (2)
+    - Savior (1)
+    - Kibito Secret Art (2)
+    - Light Body (1)
+    - Frieza AI
+
+- SSJ Broly (Costume 1)
+    - Def +2 (2)
+    - Eternal Life (4)
+    - Light Body (1)
+    - Goku AI
 
 </details>
 
@@ -129,7 +314,46 @@ parent: 2020 Season
 
 * Home Map: Kami's Lookout
 * Music: Fight me if you can
-* Bench:
+
+- Late Piccolo
+    - Attack+2, Defense-1 (1)
+    - Eternal Life (4)
+    - Serious (1)
+    - Quick Fast Attack (1)
+    - Chiaotzu ai
+ 
+- King Pic
+    - Attack+1 (1)
+    - Kibito's Secret Art (2)
+    - Power of Rage (2)
+    - Fighting Spirit (1)
+    - Savior (1)
+    - Ginyu ai
+
+- Tambourine 
+    - Defense+2 (2)
+    - Dende's Healing (2)
+    - Serious (1)
+    - Latent Energy (1)
+    - Quick Fast Attack (1)
+    - Trunks ai
+
+- Nail
+    - Ki+1 (1)
+    - Kibito's Secret Art (2)
+    - Light Body (1)
+    - Latent Energy (1) 
+    - Indignation (1)
+    - Savior (1)
+    - Yajirobe ai
+
+- Nuova
+    - Super+1 (1)
+    - Dende's Healing (2)
+    - Launch's Support (2)
+    - Indignation (1)
+    - Fighting Spirit (1)
+    - Ginyu ai
 
 </details>
 
@@ -138,38 +362,44 @@ parent: 2020 Season
 
 * Home Map: Desert
 * Music: Action Fight
-* Bench:
+
+- Android 18 - Costume 3
+    - Super +1 (1)
+    - High Tension (3)
+    - Dragon Spirit (2)
+    - Rising Fighting Spirit (1)
+    - Cell AI
+
+- Eighter - Costume 1
+    - Defence +3 attack down 1 (2)
+    - Dende's Healing (2)
+    - Kibito Secret Art (2)
+    - Light Body (1)
+    - Cell AI
+
+- Videl - Costume 3
+    - Defence +2 (2)
+    - Dragon Power (3)
+    - Master Throw (1)
+    - Fighting Spirit (1)
+    - Recoome AI
+
+- Early Piccolo - Costume 2
+    - Ki +1 (1)
+    - Eternal Life (4) 
+    - Savior (1)
+    - Fighting Spirit (1)
+    - Chiaotzu AI
+
+- End Vegeta SSJ1 - Costume 1
+    - Attack +2 defence down 1 (1)
+    - Dendes Healing (2)
+    - Launch Support (2)
+    - Savior (1)
+    - Light Body (1)
+    - Chiaotzu AI
 
 </details>
-
-
-<details>
-  <summary>Royals</summary>
-
-* Home Map: Hyperbolic Time Chamber
-* Music: Thunder
-* Bench:
-
-</details>
-
-<details>
-  <summary>Rugrats</summary>
-
-* Home Map: City Ruins
-* Music: Nanga-F
-* Bench:
-
-</details>
-
-<details>
-  <summary>Sentai Squad</summary>
-
-* Home Map: Frieza's Ship
-* Music: Hurricane
-* Bench:
-
-</details>
-
 
 ### First match Round 2
 
@@ -196,30 +426,7 @@ parent: 2020 Season
 
 * Home Map: Glacier
 * Music: Boss Ganges
-* Weekly Bench:
-* Boost Store: None
 
-
-</details>
-
-<details>
-  <summary>Budokai</summary>
-
-* Home Map: Planet Namek
-* Music: Boss Battle Rock
-* Weekly bench:
-* Boosts: N/A
-
-
-
-</details>
-
-<details>
-  <summary>Buujins</summary>
-
-* Home Map: Supreme Kai's World
-* Music: Nanshan
-* Bench:
 
 </details>
 
@@ -228,7 +435,6 @@ parent: 2020 Season
 
 * Home Map: Hell
 * Music: Warlord F
-* Bench:
 
 
 </details>
@@ -238,34 +444,6 @@ parent: 2020 Season
 
 * Home Map: Broly's Planet
 * Music: Paranoia
-* Bench:
-
-</details>
-
-<details>
-  <summary>Derp</summary>
-
-* Home Map: Penguin Village
-* Music: War Begins
-* Bench:
-
-</details>
-
-<details>
-  <summary>Earth Defenders</summary>
-
-* Home Map: Mt. Paozu
-* Music: Aether
-* Bench:
-
-</details>
-
-<details>
-  <summary>GT</summary>
-
-* Home Map: Kings Castle
-* Music: Turbulence
-* Bench:
 
 </details>
 
@@ -274,7 +452,6 @@ parent: 2020 Season
 
 * Home Map: Wastelands
 * Music: Dragon Castle
-* Bench:
 
 
 </details>
@@ -284,7 +461,6 @@ parent: 2020 Season
 
 * Home Map: Rocky Area
 * Music: Crongus
-* Bench:
 
 </details>
 
@@ -293,7 +469,6 @@ parent: 2020 Season
 
 * Home Map: Muscle Tower
 * Music: Epic Boss Fight
-* Bench:
 
 </details>
 
@@ -302,7 +477,6 @@ parent: 2020 Season
 
 * Home Map: Kami's Lookout
 * Music: Fight me if you can
-* Bench:
 
 </details>
 
@@ -311,34 +485,5 @@ parent: 2020 Season
 
 * Home Map: Desert
 * Music: Action Fight
-* Bench:
-
-</details>
-
-
-<details>
-  <summary>Royals</summary>
-
-* Home Map: Hyperbolic Time Chamber
-* Music: Thunder
-* Bench:
-
-</details>
-
-<details>
-  <summary>Rugrats</summary>
-
-* Home Map: City Ruins
-* Music: Nanga-F
-* Bench:
-
-</details>
-
-<details>
-  <summary>Sentai Squad</summary>
-
-* Home Map: Frieza's Ship
-* Music: Hurricane
-* Bench:
 
 </details>

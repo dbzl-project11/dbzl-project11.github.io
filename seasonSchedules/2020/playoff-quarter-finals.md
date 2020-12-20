@@ -415,10 +415,10 @@ Fusion OFF
 
 |  Home Team            | Away Team        | Winner          |
 | :---------------------| :----------------| :---------------|
-| Budokai           | Androids            |  Budokai       |
-| GT                | Muscle           |  Muscle         |
-| Buujins           | Namek            |  Buujins          |
-| Rugrats           | Cold Kingdom     |  Cold Kingdom   |
+| Androids           | Budokai            |  Budokai       |
+| Muscle                | GT           |  Muscle         |
+| Namek           | Buujins            |  Buujins          |
+| Cold Kingdom           | Rugrats     |  Cold Kingdom   |
 
 
 ### Quarterfinals match Round 3 (if applicable)

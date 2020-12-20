@@ -20,7 +20,7 @@ parent: 2020 Season
 |                |          |                 |
 
 
-### Team Builds Round 1 (Click to reveal)
+### Week 1 builds (Click to reveal)
 
 <details>
   <summary>Budokai</summary>
@@ -68,7 +68,7 @@ parent: 2020 Season
 |                 |           |                 |
 |                |           |                 |
 
-### Team Builds Rounds 2 and 3 (Click to reveal)
+### Championship Rounds 3-5 (Click to reveal)
 
 <details>
   <summary>Budokai</summary>

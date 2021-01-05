@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49acee10-4cc1-4ae0-9da4-a709b0a68fa7" name="Default Changelist" comment="Week 15 builds">
+    <list default="true" id="49acee10-4cc1-4ae0-9da4-a709b0a68fa7" name="Default Changelist" comment="SF builds builds 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seasonSchedules/2020/playoff-semifinals.md" beforeDir="false" afterPath="$PROJECT_DIR$/seasonSchedules/2020/playoff-semifinals.md" afterDir="false" />
     </list>
     <list id="79992e46-0338-4271-bbe1-4443285b87eb" name="Week 1 builds" comment="" />
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605453348883</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="SF builds builds 1">
+      <created>1609162136487</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609162136487</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,25 +184,18 @@
     <MESSAGE value="Week 7 builds" />
     <MESSAGE value="Week 12 builds" />
     <MESSAGE value="Week 15 builds" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 15 builds" />
+    <MESSAGE value="SF builds builds 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="SF builds builds 1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="522" y="150" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607870145237">
+    <state x="522" y="150" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609527083455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="522" y="150" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1607870145237" />
-    <state x="226" y="0" key="SettingsEditor" timestamp="1599395149177">
+    <state x="522" y="150" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1609527083455" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1609162139759">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="226" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599395149177" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1605453351585">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605453351585" />
-    <state x="447" y="201" key="git4idea.merge.GitPullDialog" timestamp="1599395262702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="447" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1599395262702" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609162139759" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1603632920608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

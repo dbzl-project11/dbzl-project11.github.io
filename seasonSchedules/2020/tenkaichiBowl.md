@@ -36,7 +36,7 @@ Attack +2 Defense -1 (1)
 Serious (1)
 Quick Fast Attack (1)
 Power of Rage (2)
-Dnede's Healing (2)
+Dende's Healing (2)
 Trunks AI
 
 End Goku (SSJ) (Costume 2)
@@ -45,7 +45,7 @@ Indignation (1)
 Savior (1)
 Style of the Strong (4)
 Broly’s Ring (limiter)
-GInyu AI
+Ginyu AI
 
 Kid Goku (Costume 1)
 Attack +1 (1)
@@ -258,91 +258,205 @@ Chiaotzu AI
 <details>
   <summary>Androids</summary>
 
+* Cell (Perfect)
+  * Costume 2
+  * Ki +1 (1)
+  * Halo (6)
+  * Broly's Ring (Limiter)
+  * Cell AI
 
 </details>
 
 <details>
   <summary>Budokai</summary>
 
+* Kid Goku
+  * Attack +1
+  * Dragon Break
+  * Vanishing Break
+  * Gigantic Power
+  * Trunks AI
+
 </details>
 
 <details>
   <summary>Buujins</summary>
+
+* Evil Buu
+  * Defense +2 (2)
+  * Launch's Support (2)
+  * Latent Energy! (1)
+  * Serious! (1)
+  * Fighting Spirit! (1)
+  * Cell AI
 
 </details>
 
 <details>
   <summary>Cinema</summary>
 
+* Fasha
+  * Defense +2 (2)
+  * Dende's Healing (2)
+  * Light Body (1)
+  * Serious! (1)
+  * Quick Fast Attack (1)
+  * Goku AI
+
 </details>
 
 <details>
   <summary>Cold Kingdom </summary>
+
+* Cooler - Costume 2
+  * Super +2 Ki -1(1)
+  * Halo(4)
+  * Launches Support(2)
+  * Brolys Ring(Free)
+  * Yajirobe AI
 
 </details>
 
 <details>
   <summary>Derp</summary>
 
+* Hercule
+  * Super +2 Ki -1 (1)
+  * Indignation (1)
+  * Launch Support (2)
+  * Power of Rage (2)
+  * Aura Charge - Green (1)
+  * Tien AI
+
 </details>
 
 <details>
   <summary>Earth Defenders</summary>
-  
+
+* SSJ1 Mid Vegeta
+  * Attack +2 Defense -1 (1)
+  * Dende's Healing (2)
+  * Rising Fighting Spirit (1)
+  * Dragon Power (3)
+  * Limiter (Free)
+  * Trunks AI
+
 </details>
 
 <details>
   <summary>GT</summary>
 
+* Super Baby 1 ((((Costume 2))))
+  * Attack +2/Defense-1 (1)
+  * Quick Fast Attack (1)
+  * Serious (1)
+  * Eternal Life (4)
+  * AI - Piccolo
 
 </details>
 
 <details>
   <summary>Hybrids</summary>
 
+* Ultimate Gohan
+  * Attack +2 Defense -1 (1)
+  * Serious (1)
+  * Quick Fast Attack (1)
+  * Eternal Life (4)
+  * Majin Buu Ai
 
 </details>
 
 <details>
   <summary>Kaiju</summary>
-  
+
+* Bardock
+  * Attack +2 Defense -1 (1)
+  * Serious (1)
+  * Rising Fighting Spirit (1)
+  * Quick Fast Attack (1)
+  * Combo Master (1)
+  * Dende's Healing (2)
+  * Majin Buu Ai
+
 </details>
 
 <details>
   <summary>Muscle</summary>
 
+* SSJ Trunks (Costume 2)
+  * Ki +2 Super -1 (1)
+  * Rising Fighting Spirit (1)
+  * Launch's Support (2)
+  * Indignation (1)
+  * Fighting Spirit (1)
+  * Master Blast (1)
+  * Vegeta AI
 
 </details>
 
 <details>
   <summary>Namek</summary>
-  
 
+* Nuova
+  * Ki+2, Super-1(1)
+  * Gigantic Power (2)
+  * Miracle Sparking (3)
+  * Aura Change-Ultimate 4 (1)
+  * Frieza ai
 
 </details>
 
 <details>
   <summary>Resurrected Warriors</summary>
 
+* END VEGETA SSJ
+  * Costume 2
+  * Kibito Secret Art (2)
+  * Battle Control (1)
+  * Proof of Friendship (1)
+  * Draconic Aura (3)
+  * Chiaotzu AI
 
 </details>
-
 
 <details>
   <summary>Royals</summary>
 
+* Majin Vegeta
+  * Attack +2 Defense -1 (1)
+  * Rising Fighting Spirit (1)
+  * Serious (1)
+  * Light Body (1)
+  * Dragon Power (3)
+  * Chiaotzu AI
 
 </details>
 
 <details>
   <summary>Rugrats</summary>
 
-<br /> 
-
+* Base Kid Trunks (Costume 2)
+  * Super +2 Ki -1 (1)
+  * Launchs Support (2)
+  * Fighting Spirit (1)
+  * Dragon Spirit (2)
+  * Indignation (1)
+  * Broly’s Ring (limiter)
+  * Chiaotzu AI
+  
 </details>
 
 <details>
   <summary>Sentai Squad</summary>
+
+* Saiyawoman
+  * [Costume 2]
+  * Defense +2 (2)
+  * Power of Rage (2)
+  * Launch's Support (2)
+  * Indignation (1)
+  * Cell AI
 
 </details>
 
@@ -350,10 +464,10 @@ Chiaotzu AI
 
 |  League Team          | Final round reached|
 | :---------------------| :----------------| 
-| North Kai             |                  | 
-| East Kai              |                  | 
-| West Kai              |                  | 
-| South Kai             |                  | 
+| North Kai             | Round 1          | 
+| East Kai              | Round 1          | 
+| West Kai              | Round 2          | 
+| South Kai             | Round 2          | 
 
 ### Gaunltet builds
 

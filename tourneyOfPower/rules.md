@@ -9,6 +9,8 @@ parent: Tournament of Power
 
 ### Tournament of Power Rules
 
+Generally speaking, the rules are the same as in the main league. However, the below will override the rules of the main league for our purposes.
+
 * Any team with a character that can gain 2 or more health transformations in a starting form, must place a free broly’s ring on that character if they are using that form
 These Characters include:
     * First Form Freeza

@@ -11,9 +11,8 @@ nav_order: 9
     * This is a snake draft style event that will go through two, 4 week tournaments
     * The first tournament will be a swiss tournament which will act as a way to decide seeding for the play off tournament
     * The second tournament will be single elimination
-    * You can find a more in depth explanation of the tournament format 
-        * Here you can also find a link to a visual example of the tournaments there
-        * Here is a timeline of all the important dates for this event
+    * You can find a more in depth explanation of the tournament format [here](./structure.md).
+        * You can also find a link to a visual example of the tournaments there
     * The Tournament will NOT be on the main league AI but will still be somewhat similar
 
 * How Will Signups Work?
@@ -40,12 +39,12 @@ nav_order: 9
 * This event also includes Potara cost changes!
     * Our staff felt that there are many under used potara’s that could find more usage had their point values been reduced. 
     * We made these cost changes on whether or not their ability to potentially become “broken” or “unhealthy” for this 3 man event. So some potara’s that are under used, didn’t get their costs reduced because of that
-    * You can specifically find these changed potara costs Here
+    * You can specifically find these changed potara costs [here](./potaraRules.md)
 
-* Each team will be given up to 3 tests before the preliminaries start. You can find the testing rules Here
+* Each team will be given up to 3 tests before the preliminaries start. You can find the testing rules [here](./testingRules.md)
 
     * Lastly there is an additional ban list to this event of characters that are legal within the main league, but are not in this event and can find them 
-    Here
+    [here](./rules.md)
     * We felt banning these characters was necessary due to their kits providing a power ceiling that could consistently make them able to run through the majority of most teams on their own in this drafting format
 
 * How Will the Snake Draft Work?
@@ -62,11 +61,12 @@ nav_order: 9
     * Each team has a cap total of 15 points
     * Unlike the minors league of the old league, you can hypothetically draft any character even if they are on your main league team
 
-* The way you will draft your characters is after you and your partner decide or compromise on a character pick, the team representative will then post in the specified discord channel your teams pick with the cost and it will then be updated in the Draft Board
+* The way you will draft your characters is after you and your partner decide or compromise on a character pick, the team representative will then post in the specified discord channel 
+your teams pick with the cost and it will then be updated in the [Draft Board](https://docs.google.com/spreadsheets/d/1BNC1btf6wMZwWLc8JondVsReI1Vw5sqhGVwBWKuku40/edit#gid=0)
     * The Draft Opens on February 7th and teams will have 24 hours to make their pick, but we will encourage all to make their decisions with haste
     * The staff will then @ the team members when it’s their turn in the draft
     * IMPORTANT!
-         * Before Drafting be sure to also look at League Wide Rules and Specific Character Restrictions as not all the general and specific rules are the same as they are in the main league.
+         * Before Drafting be sure to also look at [League Wide Rules](./rules.md) and our [Potara rules](./potaraRules.md) as not all the general and specific rules are the same as they are in the main league.
 
 * How Will Builds Be Submitted?
     * Because no teams will have a discord chatroom, this also means there won’t be a builds chatroom

@@ -33,6 +33,17 @@ And if you passively charge 1 bar every 7 seconds:
 
     .8 bar/ 7 seconds * 20 seconds = ~2.4 bars (compared to just under 3 bars) 
 
+Generically, the formula would look something like this:
+    
+    ((blue potara modifier /(base charge time per bar of ki)) * time to charge in seconds)  + (additional ki from HT or TU/time to charge 1 bar from that potara)
+    
+Where your modifiers from league legal blue potaras are
+    * Super +2/Ki -1 = .8
+    * Ki +1 = 1.2
+    * Ki +2/Super -1 = 1.4
+
+To make this calculation easier, it's recommended you calculate charging in increments of 20, 40, or 60 seconds, as that matches up with the additional charge from the passive charge potaras.
+
 But note that some characters could charge up to all 5 bars with ULP 1, which means that they will essentially be an android. If that character doesn't like to charge, and can passively charge up to 4 bars already, it may be worth using ULP 1 and Ki +1 or Ki +2 to increase charge rate. (Especially considering that the Ki+1/+2 will negate the charge negative, allowing active charging to go unaffected.)
 
 - Blue potaras/Launch's Support– core part of a build

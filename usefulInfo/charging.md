@@ -39,8 +39,10 @@ Generically, the formula would look something like this:
     
 Where your modifiers from league legal blue potaras are
     * Super +2/Ki -1 = .8
-    * Ki +1 = 1.2
+    * Ki +1 (or Launch's Support) = 1.2
     * Ki +2/Super -1 = 1.4
+    * while not a blue potara, Fighting Spirit's bonus would be added here, and it's an additional .1 per bar of ki missing.
+        * so if you have one bar of health missing and just FS, the modifier is 1.1; if Ki +1 and FS, it would be 1.3, etc.
 
 To make this calculation easier, it's recommended you calculate charging in increments of 20, 40, or 60 seconds, as that matches up with the additional charge from the passive charge potaras.
 

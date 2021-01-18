@@ -4,6 +4,7 @@ title: 2021 Timeline
 has_children: false
 nav_order: 1
 parent: 2021 ToP Season
+grand_parent: Tournament of Power
 ---
 
 ## 2021 Season Timeline

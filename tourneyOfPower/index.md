@@ -2,7 +2,7 @@
 layout: default
 title: Tournament of Power
 has_children: true
-nav_order: 8
+nav_order: 9
 ---
 
 ## The Tournament of Power

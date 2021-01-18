@@ -1,10 +1,9 @@
 ---
 layout: default
 title: 2021 Timeline
-has_children: true
+has_children: false
 nav_order: 1
 parent: 2021 ToP Season
-
 ---
 
 ## 2021 Season Timeline

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tournament of Power Rules
+title: ToP Rules
 has_children: true
 nav_order: 1
 parent: Tournament of Power
@@ -8,6 +8,7 @@ parent: Tournament of Power
 ---
 
 ### Tournament of Power Rules
+
 * Any team with a character that can gain 2 or more health transformations in a starting form, must place a free broly’s ring on that character if they are using that form
 These Characters include:
     * First Form Freeza

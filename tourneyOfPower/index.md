@@ -13,7 +13,7 @@ nav_order: 8
     * The second tournament will be single elimination
     * You can find a more in depth explanation of the tournament format 
         * Here you can also find a link to a visual example of the tournaments there
-        * Here is a timeline of all of the important dates for this event
+        * Here is a timeline of all the important dates for this event
     * The Tournament will NOT be on the main league AI but will still be somewhat similar
 
 * How Will Signups Work?
@@ -62,7 +62,7 @@ nav_order: 8
     * Each team has a cap total of 15 points
     * Unlike the minors league of the old league, you can hypothetically draft any character even if they are on your main league team
 
-* The way you will draft your characters is after you [and your partner] decide or compromise on a character pick, the team representative will then post in the specified discord channel your teams pick with the cost and it will then be updated in the Draft Board
+* The way you will draft your characters is after you and your partner decide or compromise on a character pick, the team representative will then post in the specified discord channel your teams pick with the cost and it will then be updated in the Draft Board
     * The Draft Opens on February 7th and teams will have 24 hours to make their pick, but we will encourage all to make their decisions with haste
     * The staff will then @ the team members when it’s their turn in the draft
     * IMPORTANT!

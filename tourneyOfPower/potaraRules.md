@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ToP Potara Rules
-has_children: true
+has_children: false
 nav_order: 3
 parent: Tournament of Power
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ToP Team Setup
-has_children: true
+has_children: false
 nav_order: 5
 parent: Tournament of Power
 

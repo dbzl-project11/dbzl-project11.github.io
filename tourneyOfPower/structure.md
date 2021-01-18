@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ToP Structure
-has_children: true
+has_children: false
 nav_order: 4
 parent: Tournament of Power
 ___

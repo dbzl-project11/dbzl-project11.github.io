@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ToP Testing Rules
-has_children: true
+has_children: false
 nav_order: 2
 parent: Tournament of Power
 ---

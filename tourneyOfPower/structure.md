@@ -53,5 +53,5 @@ The Tournament of Power
     * Rank #8 vs Rank #9
 * These will be the first round opponents, but their match order placing will not be in this order
 
-* Here is a Link with a fleshed out, more visual example of the Tournament of Power
+* [Here](https://docs.google.com/spreadsheets/d/1j95p-b_pZIIGQ67ATVS9uUmwyVPstQg5O8MQkHcbLVU/edit#gid=168845900) is a link with a fleshed out, more visual example of the Tournament of Power
 

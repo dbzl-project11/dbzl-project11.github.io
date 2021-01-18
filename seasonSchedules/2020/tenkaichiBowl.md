@@ -333,7 +333,7 @@ Fusion ON
 
 ### MVP Tournament
 
-[./images/mvp.jpg]
+[![](./images/mvpBracket.jpg) ](./images/mvpBracket.jpg)
 
 ## MVP builds
 <details>

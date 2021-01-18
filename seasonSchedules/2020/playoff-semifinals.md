@@ -3,6 +3,7 @@ layout: default
 title: Playoffs  - Semifinals
 nav_order: 23
 parent: 2020 Season
+grand_parent: Main League
 ---
 
 ### Semifinals match Round 1

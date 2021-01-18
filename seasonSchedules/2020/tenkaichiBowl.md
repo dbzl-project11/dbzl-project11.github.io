@@ -3,6 +3,7 @@ layout: default
 title: Tenkaichi Bowl
 nav_order: 23
 parent: 2020 Season
+grand_parent: Main League
 ---
 
 ## Week 1

@@ -3,6 +3,7 @@ layout: default
 title: Main Season Week 10
 nav_order: 14
 parent: 2020 Season
+grand_parent: Main League
 ---
 ### Schedule
 

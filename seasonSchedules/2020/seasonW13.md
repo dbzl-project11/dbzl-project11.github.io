@@ -3,6 +3,7 @@ layout: default
 title: Main Season Week 13
 nav_order: 17
 parent: 2020 Season
+grand_parent: Main League
 ---
 ### Schedule
 

@@ -3,7 +3,7 @@ layout: default
 title: 2020 Season
 has_children: true
 has_toc: false
-nav_order: 8
+nav_order: 1
 ---
 
 # 2020 Schedule 

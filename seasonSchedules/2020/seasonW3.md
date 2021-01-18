@@ -3,6 +3,7 @@ layout: default
 title: Main Season Week 3
 nav_order: 7
 parent: 2020 Season
+grand_parent: Main League
 ---
 ### Schedule
 

@@ -3,6 +3,7 @@ layout: default
 title: Main Season Week 1
 nav_order: 5
 parent: 2020 Season
+grand_parent: Main League
 ---
 ### Schedule
 

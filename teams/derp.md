@@ -32,6 +32,8 @@ parent: Teams
 - Devilman
 - Dr. Gero (Android 20)
 - Dodoria
+- 100% Final Form Frieza
+   - Must be in this form
 - Frieza's Soldier
 - Hercule
 - King Cold

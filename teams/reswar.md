@@ -29,6 +29,7 @@ parent: Teams
 - Android 18
 - Android 17
 - Chiaotzu
+- Devilman
 - Early Goku
 - Early Piccolo
 - Eighter
@@ -49,3 +50,4 @@ parent: Teams
 - Videl
 - Yajirobe
 - Yamcha
+

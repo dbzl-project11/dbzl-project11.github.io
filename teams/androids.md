@@ -42,3 +42,4 @@ parent: Teams
   - Dr. Gero
   - Meta-Cooler
   - Super 17
+  - Baby Vegeta

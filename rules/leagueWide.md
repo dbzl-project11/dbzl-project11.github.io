@@ -16,9 +16,10 @@ For teams with only 1 healing transformation, only the character with the transf
         - Androids (Cell)
         - Cold Kingdom (Frieza and Cooler)
         
-- Any Super Saiyan may not start above SSJ1. The exceptions are
+- Super Saiyan in general may not start above SSJ1, but this is handled on a case by case basis. These characters may start above SSJ1.
     - GT Goku (He may start in any form from SSJ3 and below), 
     - SS4 Vegeta (since this is his only form)
+    - End Vegeta (may start in any form)
 
 - Any character with a giant form (That has a permanent brick wall) may not start in that giant form. There are no exceptions.
 
@@ -33,18 +34,38 @@ For teams with only 1 healing transformation, only the character with the transf
     - Videl/Saiyawoman 
         - They have also been modded to be unable to transform into the other.
 
-- The following characters are banned from Master Blast and Rush Blast 2 due to their rush blast volleys doing more than 3000. They may still use Rush Blast 3 though.
-    - SS4 Vegeta
+- Characters with strong rush blast (RB) volleys may have some level of restriction from Master Blast and Rush Blast 2. 
+    - The first level of restriction bans the combination of Attack+ blue potaras and Master Blast/Rush Blast 2. This is referred to as a partial ban.
+    - The second level of restriction bans the character entirely.
+    
+- The characters who have some level of restriction have these stats related to their rush blasts:
+
+|Single RB Damage | # of RBs in a volley |   
+| :-------------| :---------------------|
+| 320 | 10| 
+| 340 | 9-10| 
+| 360 | 8-9| 
+| 380 | 7-8| 
+| 400 | 6-7| 
+| 420 | 5-6| 
+| 440 | 4-5| 
+| 460 | 3-4| 
+
+- The following characters have a partial Master Blast/Rush Blast 2 restriction.
+    - Dabura
     - Majin Vegeta
-    - Mid Vegeta
-    - End Vegeta
     - Scouter Vegeta
+    - Mid Vegeta (SSJ2)
+    - Syn Shenron
+    
+- The following characters have a full ban from Master Blast/Rush Blast 2
+    - SS4 Vegeta
+    - Mid Vegeta (Base & SSJ1)
+    - End Vegeta (All Forms)
     - Nuova Shenron
     - Super Gogeta
-    - Frieza (only applies if he starts in 3rd form) 
-    - Vegito (base form)
-    
-
+    - Frieza (3rd form)
+      
 - We do not allow for private testing by our supporters (but if you wish, you can become an authorized tester). If you need information for league purposes,
 it must come from official league sources. 
     - These sources include but are not limited to

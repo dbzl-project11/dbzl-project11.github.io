@@ -32,7 +32,6 @@ parent: Teams
 - Broly
 - Cooler
 - Fasha
-- Future Gohan
 - Garlic Jr.
 - Gogeta
 - Janemba

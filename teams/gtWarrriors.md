@@ -9,7 +9,7 @@ parent: Teams
 ![](../images/gt.jpg)
 
 ### Theme Description
-- Any character who was introduced or played a significant role in a significant fight in DragonBall GT.
+- Any character who made significant contribution to the story of DragonBall GT.
 
 
 ### Team restrictions:
@@ -31,17 +31,24 @@ parent: Teams
   - N/A
   
 ### Master List
+  - Android 17
   - Android 18
   - Baby Vegeta
   - End Goku
   - Final Form Frieza
       - Must be in this form.
       - Cold Kingdom must drop Frieza before he can be picked up by GT.
+  - Gero
   - GT Goku
+  - Kibito Kai
+     - Must start in this form.
   - Krillin
+  - Late Piccolo
+  - Majin Buu
   - Nuova Shenron
       - Banned from Eternal Life
   - Pan
+  - Pilaf
   - Super 17
   - SS4 Vegeta
   - Syn Shenron

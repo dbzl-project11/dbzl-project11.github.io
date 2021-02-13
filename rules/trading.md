@@ -11,8 +11,17 @@ characters during drop/add.
 
 #### Rules
 
-- Teams may only initiate direct swaps, with a limit of 3 teams involved in the trade.
-- Only characters may be swapped. Zeni cannot be used as part of a trade at this time.
-- Staff will review trades for balance purposes only, as we don't want teams to be OP. 
-    - The community has a generally good sense of what might be OP, so it's unlikely staff will need to step in.
- 
+1. Characters traded between team must be on both teams Master Lists.
+2. Staff reserves the right to veto trades if we believe this will make a team OP.
+3. Trading can be between multiple teams, not just 2 teams. But the character must end up on a team where they are on the Master List.
+4. Zeni may not be used in permanent trades.
+5. Teams must discuss the trading plans in the appropriate Discord channel. Any trade posted to the trade confirmation channel without discussion will be summarily dismissed.
+
+In addition to permanent trades, teams may make temporary, 1 season trades.
+
+1. Characters can be bought from other teams for a single season, and normal trading rules apply.  The main exceptions is that zeni may be used, and that only 2 teams may be involved in temporary trades.
+2. At the end of the season, the characters will return to the team they originated from.
+3. This would require both teams to still swap one character each but whichever team gives up the higher tier character will be given zeni by the other team to compensate.
+4. However, in cases where the characters are of roughly equal value, zeni may not necessarily be spent.
+
+The zeni system for loans will  have staff setting a maximum zeni that teams can offer to prevent strong teams from renting out a weak or mid tier character for enough zeni to get the strongest of FAs. Teams would then negotiate amongst themselves to land on a fair zeni price. As with all trades though if staff feels the trade is too one sided we will reserve the right to veto

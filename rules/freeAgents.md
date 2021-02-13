@@ -20,7 +20,8 @@ At this time, the characters guaranteed to be Free Agents are:
 - Vegito (base form)
 
 There are, of course, other characters available as Free Agents, but aren't guaranteed to be such. A final list of available
-Free Agents will be produced each season after the team drop/add window has completed.
+Free Agents will be produced each season after the team drop/add window has completed. Starting with the 2021 season, 
+staff may add additional FAs to the pool using unused forms of charcters with multiple transformations.
 
 Other available FAs (as of the time this was posted) include the following:
 

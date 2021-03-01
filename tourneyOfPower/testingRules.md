@@ -28,7 +28,7 @@ parent: Tournament of Power
 
 3v3:
 
-*  1 test with 2 guaranteed rounds (formatted as 1 3v3 2R)
+* 1 elimination round (formatted as: 1 3v3 1R)
 
 
 ##### Template:

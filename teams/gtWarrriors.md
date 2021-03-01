@@ -13,18 +13,15 @@ parent: Teams
 
 
 ### Team restrictions:
-  -  No combination of builds that can allow SS4 Gogeta to occur will be allowed.
+  -  GT Goku and SS4 Vegeta have been modded to be unable to fuse in SS4 Gogeta.
 
 ### Current Roster and specific player restrictions
 
 - GT Goku
   -  Cannot start in SS4.
-  -  Must have a free Broly's Ring if SS4 Vegeta is in. 
 - SS4 Vegeta
-  - Must have a free Broly's Ring if GT Goku is in.
   - Banned from Master Blast and Rush Blast 2.
 - Syn Shenron
-  - Must have a free Broly's Ring.
 - Baby Vegeta
   - Must start in base or SS1 forms.
 - Pan

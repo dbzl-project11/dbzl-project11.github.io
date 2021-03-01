@@ -16,8 +16,8 @@ parent: Teams
 ### Current Roster and specific player restrictions
 
 - Android 18
-- Majuub
 - Early Piccolo
+- Majuub
 - Eighter
 - End Vegeta
   - Must start in either SSJ1 form, or Base form.

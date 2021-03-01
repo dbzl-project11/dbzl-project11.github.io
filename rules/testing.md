@@ -21,7 +21,7 @@ parent: Rules
         - 2 single round matches (formatted as: 2 2v2 1R)
     
     - 3v3 
-        - 1 elimination round (formatted as: 1 3v3 1R)
+        - 1 test with 2 guaranteed rounds (formatted as 1 3v3 2R)
     - 4v4 
         - 1 elimination round (formatted as: 1 4v4 1R)
         - Once a week.

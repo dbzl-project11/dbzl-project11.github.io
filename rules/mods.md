@@ -43,14 +43,14 @@ The sole remaining healing B1 to this is Garlic Jr's Makyo Star, as it heals les
     - Ki charge rate has been slightly decreased.
     - Burst attack damage reduced from 8560 to 7210
     - Burning Tornado damage reduced from 9510 to 7720.
-- Kid Goku
-    - Defense negative decreased from -2 to -1.
 - Guldo 
     - Defense has been changed to base.
 - Babidi
     - Defense negative decreased from -4 to -2.
 - Chiaotzu
     - Defense negative decreased from -3 to -2.
+- Pan
+    - Defense negative decreased from -2.5 to -2.
 - Vegito 
     - mods impact base form only. SSJ1 form not modded.
     - Ki charge rate has been slightly decreased.
@@ -58,17 +58,27 @@ The sole remaining healing B1 to this is Garlic Jr's Makyo Star, as it heals les
     - Super Kamehameha damage reduced from 15120 to 14800.
 - Videl/Saiyawoman
     - Ki blasts have been replaced with melee attacks.
+    - Videl and Saiyawoman can no longer transform into each other.
+    - These characters can now be in the same lineup.
 - Adult Gohan/Saiyaman
     - Adult Gohan and Saiyaman can no longer transform into each other.
+    - These characters can now be in the same lineup.
 - Syn Shenron
     - Blazing Storm damage reduced from 10000 to 8510
     - Gigantic Blaze damage reduced from 16080 to 14940
+    - Cost to transform into Omega Shenron increased from 2 Blast Stocks to 3.
+-Omega Shenron
+    - Dragonic Thunder damage reduced from 9340 to 8430.
+    - Minus Energy Power Ball damaged reduced from 15480 to 14560.
 - Zangya
     - Defense has been changed to base levels.
 - SS4 Vegeta
     - Spirit Breaking Cannon now costs 4 bars of ki.
     - Spirit Breaking Cannon damage reduced from 9010 to 8120
     - Final Flash damage reduced from 9040 to 7600.
+    - Can no longer initiate fusion with Gt Goku to form SS4 Gogeta
+- GT Goku
+    - SS4 GT Goku can no longer initiate fusion with SS4 Vegeta to form SS4 Gogeta
 
 - Yajirobe
     - Senzu bean has been remove.
@@ -76,7 +86,18 @@ The sole remaining healing B1 to this is Garlic Jr's Makyo Star, as it heals les
 - Frieza Soldier
     - Sleep removed
     - Defense negative decreased from -4 to -2.
-    
+
+- Broly
+    - Cost to transform from Super Saiyan to Legendary Super Saiyan increased from 2 B1 stocks to 3.
+- Android 13
+    - Cost to transform from base to Android 13 (Fusion) -- aka Blue 13 -- has been increased from 2 B1 stocks to 3.
+- Bojack
+    - Cost to transform from base to full power form has been increased from 2 B1 stocks to 3.
+
+- Burter
+    - Defense level buffeed from -2 to base.
+    - All base ki charge stats were buffed to match Jeice's.
+  
 #### Characters impacted by Healing B1 removal
  
  - Yajirobe

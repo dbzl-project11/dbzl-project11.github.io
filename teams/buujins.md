@@ -31,5 +31,5 @@ parent: Teams
 - Majin Vegeta
   - Banned from Master Blast, and Rush Blast (2)
 - Spopovich
-- Super Buu (must start in base form)
+- Super Buu (Can start in any form)
 - Uub

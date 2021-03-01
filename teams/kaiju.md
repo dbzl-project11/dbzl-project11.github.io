@@ -18,7 +18,7 @@ parent: Teams
 
 - King Vegeta
 - Scouter Vegeta
-  - Banned from Master Blast and Rush Blast (2)
+  - Banned from Master Blast and Rush Blast (2) if he has Att+ blue potara
 - Nappa
 - Raditz
 - Bardock

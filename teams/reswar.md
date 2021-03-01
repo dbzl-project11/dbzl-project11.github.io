@@ -16,8 +16,7 @@ parent: Teams
 ### Current Roster and specific player restrictions
 
 - Android 18
-- Videl
-    - Must have free Broly's Ring.
+- Majuub
 - Early Piccolo
 - Eighter
 - End Vegeta

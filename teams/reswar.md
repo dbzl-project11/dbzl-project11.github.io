@@ -39,6 +39,7 @@ parent: Teams
 - Krillin
 - Late Piccolo
 - Majin Buu
+- Majuub
 - Mid Vegeta
 - Nam
 - Pilaf

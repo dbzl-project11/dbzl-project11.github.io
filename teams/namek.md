@@ -31,5 +31,4 @@ parent: Teams
     - Banned from Eternal Life.
 - Slug
 - Syn Shenron
-   - Not allowed to transform into Omega Shenron.
 - Tambourine

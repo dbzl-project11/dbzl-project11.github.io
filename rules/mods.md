@@ -67,9 +67,9 @@ The sole remaining healing B1 to this is Garlic Jr's Makyo Star, as it heals les
     - Blazing Storm damage reduced from 10000 to 8510
     - Gigantic Blaze damage reduced from 16080 to 14940
     - Cost to transform into Omega Shenron increased from 2 Blast Stocks to 3.
--Omega Shenron
-    - Dragonic Thunder damage reduced from 9340 to 8430.
-    - Minus Energy Power Ball damaged reduced from 15480 to 14560.
+- Omega Shenron
+  - Dragonic Thunder damage reduced from 9340 to 8430.
+  - Minus Energy Power Ball damaged reduced from 15480 to 14560.
 - Zangya
     - Defense has been changed to base levels.
 - SS4 Vegeta

@@ -17,6 +17,7 @@ parent: Teams
 
 - King Piccolo
 - Nuova Shenron
+  - Banned from Master blast, Rush Blast (2) and Banned from Eternal Life 
 - Late Piccolo
 - Nail
 - Tambourine
@@ -30,5 +31,4 @@ parent: Teams
     - Banned from Eternal Life.
 - Slug
 - Syn Shenron
-   - Not allowed to transform into Omega Shenron.
 - Tambourine

@@ -22,6 +22,7 @@ parent: Teams
 - SS4 Vegeta
   - Banned from Master Blast and Rush Blast 2.
 - Syn Shenron
+  - Banned from Master Blast and Rush Blast (2) if he has Att+ Blue Potara
 - Baby Vegeta
   - Must start in base or SS1 forms.
 - Pan

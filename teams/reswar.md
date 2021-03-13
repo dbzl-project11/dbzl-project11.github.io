@@ -16,9 +16,8 @@ parent: Teams
 ### Current Roster and specific player restrictions
 
 - Android 18
-- Videl
-    - Must have free Broly's Ring.
 - Early Piccolo
+- Majuub
 - Eighter
 - End Vegeta
   - Must start in either SSJ1 form, or Base form.
@@ -40,6 +39,7 @@ parent: Teams
 - Krillin
 - Late Piccolo
 - Majin Buu
+- Majuub
 - Mid Vegeta
 - Nam
 - Pilaf

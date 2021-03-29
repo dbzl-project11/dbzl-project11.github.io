@@ -11,10 +11,10 @@ grand_parent: Tournament of Power
 
 |Match          |  Home Team            | Away Team        | Winner          |
 | :-------------| :---------------------| :----------------| :---------------|
-| 1             |                       |                  |                 |
-| 2             |                       |                  |                 |
-| 3             |                       |                  |                 |
-| 4             |                       |                  |                 |
+| 1             | Kung Fu Generation    | Drunken Sailors  | Drunken Sailors |
+| 2             | Pepeg                 | The Old and Alone | Pepeg          |
+| 3             | Family Tree           | Spice Boys       | Family Tree     |
+| 4             | Alternative Z Fighters | Demonology      | Demonology      |
 | 5             |                       |                  |                 |
 | 6             |                       |                  |                 |
 | 7             |                       |                  |                 |
@@ -24,7 +24,7 @@ grand_parent: Tournament of Power
 ### Team Builds (Click to reveal)
 
 <div>
-<iframe width="200" height="315" scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vRy1_r3X5X4BzcVwOEARq4qCiM-Wp1F6Og4N97ORGuS8f4pG_Kd9TMIqby6wQ21SwELUUYI33LpEtDt/pub?embedded=true">testtext</iframe>
+\<iframe width="200" height="315" scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vRy1_r3X5X4BzcVwOEARq4qCiM-Wp1F6Og4N97ORGuS8f4pG_Kd9TMIqby6wQ21SwELUUYI33LpEtDt/pub?embedded=true">testtext</iframe>
 </div>
 
 <details>

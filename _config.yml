@@ -8,4 +8,4 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 
 heading_anchors: false
-markdown: GFM
+markdown: kramdown

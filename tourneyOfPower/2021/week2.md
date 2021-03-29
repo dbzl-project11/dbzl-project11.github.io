@@ -25,8 +25,11 @@ grand_parent: Tournament of Power
 
 <details>
     <summary>builds</summary>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRy1_r3X5X4BzcVwOEARq4qCiM-Wp1F6Og4N97ORGuS8f4pG_Kd9TMIqby6wQ21SwELUUYI33LpEtDt/pub?embedded=true%22%3E</iframe>
+
+
 </details>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRy1_r3X5X4BzcVwOEARq4qCiM-Wp1F6Og4N97ORGuS8f4pG_Kd9TMIqby6wQ21SwELUUYI33LpEtDt/pub?embedded=true%22%3E</iframe>
 
 
 <details>

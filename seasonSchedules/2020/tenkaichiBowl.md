@@ -59,4 +59,4 @@ grand_parent: Main League
 
 ### Gaunltet builds
 
-<iframe width=600 height=1000 scrolling"yes" src="https://docs.google.com/document/d/e/2PACX-1vSv-BRdTc7QRU7WK-YZuY_qDS03KQNs4jWCr0l1J4mbpcM97mAEPOA6dAMXxzxnq1dGUNt6O5YtQDa2/pub?embedded=true"></iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSv-BRdTc7QRU7WK-YZuY_qDS03KQNs4jWCr0l1J4mbpcM97mAEPOA6dAMXxzxnq1dGUNt6O5YtQDa2/pub?embedded=true"></iframe>

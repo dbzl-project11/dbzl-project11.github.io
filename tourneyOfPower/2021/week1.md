@@ -13,14 +13,14 @@ Map of the week: Desent (Evening)
 
 |Match          |  Home Team            | Away Team        | Winner          |
 | :-------------| :---------------------| :----------------| :---------------|
-| 1             |  Public Enemy         | Kung Fu Generation |                 |
-| 2             |  Balanced Breakfast   | Demonology       |                 |
-| 3             |  HP Goes Boom         | Spice Boys       |                 |
-| 4             |  WDFA                 | The Old And Alone |                 |
-| 5             |  Alternative Z Fighters | Bad Boys       |                  |
-| 6             |  Mean/Green Demon Kings | Drunken Sailors |                 |
-| 7             |  Family Tree          | Happy Tuesday!   |                 |
-| 8             |  Pepeg                | Chad Blades      |                 |
+| 1             |  Public Enemy         | Kung Fu Generation | Public Enemy  |
+| 2             |  Balanced Breakfast   | Demonology       | Balanced Breakfast |
+| 3             |  HP Goes Boom         | Spice Boys       | HP Goes Boom    |
+| 4             |  WDFA                 | The Old And Alone | WDFA           |
+| 5             |  Alternative Z Fighters | Bad Boys       | Bad Boys        |
+| 6             |  Mean/Green Demon Kings | Drunken Sailors | Mean/Green Demon Kings |
+| 7             |  Family Tree          | Happy Tuesday!   | Happy Tuesday!  |
+| 8             |  Pepeg                | Chad Blades      | Chad Blades     |
 
 
 ### Team Builds (Click to reveal)

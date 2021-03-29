@@ -82,3 +82,8 @@ These are the planned dates for the 2020 season.
 * Resurrected Warriors
 * Cold Kingdom
 * Rugrats
+
+
+##Stats and other seasonal information
+
+Stats and other useful info can be found [here](./stats.md)

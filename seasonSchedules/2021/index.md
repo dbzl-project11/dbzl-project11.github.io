@@ -14,6 +14,7 @@ parent: Main League
 
 [![](./images/schedule.png) ](./images/schedule.png)
 
+If you want to see your team's schedule specifically, check [here](./scheduleByTeam.md).
 
 ##Stats spreadsheet
 

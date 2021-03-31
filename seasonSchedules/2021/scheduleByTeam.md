@@ -103,6 +103,26 @@
 | 14             | Namek                 | Cold                              |
 | 15             | Namek                 | Cold                              |
 
+### Namek 
+
+|Match          |  Home Team            | Away Team        | 
+| :-------------| :---------------------| :----------------| 
+| 1             | Namek                 | Cold             | 
+| 2             | Namek                 | Royals           | 
+| 3             | Namek                 | Muscle           |
+| 4  (div)      | GT                    | Namek EK         |
+| 5             | Namek                 | Budokai          |
+| 6             | Resurrected Warriors  | Buujins          |
+| 7             | Namek                 | Sentai           | 
+| 8  (div)      | Earth Defenders       | Namek EK         |
+| 9             | Buujins               | Namek            |
+| 10            | Rugrats               | Namek            |
+| 11            | Derp                  | Namek            |
+| 12 (div)      | Kaiju                 | Namek EK         |
+| 13            | Namek                 | Androids         |
+| 14            | Cinema                | Namek            |
+| 15            | Namek                 | Hybrids          |
+
 Schedule for: Namek
 1 Namek  Cold
 2 Namek  Royals

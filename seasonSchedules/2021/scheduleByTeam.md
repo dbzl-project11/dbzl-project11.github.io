@@ -429,61 +429,26 @@
 | 14             | Namek                 | Cold                              |
 | 15             | Namek                 | Cold                              |
 
-
-Schedule for: Cold
-1 Namek  Cold
-2 Buujins  Cold
-3 Cold  Kaiju
-4 Cold  Resurrected Warriors
-5 Cold  Earth Defenders
-6 Derp  Cold SK
-7 Cold  Cinema
-8 Cold  Rugrats
-9 Hybrids  Cold
-10 Cold  Sentai SK
-11 Cold  Royals
-12 Androids  Cold
-13 Cold  GT
-14 Muscle  Cold SK
-15 Budokai  Cold
-Home matches: 8
-### Androids
+### Cold
 
 |Match          |  Home Team            | Away Team        | 
 | :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
+| 1             | Namek                 | Cold             | 
+| 2             | Buujins               | Cold             | 
+| 3             | Cold                  | Kaiju            |
+| 4             | Cold                  | Resurrected Warriors|
+| 5             | Cold                  | Earth Defenders  |
+| 6  (div)      | Derp                  | Cold SK          |
+| 7             | Cold                  | Cinema           | 
+| 8             | Cold                  | Rugrats          |
+| 9             | Hybrids               | Cold             |
+| 10 (div)      | Cold                  | Sentai SK        |
+| 11            | Cold                  | Royals           |
+| 12            | Androids              | Cold             |
+| 13            | Cold                  | GT               |
+| 14 (div)      | Muscle                | Cold SK          |
+| 15            | Budokai               | Cold             |
 
-Schedule for: Muscle
-1 Kaiju  Muscle
-2 Muscle  Rugrats
-3 Namek  Muscle
-4 Buujins  Muscle
-5 Hybrids  Muscle
-6 Sentai  Muscle SK
-7 Muscle  Royals
-8 Muscle  Cinema
-9 GT  Muscle
-10 Muscle  Derp SK
-11 Muscle  Earth Defenders
-12 Muscle  Resurrected Warriors
-13 Budokai  Muscle
-14 Muscle  Cold SK
-15 Androids  Muscle
-Home matches: 7
 
 ### Androids
 
@@ -505,24 +470,27 @@ Home matches: 7
 | 14             | Namek                 | Cold                              |
 | 15             | Namek                 | Cold                              |
 
+### Muscle
 
-Schedule for: Sentai
-1 Sentai  Rugrats
-2 GT  Sentai
-3 Sentai  Resurrected Warriors
-4 Hybrids  Sentai
-5 Kaiju  Sentai
-6 Sentai  Muscle SK
-7 Namek  Sentai
-8 Buujins  Sentai
-9 Androids  Sentai
-10 Cold  Sentai SK
-11 Sentai  Cinema
-12 Budokai  Sentai
-13 Sentai  Earth Defenders
-14 Sentai  Derp SK
-15 Sentai  Royals
-Home matches: 7
+|Match          |  Home Team            | Away Team        | 
+| :-------------| :---------------------| :----------------| 
+| 1             | Kaiju                 | Muscle           | 
+| 2             | Muscle                | Rugrats          | 
+| 3             | Namek                 | Muscle           |
+| 4             | Buujins               | Muscle           |
+| 5             | Hybrids               | Muscle           |
+| 6  (div)      | Sentai                | Muscle SK        |
+| 7             | Muscle                | Royals           | 
+| 8             | Muscle                | Cinema           |
+| 9             | GT                    | Muscle           |
+| 10 (div)      | Muscle                | Derp SK          |
+| 11            | Muscle                | Earth Defenders  |
+| 12            | Muscle                | Resurrected Warrior|
+| 13            | Budokai               | Muscle           |
+| 14 (div)      | Muscle                | Cold SK          |
+| 15            | Androids              | Muscle           |
+
+
 ### Androids
 
 |Match          |  Home Team            | Away Team        | 
@@ -543,21 +511,64 @@ Home matches: 7
 | 14             | Namek                 | Cold                              |
 | 15             | Namek                 | Cold                              |
 
+### Sentai
 
-Schedule for: Derp
-1 Hybrids  Derp
-2 Derp  Resurrected Warriors
-3 Derp  Cinema
-4 Derp  Royals
-5 Androids  Derp
-6 Derp  Cold SK
-7 GT  Derp
-8 Budokai  Derp
-9 Kaiju  Derp
-10 Muscle  Derp SK
-11 Derp  Namek
-12 Derp  Rugrats
-13 Derp  Buujins
-14 Sentai  Derp SK
-15 Derp  Earth Defenders
-Home matches: 8
+|Match          |  Home Team            | Away Team        | 
+| :-------------| :---------------------| :----------------| 
+| 1             | Sentai                | Rugrats          | 
+| 2             | Gt                    | Sentai           | 
+| 3             | Sentai                | Resurrected Warriors|
+| 4             | Hybrids               | Sentai           |
+| 5             | Kaiju                 | Sentai           |
+| 6  (div)      | Sentai                | Muscle SK        |
+| 7             | Namek                 | Sentai           | 
+| 8             | Buujins               | Sentai           |
+| 9             | Androids              | Sentai           |
+| 10 (div)      | Cold                  | Sentai SK        |
+| 11            | Sentai                | Cinema           |
+| 12            | Budokai               | Sentai           |
+| 13            | Sentai                | Earth Defenders  |
+| 14 (div)      | Sentai                | Derp SK          |
+| 15            | Sentai                | Royals           |
+
+
+### Androids
+
+|Match          |  Home Team            | Away Team        | 
+| :-------------| :---------------------| :----------------| 
+| 1             | Sentai                | Rugrats           | 
+| 2             | Buujins               | Resurrected Warriors         | 
+| 3             | Royals                | Budokai            
+| 4             | Cinema                | GT                                  |
+| 5             | Hybrids               | Derp                                |
+| 6             | Earth Defenders       | Androids                           |
+| 7             | Kaiju                 | Muscle                             | 
+| 8             | Namek                 | Cold                              |
+| 9             | Namek                 | Cold                              |
+| 10             | Namek                 | Cold                              |
+| 11            | Namek                 | Cold                              |
+| 12             | Namek                 | Cold                              |
+| 13             | Namek                 | Cold                              |
+| 14             | Namek                 | Cold                              |
+| 15             | Namek                 | Cold                              |
+
+### Derp
+
+|Match          |  Home Team            | Away Team        | 
+| :-------------| :---------------------| :----------------| 
+| 1             | Hybrids               | Derp             | 
+| 2             | Derp                  | Resurrected Warriors|           
+| 3             | Derp                  | Cinema           |
+| 4             | Derp                  | Royals           |
+| 5             | Androids              | Derp             |
+| 6  (div)      | Derp                  | Cold SK          |
+| 7             | GT                    | Derp             | 
+| 8             | Budokai               | Derp             |
+| 9             | Kaiju                 | Derp             |
+| 10 (div)      | Muscle                | Derp SK          |
+| 11            | Derp                  | Namek            |
+| 12            | Derp                  | Rugrats          |
+| 13            | Derp                  | Buujins          |
+| 14 (div)      | Sentai                | Derp SK          |
+| 15            | Derp                  | Earth Defenders  |
+

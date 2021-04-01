@@ -1,4 +1,11 @@
+---
+layout: default
+title: 2021 Schedule by team
+nav_exclude: true
+---
 
+
+## 2021 Schedule by team
 
 ### Buujins
 
@@ -21,6 +28,7 @@
 | 15             | Buujins              | Rugrats                              |
 
 ### Hybrids
+
 |Match          |  Home Team            | Away Team        | 
 | :-------------| :---------------------| :----------------| 
 | 1             | Hybrids               | Derp             | 

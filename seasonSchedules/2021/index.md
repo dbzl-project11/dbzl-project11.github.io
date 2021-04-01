@@ -3,7 +3,7 @@ layout: default
 title: 2021 Season
 has_children: true
 has_toc: false
-nav_order: 1
+nav_order: 2
 parent: Main League
 ---
 
@@ -14,8 +14,9 @@ parent: Main League
 
 [![](./images/schedule.png) ](./images/schedule.png)
 
+If you want to see your team's schedule specifically, check [here](./scheduleByTeam.md).
 
-##Stats spreadsheet
+## Stats spreadsheet
 
 The stats spreadsheet for the season can be found [here](./stats.md).
 

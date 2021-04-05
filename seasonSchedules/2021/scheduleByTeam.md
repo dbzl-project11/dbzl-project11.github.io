@@ -7,6 +7,8 @@ nav_exclude: true
 
 ## 2021 Schedule by team
 
+## North Kai
+
 ### Buujins
 
 |Match          |  Home Team            | Away Team        | 
@@ -47,69 +49,48 @@ nav_exclude: true
 | 14            | Hybrids               | GT               |
 | 15            | Namek                 | Hybrids          |
  
-
 ### Budokai
 
 |Match          |  Home Team            | Away Team        | 
 | :-------------| :---------------------| :----------------| 
 | 1             | Royals                | Budokai           | 
 | 2             | Budokai               | Cinema         | 
-| 3             | Budokai                | Buujins NK            
+| 3  (div)           | Budokai                | Buujins NK            
 | 4             | Rugrats                | Budokai                                  |
 | 5             | Namek               | Budokai                                |
 | 6             | Budokai      | Kaiju                           |
-| 7             | Hybrids                 |  Budokai NK                             | 
+| 7  (div)           | Hybrids                 |  Budokai NK                             | 
 | 8             | Budokai                 | Derp                              |
 | 9             | Earth Defenders                 | Budokai                              |
 | 10             | GT                 | Budokai                              |
-| 11            | Androids                 | Budokai NK                              |
+| 11 (div)           | Androids                 | Budokai NK                              |
 | 12             | Budokai                 | Sentai                              |
 | 13             | Budokai                 | Muscle                              |
 | 14             | Budokai                 | Resurrected Warriors                              |
 | 15             | Budokai                 | Cold                              |
  
-
-
 ### Androids
 
 |Match          |  Home Team            | Away Team        | 
 | :-------------| :---------------------| :----------------| 
 | 1             | Earth Defenders                | Androids           | 
 | 2             | Kaiju               | Androids       | 
-| 3             | Androids                | Hybrids NK            
+| 3 (div)            | Androids                | Hybrids NK            
 | 4             | Cinema                | Androids                                  |
 | 5             | Androids               | Derp                                |
 | 6             | GT      | Androids                           |
-| 7             | Buujins                 | Androids NK                             | 
+| 7 (div)            | Buujins                 | Androids NK                             | 
 | 8             | Royals                 | Androids                              |
 | 9             | Androids                 | Sentai                              |
 | 10             | Androids                 | Resurrected Warriors                              |
-| 11            | Androids                 | Budokai NK                              |
+| 11 (div)           | Androids                 | Budokai NK                              |
 | 12             | Androids                 | Cold                              |
 | 13             | Namek                 | Androids                              |
 | 14             | Rugrats                 | Androids                              |
 | 15             | Androids                 | Muscle                              |
 
 
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
+## East Kai
 
 ### Namek 
 
@@ -131,27 +112,6 @@ nav_exclude: true
 | 14            | Cinema                | Namek            |
 | 15            | Namek                 | Hybrids          |
 
-
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
-
 ### GT
 
 |Match          |  Home Team            | Away Team        | 
@@ -172,27 +132,6 @@ nav_exclude: true
 | 14            | Hybrids               | GT               |
 | 15            | Resurrected Warriors  | GT               |
 
-
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
-
 ### Kaiju
 
 |Match          |  Home Team            | Away Team        | 
@@ -212,27 +151,6 @@ nav_exclude: true
 | 13            | Kaiju                 | Hybrids          |
 | 14            | Kaiju                 | Buujins          |
 | 15            | Cinema                | Kaiju            |
-
-
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
 
 ### Earth Defenders
 
@@ -255,25 +173,7 @@ nav_exclude: true
 | 15            | Derp                  | Earth Defenders  |
 
 
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
+## West Kai
 
 ### Royals
 
@@ -295,27 +195,6 @@ nav_exclude: true
 | 14            | Earth Defenders       | Royals           |
 | 15            | Sentai                | Royals           |
 
-
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
-
 ### Rugrats
 
 |Match          |  Home Team            | Away Team        | 
@@ -335,27 +214,6 @@ nav_exclude: true
 | 13 (div)      | Rugrats               | Royals WK        |
 | 14            | Rugrats               | Androids         |
 | 15            | Buujins               | Rugrats          |
-
-
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
 
 ### Cinema
 
@@ -377,27 +235,7 @@ nav_exclude: true
 | 14            | Cinema                | Namek            |
 | 15            | Cinema                | Kaiju            |
 
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
-
-### Resurrected Warrior
+### Resurrected Warriors
 
 |Match          |  Home Team            | Away Team        | 
 | :-------------| :---------------------| :----------------| 
@@ -417,25 +255,8 @@ nav_exclude: true
 | 14            | Budokai               | Resurrected Warriors|
 | 15            | Resurrected Warriors  | GT               |
 
-### Androids
 
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
+## South Kai
 
 ### Cold
 
@@ -457,27 +278,6 @@ nav_exclude: true
 | 14 (div)      | Muscle                | Cold SK          |
 | 15            | Budokai               | Cold             |
 
-
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
-
 ### Muscle
 
 |Match          |  Home Team            | Away Team        | 
@@ -498,27 +298,6 @@ nav_exclude: true
 | 14 (div)      | Muscle                | Cold SK          |
 | 15            | Androids              | Muscle           |
 
-
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
-
 ### Sentai
 
 |Match          |  Home Team            | Away Team        | 
@@ -538,27 +317,6 @@ nav_exclude: true
 | 13            | Sentai                | Earth Defenders  |
 | 14 (div)      | Sentai                | Derp SK          |
 | 15            | Sentai                | Royals           |
-
-
-### Androids
-
-|Match          |  Home Team            | Away Team        | 
-| :-------------| :---------------------| :----------------| 
-| 1             | Sentai                | Rugrats           | 
-| 2             | Buujins               | Resurrected Warriors         | 
-| 3             | Royals                | Budokai            
-| 4             | Cinema                | GT                                  |
-| 5             | Hybrids               | Derp                                |
-| 6             | Earth Defenders       | Androids                           |
-| 7             | Kaiju                 | Muscle                             | 
-| 8             | Namek                 | Cold                              |
-| 9             | Namek                 | Cold                              |
-| 10             | Namek                 | Cold                              |
-| 11            | Namek                 | Cold                              |
-| 12             | Namek                 | Cold                              |
-| 13             | Namek                 | Cold                              |
-| 14             | Namek                 | Cold                              |
-| 15             | Namek                 | Cold                              |
 
 ### Derp
 

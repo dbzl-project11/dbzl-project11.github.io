@@ -23,7 +23,7 @@ There are, of course, other characters available as Free Agents, but aren't guar
 Free Agents will be produced each season after the team drop/add window has completed. Starting with the 2021 season, 
 staff may add additional FAs to the pool using unused forms of charcters with multiple transformations.
 
-Other available FAs (for the 2021 season):
+All available FAs (for the 2021 season):
 
 - 10 zeni:
     - Appule

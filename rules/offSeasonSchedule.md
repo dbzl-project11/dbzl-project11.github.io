@@ -16,7 +16,7 @@ The offseason is comprised of several components:
 - Coach tryouts
 - Trading window
 - Drop/add
-- Season Bidding
+- Seasonal Bidding
 
 Additionally, staff will announce any rule changes or balance changes as early into the off-season as possible.
 
@@ -39,6 +39,8 @@ of characters will be used, if applicable. As a side effect, a select number of 
 
 - For example, Cold Kingdom must declare which form Frieza and Cooler will be in at this time. 
 
+After drop/add completes, staff will determine the free agent list and free agent costs.
+
 ### Seasonal Bidding
 
-This is when teams will bid on their team's home map, theme song and free agent using their zeni. 
+This is when teams will bid on their team's seasonal free agent and home map using their zeni. Team themes will be made available on a first come first serve basis.

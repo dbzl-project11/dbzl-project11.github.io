@@ -24,7 +24,7 @@ and the same +1 potara as a boost on that same character, the corresponding +2 p
 Please remember that this does take up one of your 7 customization slots, and potara rules for characters are still in effect. 
 The store does not allow you to put potaras on characters that are not allowed to use them. However, these free potaras will 
 bypass potara limits. For instance, if you have Dragon Power on Krillin and Yamcha, you may use the Dragon Power boost on 
-Chiaotzu and Goku so that everyone has Dragon Power that week. Note that purchasing lower versions of a potara doesn not 
+Chiaotzu and Goku so that everyone has Dragon Power that week. Note that purchasing lower versions of a potara does not 
 cause them to stack. For instance, Power of Rage + Unleashed Ki =/= Dragon Power. The game always prioritizes the higher 
 boost.
 	
@@ -58,8 +58,6 @@ boost.
     
 #### Other boosts
 
-<details>
-  <summary>Boosts not applicable to 2020 season (click to reveal)</summary>
   
 - Immediately "rotate" your free agent regardless of what week it is - 2 Zenni
     - This boost would also enable you to trade out someone who was already rotated out as if it was a week where you could do so normally. For example, if you are the Earth's Defenders, and you have Mid Vegeta (Your free agent), Goku, Tien, Krillin, and Yamcha in as fighters and Chiaotzu swapped out. You may choose to use this boost to swap Krillin out and Chiaotzu in as fighters.
@@ -69,9 +67,6 @@ The weeks you normally rotate your free agent bench are the following:
     Week 1 (meaning you can start the season with whatever Free Agent you wish)
     Week 6
     Week 11
-    At the beginning of the playoffs, you may rotate your free agent bench around again. To ensure you have the best team you can create for the playoffs.
-
-</details>
 
 - Remove a limiter! (Only usable once in a season) - 10 Zenni
     - This boost enables you to remove a "Limiter ring" on one of your players. This is more of a safety feature in case things aren't going right, and you wish for that character to transform once again. Please note, that once you remove a limiter, you may not put another one on a seperate character. Once a Limiter is used, or removed, there is no reversing that decision. So please, use this boost wisely.

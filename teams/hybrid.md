@@ -15,11 +15,11 @@ parent: Teams
 
 ### Current Roster and player specific restrictions
 
-- Sword Trunks
-- Future Gohan
+- Sword Trunks (Base)
+- Future Gohan (Base)
 - Ultimate Gohan
 - Kid Gohan
-- Teen Gohan
+- Teen Gohan (SSJ1)
   - Cannot start in SSJ2 form.
   - If he can transform into SSJ2 form, he cannot have Kibito's Secret Art or Secret Measures.
   

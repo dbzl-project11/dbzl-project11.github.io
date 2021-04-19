@@ -15,15 +15,15 @@ parent: Teams
 
 ### Current Roster and specific player restrictions
 
-- Master Roshi
-- Broly
+- Recoome
+- Broly (SSJ)
   - May not start in Legendary SSJ Broly form
 - Bojack
   - Must start in base form. 
 - Android 13
   - Must start in Base form
   - Banned from High Tension and Eternal Life
-- Adult Trunks
+- Adult Trunks (Base)
   - Must start in base form, or SSJ1 form. 
   
 ### Master List

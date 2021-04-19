@@ -15,11 +15,11 @@ parent: Teams
  
 ### Current Roster and specific player restrictions
 
-- Android 18
-- Early Piccolo
+- Yajirobe
+- Early Goku
 - Majuub
 - Eighter
-- End Vegeta
+- End Vegeta (Base)
   - Must start in either SSJ1 form, or Base form.
   - Banned from Master Blast, and Rush Blast (2)
 

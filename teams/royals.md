@@ -18,10 +18,10 @@ parent: Teams
     - Must start in base form.
 - Demon King Dabura
   - Banned from Master Blast, and Rush Blast (2) if he has Att+ Blue potara 
-- Lord Mecha-Frieza
+- Meta Cooler
 - (Prince) Majin Vegeta
   - Banned from Master Blast, and Rush Blast (2) if he has Att+ Blue potara
-- Emperor Pilaf
+- Baby Vegeta 
     - Must start in base form.
 
 ### Master List

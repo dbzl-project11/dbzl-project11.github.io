@@ -17,11 +17,11 @@ parent: Teams
 ### Current Roster and specific player restrictions
 
 - Krillin
-- Mid Goku
+- Mid Goku (SSJ)
   - Banned from Kibito’s Secret Arts, and Secret Measures
 - Tien
-- Yamcha
-- Mid Vegeta
+- End Goku (Base)
+- Mid Vegeta (SSJ1)
   - Must start in base form or SSJ1
   - Banned from Master Blast, and Rush Blast (2)
   

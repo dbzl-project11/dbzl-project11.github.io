@@ -16,10 +16,9 @@ For teams with only 1 healing transformation, only the character with the transf
         - Androids (Cell)
         - Cold Kingdom (Frieza and Cooler)
         
-- Super Saiyan in general may not start above SSJ1, but this is handled on a case by case basis. These characters may start above SSJ1.
+- Which Super Saiyan a character may start in is handled on a case by case basis. These characters may start above SSJ1.
     - GT Goku (He may start in any form from SSJ3 and below), 
     - SS4 Vegeta (since this is his only form)
-    - End Vegeta (may start in any form)
 
 - Any character with a giant form (That has a permanent brick wall) may not start in that giant form. There are no exceptions.
 
@@ -28,7 +27,7 @@ For teams with only 1 healing transformation, only the character with the transf
     - Goten (SSJ1)
     - Adult Gohan (SSJ1)
 
-- Forms of characters are not considered to be separate characters. The exceptions are: 
+- Forms of characters are not considered to be separate characters. The exceptions below have also been modded to allow them to be in the same lineup : 
     - Adult Gohan/Saiyaman. 
         - They have also been modded to be unable to transform into the other.
     - Videl/Saiyawoman 

@@ -17,8 +17,7 @@ grand_parent: Main League
 
 
 
-### Team Builds Round 1 (Click to reveal)
-
+### Team Builds Round 1 
 
 ### Quarterfinals match Round 2
 
@@ -40,4 +39,4 @@ grand_parent: Main League
 |            |       |    |
 
 
-### Team Builds Rounds 2 and 3 (Click to reveal)
+### Team Builds Rounds 2 and 3 

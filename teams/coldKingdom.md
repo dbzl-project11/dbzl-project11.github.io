@@ -16,11 +16,11 @@ parent: Teams
 
 ### Current Roster and specific player restrictions:
 
-- Metacooler
+- Lord Mecha Frieza
 - Frieza
   - Banned from Master Blast, and Rush Blast (2) if starting in 3rd form.
 - Cooler
-- Recoome
+- Monster Zarbon
 - King Cold
   
 ### Master List

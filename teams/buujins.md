@@ -17,7 +17,7 @@ parent: Teams
 ### Current Roster and specific player restrictions
 
 - Majin Buu
-- Super Buu
+- Gohan Buu (Buuhan)
 - Evil Buu
 - Kid Buu
 - Spopovich

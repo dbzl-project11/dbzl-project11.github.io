@@ -20,9 +20,8 @@ parent: Teams
 - Salza
 - Supreme Kai
   - Banned from Eternal Life if he can gain health from transforming. 
-- Devilman
-- Dr. Gero (Android 20)
-  - Banned from Recoome AI.
+- Dodoria
+- Cui
 
 ### Master List
 - Android 19

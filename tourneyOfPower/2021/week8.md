@@ -1,168 +1,40 @@
 ---
 layout: default
-title: 2021 Season Week 8
+title: 2021 Season Week 8 - Finals
 has_children: false
 nav_order: 9
 parent: 2021 ToP Season
 grand_parent: Tournament of Power
 ---
 
-### Schedule
+### Finals 
 
-|Match          |  Home Team            | Away Team        | Winner          |
+|Round          |  Home Team            | Away Team        | Winner          |
 | :-------------| :---------------------| :----------------| :---------------|
-| 1             |                       |                  |                 |
-| 2             |                       |                  |                 |
-| 3             |                       |                  |                 |
-| 4             |                       |                  |                 |
-| 5             |                       |                  |                 |
-| 6             |                       |                  |                 |
-| 7             |                       |                  |                 |
-| 8             |                       |                  |                 |
+| 1             | Demonology            | Happy Tuesday!   | Happy Tuesday!  |
+| 2             | Demonology            | Happy Tuesday!   | Happy Tuesday!  |
 
 
-### Team Builds (Click to reveal)
-
-<details>
-  <summary>WDFA</summary>
-
-- Android 17
-- Android 8
-- Pilaf Machine
-
-</details>
-
-<details>
-  <summary>Bad Boys</summary>
-
-- Majin Buu
-- Cui
-- Vegeta (second form)
-
-</details>
-
-<details>
-  <summary>Balanced Breakfast</summary>
-
-- Jeice
-- Bardock
-- Syn Shenron
-
-</details>
-
-<details>
-  <summary>Kung Fu Generation</summary>
-
-- Pikkon
-- Chi-Chi
-- Pan 
-</details>
-
-<details>
-  <summary>Spice Boys</summary>
-
-- Cell
-- Grandpa Gohan
-- Burter
-
-</details>
-
-<details>
-  <summary>HP Goes Boom</summary>
-
-- Tien
-- Android 16
-- Chiaotzu
-
-</details>
-
-<details>
-  <summary>Public Enemy</summary>
-
-- Yajirobe
-- Android 19
-- Kid Trunks
-
-</details>
-
-<details>
-  <summary>Drunken Sailors</summary>
-
-- Cooler
-- Scouter Vegeta
-- Guldo
-
-</details>
-
-<details>
-  <summary>Alternative Z Fighters</summary>
-
-- General Blue
-- Spopovich
-- Mid Goku
-
-</details>
-
-<details>
-  <summary>Happy Tuesday!</summary>
-
-- Piccolo (End)
-- Nam
-- Master Roshi
-
-</details>
-
-<details>
-  <summary>Chad Blades</summary>
-
-- Vegito
-- Salza
-- Sword Trunks
-
-</details>
-
-<details>
-  <summary>Family Tree</summary>
-
-- Early Goku
-- Goten
-- Raditz
-
-</details>
-
-<details>
-  <summary>Demonology</summary>
-
-- Kid Buu
-- Babidi
-- Tambourine
-
-</details>
+### Bronze medal match
+|Round          |  Home Team            | Away Team        | Winner          |
+| :-------------| :---------------------| :----------------| :---------------|
+| 1             | Bad Boys              | WDFA             | WDFA  |
+| 2             | Bad Boys              | WDFA             | Bad Boys   |
+| 3             | Bad Boys              | WDFA             | WDFA  |
 
 
-<details>
-  <summary>Pepeg</summary>
+### Finals and Bronze medal match Team Builds 
 
-- Tapion
-- Broly
-- Supreme Kai
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSTQr1t2cvNDfTxl4PU44TnJVbJNGitNZtiLQwrqo-fU2GF6UDKqy7qGjC_Pzte0WEpsTIYOZFDN-HK/pub?embedded=true"></iframe>
 
-</details>
+### Kai matches
 
-<details>
-  <summary>Mean/Green demon Kings</summary>
+| Match          |  Home Team            | Away Team        | Winner          |
+| :-------------| :---------------------| :----------------| :---------------|
+| Winners        | East Kai              | South Kai        | South Kai  |
+| Losers         | North kai             | West Kai         | West Kai  |
 
-- Dabura
-- King Piccolo
-- Saibaman
 
-</details>
+### Kai match builds
 
-<details>
-  <summary>The Old and the Restless</summary>
-
-- Baby Vegeta
-- Nail
-- Zangya
-
-</details>
+<iframe width=600 height=1000 scrolling="yes"  src="https://docs.google.com/document/d/e/2PACX-1vSgcIpE657UARJNQNv-xWIO-8Wjj9JFhRDYq3BxqTg3kGNa2w7JgJ2aAErvksXZVt6cdvBtwBa4QfNi/pub?embedded=true"></iframe>

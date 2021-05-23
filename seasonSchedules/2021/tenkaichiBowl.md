@@ -36,7 +36,7 @@ grand_parent: Main League
 |                 |            |          |
 |                 |            |          |
 
-### Championship Rounds 3-5 (Click to reveal)
+### Championship Rounds 3-5 
 
 
 

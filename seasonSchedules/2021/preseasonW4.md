@@ -19,5 +19,5 @@ grand_parent: Main League
 | 8             | GT                    |  Resurrected Warriors |          |
 
 
-### Team Builds (Click to reveal)
+### Team Builds 
 	 	 	  		 	

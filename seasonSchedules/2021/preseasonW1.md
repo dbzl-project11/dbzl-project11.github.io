@@ -20,5 +20,7 @@ grand_parent: Main League
 
 (div) indicates a divisional match
 
-### Team Builds (Click to reveal)
+### Team Builds
+
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vS8cfRZ7oKcJMj0LOoPIBmzsjGqjZg_XJn6SSdBrHSs9rOLDK-bBDvP7FW1x6vh0TLbu7WJeznxePGy/pub?embedded=true"></iframe>
 	 	 	 	 	 	 	 

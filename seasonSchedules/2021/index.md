@@ -59,6 +59,7 @@ These are the planned dates for the 2021 season.
 11/20/2021 - Semi-Finals (Match 1)<br />
 11/27/2021 - Semi-Finals (Match 2&3)<br />
 12/4/2021 - Tenkaichi Bowl<br />
+12/11/2021 - Tenkaichi Bowl week 2<br />
 
 
 # Kai Placements

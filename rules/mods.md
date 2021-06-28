@@ -110,3 +110,7 @@ The sole remaining healing B1 to this is Garlic Jr's Makyo Star, as it heals les
  - Cui
  - Frieza Soldier
  - Grandpa Gohan
+ - Base Goten
+ - Ape Raditz
+ - Ape Kid Goku
+ 

@@ -16,7 +16,7 @@ grand_parent: Main League
 | 5             | Hybrids               | Derp               | Derp               |
 | 6             | Earth Defenders       | Androids           | Earth Defenders                |
 | 7             | Kaiju                 | Muscle             | Kaiju                | 
-| 8             | Namek                 | Cold               | Cold                |
+| 8             | Namek                 | Cold               | Cold               |
 
 
 ### Team Builds 

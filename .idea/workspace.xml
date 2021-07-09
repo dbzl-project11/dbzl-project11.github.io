@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="49acee10-4cc1-4ae0-9da4-a709b0a68fa7" name="Default Changelist" comment="SF builds builds 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seasonSchedules/2020/tenkaichiBowl.md" beforeDir="false" afterPath="$PROJECT_DIR$/seasonSchedules/2020/tenkaichiBowl.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasonSchedules/2021/seasonW1.md" beforeDir="false" afterPath="$PROJECT_DIR$/seasonSchedules/2021/seasonW1.md" afterDir="false" />
     </list>
     <list id="79992e46-0338-4271-bbe1-4443285b87eb" name="Week 1 builds" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609872252354</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Week 1 update">
+      <created>1624789041003</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1624789041003</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Healing b1 character update">
+      <created>1624885435534</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1624885435534</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +204,8 @@
     <MESSAGE value="Week 15 builds" />
     <MESSAGE value="SF builds builds 1" />
     <MESSAGE value="SF builds builds 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="SF builds builds 2" />
+    <MESSAGE value="Week 1 update" />
+    <MESSAGE value="Healing b1 character update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Healing b1 character update" />
   </component>
 </project>

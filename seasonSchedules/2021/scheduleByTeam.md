@@ -101,7 +101,7 @@ nav_exclude: true
 | 3             | Namek                 | Muscle           |
 | 4  (div)      | GT                    | Namek EK         |
 | 5             | Namek                 | Budokai          |
-| 6             | Resurrected Warriors  | Buujins          |
+| 6             | Resurrected Warriors  | Namek         |
 | 7             | Namek                 | Sentai           | 
 | 8  (div)      | Earth Defenders       | Namek EK         |
 | 9             | Buujins               | Namek            |

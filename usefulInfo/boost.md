@@ -46,7 +46,7 @@ boost.
     - Indignation!	
     - Fighting Spirit!
     - Draconic Aura
-    - Defense +1 (Not available with Defense +3 builds)
+    - Defense +1 
 - 4 zenni 
     - Super +1	
     - Attack +1	

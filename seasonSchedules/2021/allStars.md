@@ -8,10 +8,10 @@ grand_parent: Main League
 ### Schedule
 
 #### Sweeper Games
-|Match           |  Team                 | Damage done           |  
+| Match           |  Team                 | Damage done           |  
 | :------------- | :---------------------| :---------------------| 
-|  1             | Androids  |   bars                     |  
-|  2             | Budokai   |   bars                     |  
+|  1             | Androids              |   bars                |  
+|  2             | Budokai               |   bars                |  
 |  3             | Buujins   |   bars                     | 
 |  4             | Cinema      |   bars     |  
 |  5             | Cold Kingdom  |   bars      |  

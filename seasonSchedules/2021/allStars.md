@@ -8,6 +8,7 @@ grand_parent: Main League
 ### Schedule
 
 #### Sweeper Games
+
 |Match          |  Team            | Bars of damage       | Success          |
 | :-------------| :---------------------| :----------------| :---------------|
 |  1             | Androids              |   bars                |   |

@@ -9,7 +9,7 @@ grand_parent: Main League
 
 #### Sweeper Games
 |Match           |  Team                 | Damage done           |  
-| :------------- | :---------------------| :-------------------  | 
+| :------------- | :---------------------| :---------------------| 
 |  1             | Androids  |   bars                     |  
 |  2             | Budokai   |   bars                     |  
 |  3             | Buujins   |   bars                     | 
@@ -27,6 +27,11 @@ grand_parent: Main League
 | 15             | Rugrats        |  bars                      | 
 | 16             | Sentai Squad   |  bars                      | 
 
+
+### Sweeper Game Builds 
+
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vTaM4kx2OL9gCBWi86YFTelzegCcwcbUjRE0hHhHvvz6tXlIN9cD7NiO_gIOHHHMfwb4jilr6AaQ3jd/pub?embedded=true"></iframe>
+
 #### All Stars Match (best of 3)
 
 |Team           |  Match 1       | Match 2    |  Match 3   |
@@ -35,21 +40,9 @@ grand_parent: Main League
 | Guru          |                |            |            |
 
 
-### All Star Team builds (click to reveal)
-
-<details>
-  <summary>Team Kami</summary>
-<br />Map: Cell Games Arena - Evening
+### All Star Team builds 
 
 
-</details>
 
-<details>
-  <summary>Team Guru</summary>
-<br />Map: Cell Games Arena - Evening
 
- 
-</details>
-
-### Sweeper Game Builds (Click to reveal)
 

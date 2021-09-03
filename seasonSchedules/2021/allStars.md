@@ -33,6 +33,11 @@ grand_parent: Main League
 
 <iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vTaM4kx2OL9gCBWi86YFTelzegCcwcbUjRE0hHhHvvz6tXlIN9cD7NiO_gIOHHHMfwb4jilr6AaQ3jd/pub?embedded=true"></iframe>
 
+
+#### Otherworld Olympics
+
+
+
 #### All Stars Match (best of 3)
 
 |Team           |  Match 1       | Match 2    |  Match 3   |
@@ -41,9 +46,11 @@ grand_parent: Main League
 | Guru          |                |            |            |
 
 
-### All Star Team builds 
 
 
+### Otherworld Olympics and All Star Team builds 
+
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vTaX4dPdUxsmTzj0mVjhdEweqBq937O8VU2gsMIbm_ssXtBGsGWP_qnLz1wQNSNgSNPXlHLWmTRYkGp/pub?embedded=true"></iframe>
 
 
 

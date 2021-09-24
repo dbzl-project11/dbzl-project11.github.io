@@ -9,14 +9,14 @@ grand_parent: Main League
 
 |Match          |  Home Team            | Away Team           |  Winner          |
 | :-------------| :---------------------| :-------------------| :----------------|
-| 1             | Rugrats                | Namek               |                  |
-| 2             | Royals                 | Kaiju              |                  |
-| 3 (div)       | Muscle                 | Derp            |                  |
-| 4             | Androids               | Resurrected Warriors |                 |
-| 5 (div)       | Cold                   | Sentai               |                  |
-| 6             | Earth Defenders        | Buujins             |                  |
-| 7             | Cinema                 | Hybrids        |                  | 
-| 8             | GT                     | Budokai                  |                  |
+| 1             | Rugrats                | Namek              |  Namek                |
+| 2             | Royals                 | Kaiju              |  Royals                |
+| 3 (div)       | Muscle                 | Derp               |  Muscle                |
+| 4             | Androids               | Resurrected Warriors | Resurrected Warriors                |
+| 5 (div)       | Cold                   | Sentai             |   Cold               |
+| 6             | Earth Defenders        | Buujins            |  Earth Defenders                |
+| 7             | Cinema                 | Hybrids            |  Hybrids                | 
+| 8             | GT                     | Budokai            |  GT                |
 
 (div) indicates a divisional match
 

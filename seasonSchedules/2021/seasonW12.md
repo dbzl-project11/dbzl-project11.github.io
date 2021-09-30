@@ -14,7 +14,7 @@ grand_parent: Main League
 | 3             | Muscle                | Resurrected Warriors           | Muscle         |
 | 4             | Buujins  	            | Cinema            | Buujins           |
 | 5             | Budokai               | Sentai | Budokai   |
-| 6             | Royals                | Hybrids           | Hybrids          |
+| 6             | Royals                | Hybrids           | Royals          |
 | 7             | Derp                  | Rugrats          | Rugrats | 
 | 8             | Androids              | Cold     | Androids              |
 

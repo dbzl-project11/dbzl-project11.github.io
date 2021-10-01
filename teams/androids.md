@@ -40,6 +40,7 @@ parent: Teams
   - Cell Jr.
   - Cyborg Tao
   - Dr. Gero
+  - Mecha Frieza
   - Meta-Cooler
   - Super 17
   - Baby Vegeta

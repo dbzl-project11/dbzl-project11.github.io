@@ -10,15 +10,15 @@ grand_parent: Main League
 
 |  Home Team            | Away Team        | Winner          |
 | :---------------------| :----------------| :---------------|
-|               |             |         |
-|                 |            |           |
-|                |             |            |
-|  |       |     |
+|  Budokai             | Hybrids             |         |
+|  Namek               | GT            |           |
+|  Royals              | Rugrats            |            |
+|  Cold                | Derp       |     |
 
 
 
 ### Team Builds Round 1 
-
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSjH9cVNFYg3ycuH7pDgadbv7DYudzVygIPfYJFksMkciVNW54LpXlpBJJPPH4zOoWzv68WBFAeCZJg/pub?embedded=true"></iframe>
 
 ### First match Round 2
 

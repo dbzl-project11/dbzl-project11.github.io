@@ -63,46 +63,6 @@ The rules of these builds will be as follows:
 - The relevant Savior/Master blast restrictions are not applicable, as these did not exist when the Super Saiyans joined the gauntlet.
 - The Super Saiyans may start in any Super Saiyan form.
 
-#### Round 1 builds:
-<details>
-  <summary>Round 1 builds - click to reveal</summary>
-  
-- Mid Vegeta (SSJ2)
-    - Attack +2 Defense -1 (1)
-    - Serious! (1)
-    - Master Blast (1)
-    - Power of Rage (2)
-    - Dende's Healing (2)
-
-- Super Trunks (SSJ2)
-    - Defense +2 Attack -1 (1)
-    - Launch's Support (2)
-    - Eternal life (4)
-
-- End Goku (SSJ2)
-    - Attack +1 (1)
-    - Serious! (1)
-    - Dende's Healing (2)
-    - Dragon Power (3)
-
-- Adult Gohan (SSJ1)
-    - Super +2 Ki -1 (1)
-    - Light Body (1)
-    - Savior (1)
-    - Broly's Ring (1)
-    - Indignation! (1)
-    - Kibito's Secret Art (2)
-
-- End Vegeta (SSJ2)
-    - Ki +2 Super -1 (1)
-    - Fighting Spirit (1)
-    - Indignation (1)
-    - Savior (1)
-    - Master Blast (1)
-    - Kibito's Secret Art (2) 
-
-</details>
-
 ### Round 2 Team Fusion
 
 These fighters can fuse during the fight and must start in a form that can initiate fusion. 
@@ -114,48 +74,6 @@ The rules of these builds are as follows:
 - No duplication of blue potaras.
 - Yellow potaras have their normal usage limit.
     - Eternal Life has one use, but Savior could be used twice.
-
-#### Round 2 builds
-
-<details>
-  <summary>Round 2 Builds - click to reveal</summary>
-  
-- SS4 Goku
-    - Attack +1
-    - Secret Measures
-    - Dragon Spirit
-    - Fighting Spirt
-    - Indignation
-    - Launch's Support
-    - Master Roshi's Training
-
-- SS4 Vegeta
-    - Ki +3
-    - Dende's Healing
-    - Kibito's Secret Art
-    - Latent Energy
-    - Serious
-    - Savior
-    - Master Roshi's Training
-
-- End Goku (base)
-    - Super +1
-    - Kibito's Secret Art
-    - Fighting Spirit
-    - Indignation
-    - Savior
-    - Style of the Strong
-    - Master Roshi's Training
-
-- End Vegeta (base)
-    - Defense +3
-    - Eternal Life
-    - Latent Energy
-    - Serious
-    - Master Blast
-    - Master Roshi's Training
-
-</details> 
 
 ### Round 3 The Overpowered 
 
@@ -169,39 +87,6 @@ The rules of these builds will be as follows:
 - Duplication of blue potaras is allowed.
 - Yellow potaras have no usage limit.
 
-#### Round 3 Builds
-
-<details>
-  <summary>Round 3 builds - click to reveal</summary>
-  
-- Omega Shenron
-    - Super +3
-    - Medical Machine
-    - Latent Energy
-    - Indignation
-    - Fighting Spirit
-    - Launch's Support
-    - King Kai's Training
- 
-- Broly (LSSJ)
-    - Ki +3 
-    - Light body
-    - Kibito's Secret Art
-    - Spiritual Control
-    - Eternal Life
-    - Dragon Spirit
-    - King Kai's Training
- 
-- 13 (Blue)
-    - Super +3
-    - Quick Fast Attack
-    - Savior
-    - Dragon Power
-    - Medical Machine
-    - King Kai's Training
- 
-
-</details> 
 
 ### Round 4 (The ???, 5 Fighters) - 
 
@@ -213,4 +98,6 @@ The rules of these builds will be as follows:
 - to increase the challenge, this team will only be revealed if reached by a gauntlet team. 
 
 
- 
+### Gauntlet Team builds: 
+
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vTV9U6m_YQzwZF7or05rI-IAl3miGWN9FKjHkejp5ab0eGL4Tldhg5YNCHQHc0URLhB9QhUqi5fEKCO/pub?embedded=true"></iframe>

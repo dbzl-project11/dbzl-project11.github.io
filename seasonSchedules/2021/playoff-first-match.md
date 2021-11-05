@@ -10,10 +10,10 @@ grand_parent: Main League
 
 |  Home Team            | Away Team        | Winner          |
 | :---------------------| :----------------| :---------------|
-|  Budokai             | Hybrids             |         |
-|  Namek               | GT            |           |
-|  Royals              | Rugrats            |            |
-|  Cold                | Derp       |     |
+|  Budokai             | Hybrids             | Budokai        |
+|  Namek               | GT            |   Namek        |
+|  Royals              | Rugrats            |  Rugrats          |
+|  Cold                | Derp       | Derp    |
 
 
 
@@ -24,10 +24,10 @@ grand_parent: Main League
 
 |  Home Team            | Away Team        | Winner          |
 | :---------------------| :----------------| :---------------|
-|  Hybrids             | Budokai             | Budokai        |
-|  GT               | Namek                 |  Namek         |
-|  Rugrats              | Royals            | Rugrats           |
-|  Derp                | Cold               | Derp    |
+|  Hybrids             | Budokai             |         |
+|  GT               | Namek                 |           |
+|  Rugrats              | Royals            |            |
+|  Derp                | Cold               |     |
 
 ### First match Round 3 (if applicable)
 

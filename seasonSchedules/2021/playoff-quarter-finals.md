@@ -25,20 +25,20 @@ grand_parent: Main League
 
 |  Home Team            | Away Team        | Winner          |
 | :---------------------| :----------------| :---------------|
-|  Budokai              | Buujins           |         |
-|  Namek                | Earth Defenders   |           |
-|  Royals               | Resurrected Warriors |            |
-|  Derp                 | Muscle            |    |
+|  Budokai              | Buujins           | Buujins        |
+|  Namek                | Earth Defenders   | Namek          |
+|  Royals               | Resurrected Warriors | Resurrected Warriors           |
+|  Derp                 | Muscle            | Derp   |
 
 
 ### Quarterfinals match Round 3 (if applicable)
 
 |  Home Team            | Away Team        | Winner          |
 | :---------------------| :----------------| :---------------|
-|  Buujins              | Budokai            |         |
-|  Earth Defenders      | Namek           |           |
-|  Resurrected Warriors | Royals            |            |
-|  Muscle               | Derp      |    |
+|  Buujins              | Budokai            |  N/A       |
+|  Earth Defenders      | Namek           |   Earth Defenders         |
+|  Resurrected Warriors | Royals            |   Royals         |
+|  Muscle               | Derp      | Derp   |
 
 
 ### Team Builds Rounds 2 and 3 

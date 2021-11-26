@@ -10,13 +10,13 @@ grand_parent: Main League
 
 |  Home Team            | Away Team        | Winner          |
 | :---------------------| :----------------| :---------------|
-|                |            |           |
-|                |           |          |
+|  Earth Defenders      | Buujins            |           |
+|  Royals              | Derp          |          |
 
 
 
 ### Team Builds Round 1
-
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQNOyJhLz3TIL9ZUCZ0ti5x0L0sWhHDMOScKyXkDaXmvaEwaAzNrCHLxxVeTYvSJq4dy5QO5rZ3YoEU/pub?embedded=true"></iframe>
 
 ### Semifinals match Round 2
 

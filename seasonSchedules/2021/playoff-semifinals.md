@@ -16,7 +16,8 @@ grand_parent: Main League
 
 
 ### Team Builds Round 1
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQNOyJhLz3TIL9ZUCZ0ti5x0L0sWhHDMOScKyXkDaXmvaEwaAzNrCHLxxVeTYvSJq4dy5QO5rZ3YoEU/pub?embedded=true"></iframe>
+
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vQNOyJhLz3TIL9ZUCZ0ti5x0L0sWhHDMOScKyXkDaXmvaEwaAzNrCHLxxVeTYvSJq4dy5QO5rZ3YoEU/pub?embedded=true"></iframe>
 
 ### Semifinals match Round 2
 

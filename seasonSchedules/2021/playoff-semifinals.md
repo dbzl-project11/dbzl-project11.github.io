@@ -22,8 +22,8 @@ grand_parent: Main League
 ### Semifinals match Round 2
 
 |  Home Team            | Away Team        | Winner          |
-| Buujins | Earth Defenders    |        |
-| Derp          | Royals      |        |
+| Buujins | Earth Defenders    | Earth Defenders       |
+| Derp          | Royals      |  Royals      |
 
 
 
@@ -31,8 +31,8 @@ grand_parent: Main League
 ### Semifinals match Round 3 (if applicable)
 
 |  Home Team            | Away Team        | Winner          |
-| Earth Defenders | Buujins   |  |
-| Royals          | Derp      |   |
+| Earth Defenders | Buujins   | Buujins |
+| Royals          | Derp      | N/A  |
 
 
 

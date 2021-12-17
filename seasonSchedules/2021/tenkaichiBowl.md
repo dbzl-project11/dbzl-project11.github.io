@@ -10,17 +10,18 @@ grand_parent: Main League
 
 ### Championship match Rounds 1 & 2
 
-| Home Team | Away Team | Winner          |
-|:----------|:----------| :---------------|
-| Buujins   | Royals    |          |
-| Royals    | Buujins   |          |
+| Home Team | Away Team | Winner  |
+|:----------|:----------|:--------|
+| Buujins   | Royals    | Royals  |
+| Royals    | Buujins   | Buujins |
 
 ### 3rd place exhibition match (Best of 3)
 
 | Home Team       | Away Team       | Winner          |
-|:----------------|:----------------| :---------------|
-| Earth Defenders | Derp            |         |
-| Derp            | Earth Defenders |          |
+|:----------------|:----------------|:----------------|
+| Earth Defenders | Derp            | Earth Defenders |
+| Derp            | Earth Defenders | Derp            |
+| Earth Defenders | Derp            | Derp            |
 
 
 ### Week 1 builds (Click to reveal)
@@ -33,16 +34,18 @@ grand_parent: Main League
 
 |  Home Team            | Away Team        | Winner          |
 | :---------------------| :----------------| :---------------|
-|                 |            |          |
-|                 |            |          |
+| Buujins   | Royals    |   |
+| Royals    | Buujins   |  |
 
 ### Championship Rounds 3-5 
 
-
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSft26VcRLxF7H8gO0J8jtKXaCkiw7PnFU3clSg-V_XOj4D_P3EFThvmfSQMWy0kqBbygVccu94fIiY/pub?embedded=true"></iframe>
 
 ### MVP Tournament
 
 ## MVP builds
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRSpkk2Wdw1RliQ_mmBX4Gv9GUhvXcNx0-DMLYvNwKo6i0wsVwIqwK_2DYgKWm6UsaQ8tu4pJgVuep9/pub?embedded=true"></iframe>
 
 ### Gauntlet Teams
 
@@ -54,3 +57,5 @@ grand_parent: Main League
 | South Kai             |           | 
 
 ### Gaunltet builds
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRJBUnTpfp-tv0yiL7CR2K729SFMTNKdIKmknQZW65psQcTjSMo6Ualz6Nt6ZYhOR0hKlIMA1go7pqZ/pub?embedded=true"></iframe>

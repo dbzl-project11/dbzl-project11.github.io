@@ -39,13 +39,13 @@ grand_parent: Main League
 
 ### Championship Rounds 3-5 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSft26VcRLxF7H8gO0J8jtKXaCkiw7PnFU3clSg-V_XOj4D_P3EFThvmfSQMWy0kqBbygVccu94fIiY/pub?embedded=true"></iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSft26VcRLxF7H8gO0J8jtKXaCkiw7PnFU3clSg-V_XOj4D_P3EFThvmfSQMWy0kqBbygVccu94fIiY/pub?embedded=true"></iframe>
 
 ### MVP Tournament
 
 ## MVP builds
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRSpkk2Wdw1RliQ_mmBX4Gv9GUhvXcNx0-DMLYvNwKo6i0wsVwIqwK_2DYgKWm6UsaQ8tu4pJgVuep9/pub?embedded=true"></iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vRSpkk2Wdw1RliQ_mmBX4Gv9GUhvXcNx0-DMLYvNwKo6i0wsVwIqwK_2DYgKWm6UsaQ8tu4pJgVuep9/pub?embedded=true"></iframe>
 
 ### Gauntlet Teams
 
@@ -58,4 +58,4 @@ grand_parent: Main League
 
 ### Gaunltet builds
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRJBUnTpfp-tv0yiL7CR2K729SFMTNKdIKmknQZW65psQcTjSMo6Ualz6Nt6ZYhOR0hKlIMA1go7pqZ/pub?embedded=true"></iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vRJBUnTpfp-tv0yiL7CR2K729SFMTNKdIKmknQZW65psQcTjSMo6Ualz6Nt6ZYhOR0hKlIMA1go7pqZ/pub?embedded=true"></iframe>

@@ -30,3 +30,4 @@ parent: Teams
 - Saiyaman
 - Saiyawoman
 - Salza
+- Jiren

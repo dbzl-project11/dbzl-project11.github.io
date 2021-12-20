@@ -34,14 +34,16 @@ grand_parent: Main League
 
 |  Home Team            | Away Team        | Winner          |
 | :---------------------| :----------------| :---------------|
-| Buujins   | Royals    |   |
-| Royals    | Buujins   |  |
+| Buujins               | Royals           | Royals          |
+| Royals                | Buujins          | Royals          |
 
 ### Championship Rounds 3-5 
 
 <iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSft26VcRLxF7H8gO0J8jtKXaCkiw7PnFU3clSg-V_XOj4D_P3EFThvmfSQMWy0kqBbygVccu94fIiY/pub?embedded=true"></iframe>
 
 ### MVP Tournament
+
+[![](./images/mvpBracket21.png) ](./images/mvpBracket21.png)
 
 ## MVP builds
 
@@ -51,10 +53,10 @@ grand_parent: Main League
 
 |  League Team          | Final round reached|
 | :---------------------| :----------------| 
-| North Kai             |           | 
-| East Kai              |           | 
-| West Kai              |           | 
-| South Kai             |           | 
+| North Kai             | Round 2          | 
+| East Kai              | Round 1          | 
+| West Kai              | Round 3          | 
+| South Kai             | Round 2          | 
 
 ### Gaunltet builds
 

@@ -32,10 +32,10 @@ grand_parent: Main League
 
 ### Championship match Rounds 3-5 (4-5 if applicable)
 
-|  Home Team            | Away Team        | Winner          |
-| :---------------------| :----------------| :---------------|
-| Buujins   | Royals    |   |
-| Royals    | Buujins   |  |
+| Home Team | Away Team | Winner |
+|:----------|:----------|:-------|
+| Buujins   | Royals    | Royals |
+| Royals    | Buujins   | Royals |
 
 ### Championship Rounds 3-5 
 
@@ -49,12 +49,12 @@ grand_parent: Main League
 
 ### Gauntlet Teams
 
-|  League Team          | Final round reached|
-| :---------------------| :----------------| 
-| North Kai             |           | 
-| East Kai              |           | 
-| West Kai              |           | 
-| South Kai             |           | 
+| League Team           | Final round reached | |
+|:-----------------------|:--------------------| 
+| North Kai             | 2                   | 
+| East Kai              | 1                   | 
+| West Kai              | 3                   | 
+| South Kai             | 2                   | 
 
 ### Gaunltet builds
 

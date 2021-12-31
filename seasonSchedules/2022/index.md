@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2021 Season
+title: 2022 Season
 has_children: true
 has_toc: false
 nav_order: 2

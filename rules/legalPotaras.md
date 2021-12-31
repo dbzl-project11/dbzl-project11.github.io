@@ -228,6 +228,8 @@ Same as Dragon Homing +1 but instead of chasing after them you teleport behind t
 
 Z Burst Dash is a second level of Dragon dash where you circle around behind your opponent at high speed (yes they do use this in the league)
 
+- Ultimate +1 - +20% Damage to ultimates.
+
 ####  3-Point Yellow Potaras —
 
 - Draconic Aura – Increase in power to stun opponent. This is the primary brick wall breaker. 
@@ -295,6 +297,10 @@ In other words if my base Ki is 3 bars, I will gain those 3 bars quickly and the
 - Vanishing Rush – Vanishing Attack +2. 
 
 Again, don’t dismiss these abilities, these attacks do considerable damage.
+
+- Broken Glow - B2's cost half price, but you have an Attack -1 and Super -1.
+
+- Ultra Divine Water - +1 to all stats, but -1 bar of health.
 
 #### 6-Point Yellow Potaras —
 

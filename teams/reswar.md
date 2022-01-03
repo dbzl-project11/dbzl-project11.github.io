@@ -36,6 +36,7 @@ parent: Teams
 - End Vegeta
 - Frieza
 - Hercule
+- Jiren
 - Krillin
 - Late Piccolo
 - Majin Buu

@@ -98,6 +98,10 @@ The sole remaining healing B1 to this is Garlic Jr's Makyo Star, as it heals les
     - Defense level buffeed from -2 to base.
     - All base ki charge stats were buffed to match Jeice's.
   
+- Jiren
+  - Jiren replaces Frieza Soldier
+  - Jiren's character stats can be found in the [player calculator.](../usefulInfo/playerCalc.md)
+
 #### Characters impacted by Healing B1 removal
  
  - Yajirobe

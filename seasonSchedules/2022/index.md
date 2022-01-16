@@ -3,7 +3,7 @@ layout: default
 title: 2022 Season
 has_children: true
 has_toc: false
-nav_order: 2
+nav_order: 3
 parent: Main League
 ---
 
@@ -66,24 +66,24 @@ These are the planned dates for the 2022 season.
 
 ## North Kai 
 * Buujins
-* Hybrids
-* Budokai
-* Androids
+* Resurrected Warriors
+* Muscle
+* Earth Defenders
 
 ## East Kai
 * Namek
 * GT
-* Kaiju
-* Earth Defenders
+* Royals
+* Cold Kingdom
 
 ## West Kai
-* Royals
+* Budokai
 * Rugrats
-* Cinema
-* Resurrected Warriors
+* Hybrids
+* Derp
 
 ## South Kai
-* Cold Kingdom
-* Muscle
-* Sentai Squad
-* Derp
+* Androids
+* Kaiju
+* Cinema
+* Sentai

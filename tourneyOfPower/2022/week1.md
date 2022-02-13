@@ -9,7 +9,6 @@ grand_parent: Tournament of Power
 
 ### Schedule
 
-Map of the week: Desent (Evening)
 
 | Match | Home Team | Away Team | Winner |
 |:------|:----------|:----------|:-------|
@@ -25,6 +24,4 @@ Map of the week: Desent (Evening)
 
 ### Team Builds (Click to reveal)
 
-<div>
 <iframe width="600" height="1000" scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vRS_dliNwPAXjsVA9A7q3iezPNLCzLMhEDjgDL9KC2ZapmUsu2D7odpPlTtfBDd_iUXGuYXNRu3fwQR/pub?embedded=true%22%3E</iframe>
-</div>

@@ -24,4 +24,4 @@ grand_parent: Tournament of Power
 
 ### Team Builds (Click to reveal)
 
-<iframe width="600" height="1000" scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vRS_dliNwPAXjsVA9A7q3iezPNLCzLMhEDjgDL9KC2ZapmUsu2D7odpPlTtfBDd_iUXGuYXNRu3fwQR/pub?embedded=true"</iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vRS_dliNwPAXjsVA9A7q3iezPNLCzLMhEDjgDL9KC2ZapmUsu2D7odpPlTtfBDd_iUXGuYXNRu3fwQR/pub?embedded=true"</iframe>

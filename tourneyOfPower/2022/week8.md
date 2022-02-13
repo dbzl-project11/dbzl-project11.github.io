@@ -25,7 +25,7 @@ grand_parent: Tournament of Power
 
 ### Finals and Bronze medal match Team Builds 
 
-<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vT_sp7D1Lz51SOZVPT8ZSV1gkXOWd8Tw3CgRmgemg2Gy1WpAkIYT8KjDmFIbEEhw9uQOYN4C4GyaP50/pub?embedded=true%22%3E</iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vT_sp7D1Lz51SOZVPT8ZSV1gkXOWd8Tw3CgRmgemg2Gy1WpAkIYT8KjDmFIbEEhw9uQOYN4C4GyaP50/pub?embedded=true"</iframe>
 
 ### Kai matches
 

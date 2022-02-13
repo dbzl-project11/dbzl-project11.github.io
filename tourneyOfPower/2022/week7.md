@@ -17,7 +17,7 @@ grand_parent: Tournament of Power
 
 ### Team Builds
 
-<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vTNcUJ-uQ8iCANDtz5idp13xagJ76lr3FvE7BVzg3zWvxWeNV1NBXjMsTu6sBhj0GBN-oSTG6TI_gjc/pub?embedded=true"</iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vTNcUJ-uQ8iCANDtz5idp13xagJ76lr3FvE7BVzg3zWvxWeNV1NBXjMsTu6sBhj0GBN-oSTG6TI_gjc/pub?embedded=true"></iframe>
 
 ### Kai matches
 

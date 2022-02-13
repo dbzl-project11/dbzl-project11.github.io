@@ -18,4 +18,4 @@ grand_parent: Tournament of Power
 
 ### Team Builds 
 
-<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSfozVP9Y3Iy98-KRlmIQsRVg0FkS52ZmdrYk2dmF9Fki8ryScLVnxkh0gjlhvJulMSJrMZ3QTs1BpZ/pub?embedded=true"</iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSfozVP9Y3Iy98-KRlmIQsRVg0FkS52ZmdrYk2dmF9Fki8ryScLVnxkh0gjlhvJulMSJrMZ3QTs1BpZ/pub?embedded=true"></iframe>

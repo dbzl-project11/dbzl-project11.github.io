@@ -9,16 +9,16 @@ grand_parent: Tournament of Power
 
 ### Schedule
 
-| Match | Home Team | Away Team | Winner |
-|:------|:----------|:----------|:-------|
-| 1     |           |           |        |
-| 2     |           |           |        |
-| 3     |           |           |        |
-| 4     |           |           |        |
-| 5     |           |           |        |
-| 6     |           |           |        |
-| 7     |           |           |        |
-| 8     |           |           |        |
+| Match | Home Team               | Away Team          | Winner |
+|:------|:------------------------|:-------------------|:-------|
+| 1     | Team Carr(e)y           | Monsters vs Aliens |        |
+| 2     | Mystery Inc             | West City Mets     |        |
+| 3     | The Spice Boys Vol. 2   | Makyo Starship     |        |
+| 4     | Team Super Kami NAILLL  | Wild Things        |        |
+| 5     | Cannon Fodder           | Neo Demonology     |        |
+| 6     | The Fault in Our Builds | The Erinyes        |        |
+| 7     | Kung Fu Generation      | The Ginyu Force    |        |
+| 8     | Team Blue Tuesday       | Undisputed Elite   |        |
 
 
 

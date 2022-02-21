@@ -41,6 +41,13 @@ of characters will be used, if applicable. As a side effect, a select number of 
 
 After drop/add completes, staff will determine the free agent list and free agent costs.
 
+For contestable characters, there is a  6 test minimum that a team must complete before they can pickup a character. Note this only applies to characters who were available for pickup
+from the start of the off season.
+
+Example: Budokai must have a minimum of 6 tests before they can pickup Videl or Roshi if they were not on a team the previous season.
+
+Example where this does not apply: If Androids drop Super 17, GT does NOT need to do 6 tests before trying to pick him up.
+
 ### Seasonal Bidding
 
 This is when teams will bid on their team's seasonal free agent and home map using their zeni. Team themes will be made available on a first come first serve basis.

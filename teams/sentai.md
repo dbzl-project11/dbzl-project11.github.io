@@ -26,7 +26,9 @@ parent: Teams
 - Captain Ginyu
 - Guldo
 - Jeice
+- Jiren
 - Recoome
 - Saiyaman
 - Saiyawoman
 - Salza
+

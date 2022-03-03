@@ -48,7 +48,7 @@ These are the planned dates for the 2021 season.
 10/2/2021 - Week 13<br />
 10/9/2021 - Week 14<br />
 10/16/2021 - Week 15<br />
-10/23/2021 - Break<br />
+10/23/2021 - Least Valuable Player Tournament<br />
 
 ## Playoffs
 

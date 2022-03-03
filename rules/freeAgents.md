@@ -26,7 +26,7 @@ purchase the relevant boost in the [boost store](../usefulInfo/boost.md).
 
 During the pre-season and post-season, teams may switch between their FA and other characters on their team at their discretion on a weekly basis.
 
-When benching your FA, the FA will be treated as if benched on the same schedule as the character being replaced.
+When benching your FA, the FA will be treated as if benched on the same schedule as the character being replaced. The only caveat is that no character may be in more than 12 weeks of the main season under any circumstance.
 
 Example: if Budokai benched Kid Goku weeks 1 and 4 during the main season, and then chooses to swap in Pikkon for Kid Goku, 
 Pikkon will be treated as if he had been benched weeks 1 and 4.

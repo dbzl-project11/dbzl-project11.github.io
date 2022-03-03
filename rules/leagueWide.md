@@ -19,6 +19,15 @@ For teams with only 1 healing transformation, only the character with the transf
 - Which Super Saiyan a character may start in is handled on a case by case basis. These characters may start above SSJ1.
     - GT Goku (He may start in any form from SSJ3 and below), 
     - SS4 Vegeta (since this is his only form)
+    - Adult Gohan
+
+
+- For contestable characters, there is a  6 test minimum that a team must complete before they can pick up a character. Note this only applies to characters who were available for pickup
+from the start of the off season. 
+  - Example: Budokai must have a minimum of 6 tests before they can pick up Videl or Roshi if they were not on a team the previous season.
+
+  - Example where this does not apply: If Androids drops Super 17 during drop/add, GT does NOT need to do 6 tests before trying to pick him up.
+
 
 - Any character with a giant form (That has a permanent brick wall) may not start in that giant form. There are no exceptions.
 
@@ -39,16 +48,16 @@ For teams with only 1 healing transformation, only the character with the transf
     
 - The characters who have some level of restriction have these stats related to their rush blasts:
 
-|Single RB Damage | # of RBs in a volley |   
-| :-------------| :---------------------|
-| 320 | 10| 
-| 340 | 9-10| 
-| 360 | 8-9| 
-| 380 | 7-8| 
-| 400 | 6-7| 
-| 420 | 5-6| 
-| 440 | 4-5| 
-| 460 | 3-4| 
+| Single RB Damage | # of RBs in a volley |   
+|:-----------------|:---------------------|
+| 320              | 10                   | 
+| 340              | 9-10                 | 
+| 360              | 8-9                  | 
+| 380              | 7-8                  | 
+| 400              | 6-7                  | 
+| 420              | 5-6                  | 
+| 440              | 4-5                  | 
+| 460              | 3-4                  | 
 
 - The following characters have a partial Master Blast/Rush Blast 2 restriction.
     - Dabura

@@ -33,7 +33,6 @@ parent: Teams
 - Dodoria
 - 100% Final Form Frieza
    - Must be in this form
-- Frieza's Soldier
 - Hercule
 - King Cold
 - Mecha Frieza

@@ -18,7 +18,7 @@ parent: Teams
 
 - Krillin
 - Mid Goku (SSJ)
-  - Banned from Kibito’s Secret Arts, and Secret Measures
+  - Banned from Kibito's Secret Art & Secret Measures if starting in SSJ form.
 - Tien
 - End Goku (Base)
 - Mid Vegeta (SSJ1)
@@ -38,6 +38,7 @@ parent: Teams
 - Krillin
 - Late Piccolo
 - Mid Goku
+  - Banned from Kibito's Secret Art & Secret Measures if starting in SSJ form.
 - Mid Vegeta
 - Sword Trunks
 - Super Trunks

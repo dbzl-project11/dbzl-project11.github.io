@@ -30,7 +30,6 @@ parent: Teams
 - Cui
 - Dodoria
 - Frieza
-- Frieza Soldier
 - Ginyu
 - Guldo
 - Jeice

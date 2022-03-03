@@ -33,7 +33,12 @@ parent: Teams
 - Broly
 - Frieza (Final Form)
 - Garlic Jr
+- Jiren
+- Mid Vegeta
+  - Must start in base form, or SSJ1 form.
+  - Banned from Master Blast, and Rush Blast (2)
 - Nappa
 - Recoome
 - Roshi
 - Spopovich
+

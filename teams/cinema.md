@@ -41,3 +41,4 @@ parent: Teams
 - Slug
 - Turles
 - Zangya
+- King Vegeta

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zeni
-nav_order: 11
+nav_order: 12
 parent: Rules
 ---
 

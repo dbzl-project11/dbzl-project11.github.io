@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Off Season Schedule
-nav_order: 10
+nav_order: 11
 parent: Rules
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zeni
+title: Maps
 nav_order: 7
 parent: Rules
 ---

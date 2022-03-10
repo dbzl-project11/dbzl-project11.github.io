@@ -47,9 +47,10 @@ The following maps are only available for special events such as the gauntlet, r
 
 The following maps are only available for the Tournament of Power. Ruined Earth, Dying Namek, and Mounain Road (Evening) were replaced.
 
+
 | Map Name                        | Is destructible | 
 |:--------------------------------|:----------------|
 | Tournament of Power             | Yes             |
 | Tournament of Power (damaged)   | Yes             |
 | Tournament of Power (Destroyed) | No              |
-=
+

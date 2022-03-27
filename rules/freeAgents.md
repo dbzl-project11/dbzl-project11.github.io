@@ -36,44 +36,40 @@ There are, of course, other characters available as Free Agents, but aren't guar
 Free Agents will be produced each season after the team drop/add window has completed. Starting with the 2021 season, 
 staff may add additional FAs to the pool using unused forms of charcters with multiple transformations.
 
-All available FAs (for the 2021 season):
+All available FAs for the 2022 season:
 
 - 10 zeni:
     - Appule
     - Chi-Chi
-    - Frieza Soldier
-    - Gero
+    - Devilman
     - General Blue
     - Grandpa Gohan
     - Guldo
-    - Videl
-
+    - Saibaman
+  
 - 12 zeni
-    - Devilman
+    - Captain Ginyu
     - Chiaotzu
-    - Zangya
+    - Raditz
     - Babidi
 
-- 14 zeni
+- 15 zeni
     - Roshi
-    - Early Piccolo
+    - Nam
+    - Tambourine
+
+- 20 zeni 
+    - 1st Form Frieza*
     - General Tao
-
-- 17 zeni 
-    - Base Broly* 
-
-- 22 zeni
-    - Tapion
-    - 2nd Form Frieza* 
 
 - 25 zeni
     - Adult Gohan (may start in any form)
     - Pikkon
-    - Vegito (base) *
+    - Vegito (base)
+    - Tapion
 
 "*" indicates that character must have a Broly's Ring. 
 
-Note that Cold may not have 2nd Form Frieza and 100% Full Power Frieza in the same lineup, 
-nor can Muscle have Base Broly and SS1 Broly in the same lineup. 
+Note that Cold may not have 1st Form Frieza and Final Form Frieza in the same lineup. 
 
-If Muscle picks up Base Broly as a free agent, Base Broly could *only* sub in for SS1 Broly. The same applies to Cold and 2nd Form Frieza/100% Final Form Frieza.
+If Cold picks up 1st Form Frieza as a free agent, 1st Form Frieza could *only* sub in for Final Form Frieza.

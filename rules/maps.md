@@ -28,7 +28,7 @@ The following maps are available for use in the main season. A blank space means
 | The Room of Spirit and Time |                          | No              |
 | Supreme Kai's world         |                          | No              |
 | Hell                        |                          | No              |
-| Broly's Planet              | Evening, Night (no moon) | Yes             |
+| Broly's Planet              | Evening, Night (no moon) | No              |
 | Outer Space                 |                          | No              |
 
 

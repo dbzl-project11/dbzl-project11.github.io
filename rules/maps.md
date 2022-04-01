@@ -43,7 +43,7 @@ The following maps are only available for special events such as the gauntlet, r
 | Mountain Road          | Noon, Evening          | Yes             |
 | Otherworld Tournament  |                        | No              |
 
-## Special event maps
+## Tournament of Power only maps
 
 The following maps are only available for the Tournament of Power. Ruined Earth, Dying Namek, and Mounain Road (Evening) were replaced.
 

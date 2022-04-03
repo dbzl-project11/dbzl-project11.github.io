@@ -10,7 +10,7 @@ parent: Rules
 
 1. Testing is currently an off-season only activity. 
 
-2. All testing will be in the following formats
+2. All testing will be in the following formats, and must follow normal build template rules (such as potara costs). All posts in the relevant discord channel must be complete test requests. Placeholders are not permitted.
     - 1v1
         - 1 test with 7 guaranteed rounds (formatted as: 1 1v1 7R)
         - 2 distinct 1v1 tests with 3 guaranteed rounds (formatted as: 2 1v1 3R)

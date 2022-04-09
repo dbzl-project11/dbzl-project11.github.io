@@ -15,10 +15,6 @@ grand_parent: Tournament of Power
 | 2     |           |           |        | 
 
 
-### Team Builds
-
-<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vTNcUJ-uQ8iCANDtz5idp13xagJ76lr3FvE7BVzg3zWvxWeNV1NBXjMsTu6sBhj0GBN-oSTG6TI_gjc/pub?embedded=true"></iframe>
-
 ### Kai matches
 
 | Match   | Home Team | Away Team | Winner |
@@ -27,6 +23,9 @@ grand_parent: Tournament of Power
 | Losers  |           |           |        |
 
 
-### Kai match builds
+### Semi-final Builds and Kai Match Builds
 
-<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vQXxv-Q-DUmsG7_R13vVPt9XqK3PDj5EvRlF8REWdLygO1JuA25aNAP-_DO6cgU34A3vDqRJajFPwEz/pub?embedded=true"></iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vTNcUJ-uQ8iCANDtz5idp13xagJ76lr3FvE7BVzg3zWvxWeNV1NBXjMsTu6sBhj0GBN-oSTG6TI_gjc/pub?embedded=true"></iframe>
+
+
+

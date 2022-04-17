@@ -32,6 +32,10 @@ parent: Rules
 
     - Team potara limitations do not apply. For example, in a 4 v4, you can have Dende's Healing on each member of your team.
     - Unless specifically requested, you will be testing on your current home map.
+
+4. Once Base rosters have been decided, you may only test the forms declared *or* higher forms. Lower form testing is not permitted after that.
+
+   - Example: If Androids declare they're using Semi-Perfect Cell, they can test Semi-Perfect, Perfect, and Super Perfect. They may not test Imperfect Cell.
     
 ##### Template
 

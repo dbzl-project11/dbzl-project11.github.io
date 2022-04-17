@@ -17,16 +17,15 @@ parent: Teams
 
 ### Current Roster and specific player restrictions
 
-- GT Goku
+- GT Goku (SSJ1)
   -  Cannot start in SS4.
 - SS4 Vegeta
   - Banned from Master Blast and Rush Blast 2.
 - Syn Shenron
   - Banned from Master Blast and Rush Blast (2) if he has Att+ Blue Potara
-- Emperor Pilaf
-  - Must start in base form
-- Pan
-  - N/A
+- Baby Vegeta (SSJ1)
+  - Must start in base form or SSJ 1
+- Dr. Gero
   
 ### Master List
   - Android 17

@@ -16,11 +16,12 @@ parent: Teams
 
 ### Current Roster and specific player restrictions:
 
-- Turles
-- Garlic Jr
+- Zangya
+- Broly (SSJ)
+  - May not start in Legendary SSJ Broly form
 - Gogeta
    - Banned from Master Blast and Rush Blast 2. 
-- Zangya
+- Janemba
 - Fasha
   
 ### Master List

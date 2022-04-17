@@ -17,11 +17,11 @@ parent: Teams
 ### Current Roster and specific player restrictions
 
 - Arale
-- Kid Trunks
-- Goten
+- Kid Trunks (SSJ1)
+- Goten (SSJ1)
     - May not have Savior if he starts in SSJ1 form.
 - Cell Jr
-- Saibaman
+- Pan
   
 ### Master List
 - Arale

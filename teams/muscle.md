@@ -16,14 +16,13 @@ parent: Teams
 ### Current Roster and specific player restrictions
 
 - Recoome
-- Broly (SSJ)
-  - May not start in Legendary SSJ Broly form
+- Garlic Jr
 - Bojack
   - Must start in base form. 
 - Android 13
   - Must start in Base form
   - Banned from High Tension and Eternal Life
-- Adult Trunks (Base)
+- Adult Trunks (SSJ)
   - Must start in base form, or SSJ1 form. 
   
 ### Master List

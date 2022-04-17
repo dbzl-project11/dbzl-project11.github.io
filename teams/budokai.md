@@ -14,7 +14,7 @@ Any character who legitimately participated on screen in the World Martial Arts 
 ### Current Roster and specific player restrictions:
 - Yamcha 
 - Kid Goku
-- Nam
+- Videl
 - Android 18
 - Cyborg Tao
 

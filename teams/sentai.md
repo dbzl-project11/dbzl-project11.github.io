@@ -17,7 +17,7 @@ parent: Teams
 
 - Jeice
 - Burter
-- Captain Ginyu
+- Jiren
 - Saiyaman
 - Saiyawoman
 

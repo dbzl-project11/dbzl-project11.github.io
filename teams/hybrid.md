@@ -16,7 +16,7 @@ parent: Teams
 ### Current Roster and player specific restrictions
 
 - Sword Trunks (Base)
-- Future Gohan (Base)
+- Future Gohan (SSJ)
 - Ultimate Gohan
 - Kid Gohan
 - Teen Gohan (SSJ1)

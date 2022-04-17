@@ -20,8 +20,8 @@ parent: Teams
 - Mid Goku (SSJ)
   - Banned from Kibito's Secret Art & Secret Measures if starting in SSJ form.
 - Tien
-- End Goku (Base)
-- Mid Vegeta (SSJ1)
+- End Goku (SSJ)
+- Mid Vegeta (SSJ)
   - Must start in base form or SSJ1
   - Banned from Master Blast, and Rush Blast (2)
   

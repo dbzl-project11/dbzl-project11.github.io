@@ -21,7 +21,7 @@ parent: Teams
 - Meta Cooler
 - (Prince) Majin Vegeta
   - Banned from Master Blast, and Rush Blast (2) if he has Att+ Blue potara
-- Baby Vegeta 
+- King Vegeta
     - Must start in base form.
 
 ### Master List

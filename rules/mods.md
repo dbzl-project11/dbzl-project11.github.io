@@ -102,6 +102,13 @@ The sole remaining healing B1 to this is Garlic Jr's Makyo Star, as it heals les
   - Jiren replaces Frieza Soldier
   - Jiren's character stats can be found in the [player calculator.](../usefulInfo/playerCalc.md)
 
+- Tapion
+  - Has been modded to transform into Hirudegarn.
+
+- Hirudegarn 
+  - Chou Makousen damage reduced from 7730 to 7230.
+
+
 #### Characters impacted by Healing B1 removal
  
  - Yajirobe

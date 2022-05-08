@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trading Characters
-nav_order: 10
+nav_order: 11
 parent: Rules
 ---
 ## Player trading

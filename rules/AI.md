@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AI Descriptions
-nav_order: 6
+nav_order: 7
 parent: Rules
 ---
 ## AI Potaras

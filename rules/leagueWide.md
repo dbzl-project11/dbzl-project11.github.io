@@ -73,13 +73,15 @@ from the start of the off season.
     - Nuova Shenron
     - Super Gogeta
     - Frieza (3rd form)
-      
-- We do not allow for private testing by our supporters (but if you wish, you can become an authorized tester). If you need information for league purposes,
-it must come from official league sources. 
-    - These sources include but are not limited to
-        - this website
-        - the Discord
-        - the Youtube channels (the main channel and testing channel)
-        - the player calculator
-        - asking staff members.
-    - If you have the base Tenkaichi 3 game, we hope you enjoy playing it, just don't try to get information about the AI.
+- We do not allow for private testing by our supporters when it comes to gleaning data about the AI (but if you wish, you can become an authorized tester).
+  - If you can't get the data from the base game directly, you can check these sources:
+      - this website
+      - the Discord
+      - the Youtube channels (the main channel and testing channel)
+      - the player calculator
+      - asking staff members.
+      - If you have the base Tenkaichi 3 game, we hope you enjoy playing it, just don't try to get information about the AI.
+  - If you have to get the data from the game, we ask the following
+    - Don't try to glean AI data if testing on your own.
+    - Let a staff member know before starting. This just helps us stay in the loop.
+    - Please help the community as a whole by sharing your work, and if possible showing it. This way everyone benefits.

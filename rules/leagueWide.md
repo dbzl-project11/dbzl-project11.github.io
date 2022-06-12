@@ -80,7 +80,6 @@ from the start of the off season.
       - the Youtube channels (the main channel and testing channel)
       - the player calculator
       - asking staff members.
-      - If you have the base Tenkaichi 3 game, we hope you enjoy playing it, just don't try to get information about the AI.
   - If you have to get the data from the game, we ask the following
     - Don't try to glean AI data if testing on your own.
     - Let a staff member know before starting. This just helps us stay in the loop.

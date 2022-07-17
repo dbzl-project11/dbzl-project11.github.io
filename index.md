@@ -35,8 +35,7 @@ These are the teams duking it out to see who has the best fighters in DragonBall
 Here are the rules:
 
 - [League Wide Rules](./rules/leagueWide.md)
-- [Potaras](./rules/potaras.md)
-- [Available Potaras](./rules/legalPotaras.md)
+- [Potaras Rules](./rules/legalPotaras.md)
 - [AI Potaras](./rules/AI.md)
 - [Testing](./rules/testing.md)
 - [Free Agents](./rules/freeAgents.md)

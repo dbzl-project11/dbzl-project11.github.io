@@ -40,4 +40,5 @@ parent: Teams
 - Recoome
 - Roshi
 - Spopovich
+- Syn Shenron
 

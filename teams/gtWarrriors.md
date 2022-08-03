@@ -49,7 +49,6 @@ parent: Teams
   - Super 17
   - SS4 Vegeta
   - Syn Shenron
-    - Must have a free Broly's Ring.
   - Super Perfect Cell 
       - Must be in this form.
       - Androids must drop Cell before he can be picked up by GT.

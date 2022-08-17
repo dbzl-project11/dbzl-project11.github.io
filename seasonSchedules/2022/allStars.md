@@ -11,22 +11,22 @@ grand_parent: Main League
 
 | Match | Team                 | Bars of damage | Success |
 |:------|:---------------------|:---------------|:--------|
-| 1     | Androids             | bars           |         |
-| 2     | Budokai              | bars           |         |
-| 3     | Buujins              | bars           |         |
-| 4     | Cinema               | bars           |         |
-| 5     | Cold Kingdom         | bars           |         |  
-| 6     | Derp                 | bars           |         | 
-| 7     | Earth Defenders      | bars           |         | 
-| 8     | GT                   | bars           |         |
-| 9     | Hybrids              | bars           |         |
-| 10    | Kaiju                | bars           |         |
-| 11    | Muscle               | bars           |         | 
-| 12    | Namek                | bars           |         |
-| 13    | Resurrected Warriors | bars           |         |
-| 14    | Royals               | bars           |         | 
-| 15    | Rugrats              | bars           |         | 
-| 16    | Sentai Squad         | bars           |         |
+| 1     | Androids             | 5.1 bars       | X       |
+| 2     | Budokai              | 3.55 bars      | X       |
+| 3     | Buujins              | 5.55 bars      | X       |
+| 4     | Cinema               | 8.75 bars      | X       |
+| 5     | Cold Kingdom         | 8.6 bars       | X       |  
+| 6     | Derp                 | 6.3 bars       | X       | 
+| 7     | Earth Defenders      | 5.1 bars       | X       | 
+| 8     | GT                   | 7.4 bars       | X       |
+| 9     | Hybrids              | 10 bars        | WINNER  |
+| 10    | Kaiju                | 3.3 bars       | X       |
+| 11    | Muscle               | 2.9 bars       | X       | 
+| 12    | Namek                | 6.85 bars      | X       |
+| 13    | Resurrected Warriors | 5.1 bars       | X       |
+| 14    | Royals               | 9 bars         | X       | 
+| 15    | Rugrats              | 3.55 bars      | X       | 
+| 16    | Sentai Squad         | 7.1 bars       | X       |
 
 
 ### Sweeper Game Builds 

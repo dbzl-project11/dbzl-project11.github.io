@@ -9,12 +9,12 @@ grand_parent: Main League
 
 ### First match Round 1
 
-| Home Team | Away Team | Winner |
-|:----------|:----------|:-------|
-|           |           |        |
-|           |           |        |
-|           |           |        |
-|           |           |        |
+| Home Team       | Away Team            | Winner |
+|:----------------|:---------------------|:-------|
+| Kaiju           | Sentai               |        |
+| Rugrats         | Derp                 |        |
+| Royals          | GT                   |        |
+| Earth Defenders | Resurrected Warriors |        |
 
 
 

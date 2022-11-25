@@ -8,21 +8,21 @@ grand_parent: Main League
 
 ### First match Round 2
 
-| Home Team | Away Team | Winner |
-|:----------|:----------|:-------|
-|           |           |        |
-|           |           |        |
-|           |           |        |
-|           |           |        |
+| Home Team            | Away Team        | Winner               |
+|:---------------------|:-----------------|:---------------------|
+| Resurrected Warriors | Earth Defendsers | Resurrected Warriors |
+| Royals               | GT               | Royals               |
+| Rugrats              | Derp             | Rugrats              |
+| Kaiju                | Sentai           | Sentai               |
 
 ### First match Round 3 (if applicable)
 
-| Home Team | Away Team | Winner |
-|:----------|:----------|:-------|
-|           |           |        |
-|           |           |        |
-|           |           |        |
-|           |           |        |
+| Home Team       | Away Team            | Winner          |
+|:----------------|:---------------------|:----------------|
+| Earth Defenders | Resurrected Warriors | Earth Defenders |
+| Sentai          | Kaiju                | Kaiju           |
+|                 |                      |                 |
+|                 |                      |                 |
 
 ### Team Builds Rounds 2 and 3 
 

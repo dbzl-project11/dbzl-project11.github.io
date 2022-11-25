@@ -9,20 +9,20 @@ grand_parent: Main League
 
 ### Semifinals match Round 2
 
-| Home Team | Away Team | Winner |
-|:----------|:----------|:-------|
-|           |           |        |
-|           |           |        |
+| Home Team | Away Team    | Winner       |
+|:----------|:-------------|:-------------|
+| Muscle    | Cold Kingdom | Cold Kingdom |
+| Rugrats   | Androids     | Rugrats      |
 
 
 
 
 ### Semifinals match Round 3 (if applicable)
 
-| Home Team | Away Team | Winner |
-|:----------|:----------|:-------|
-|           |           |        |
-|           |           |        |
+| Home Team    | Away Team | Winner |
+|:-------------|:----------|:-------|
+| Cold Kingdom | Muscle    | Muscle |
+|              |           |        |
 
 
 

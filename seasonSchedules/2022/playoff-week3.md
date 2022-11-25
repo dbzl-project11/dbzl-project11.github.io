@@ -8,12 +8,12 @@ grand_parent: Main League
 
 ### Quarterfinals match Round 1
 
-| Home Team | Away Team | Winner |
-|:----------|:----------|:-------|
-|           |           |        |
-|           |           |        |
-|           |           |        |
-|           |           |        |
+| Home Team       | Away Team | Winner          |
+|:----------------|:----------|:----------------|
+| Earth Defenders | Muscle    | Earth Defenders |
+| Cold Kingdom    | Royals    | Cold Kingdom    |
+| Hybrids         | Rugrats   | Rugrats         |
+| Androids        | Kaiju     | Androids        |
 
 
 

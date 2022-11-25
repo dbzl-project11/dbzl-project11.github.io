@@ -12,17 +12,17 @@ grand_parent: Main League
 
 | Home Team | Away Team | Winner |
 |:----------|:----------|:-------|
-|           |           |        |
+| Muscle    | Rugrats   |        |
 |           |           |        |
 
 ### 3rd place exhibition match (Best of 3)
 
-| Home Team | Away Team | Winner |
-|:----------|:----------|:-------|
-|           |           |        |
-|           |           |        |
-|           |           |        |
+| Home Team    | Away Team | Winner |
+|:-------------|:----------|:-------|
+| Cold Kingdom | Androids  |        |
+|              |           |        |
+|              |           |        |
 
 
-### Week 1 builds (Click to reveal)
+### Week 1 builds 
 <iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vRhIgPJ7VnqskxHBAV_q2ohLFBNwQcyf1MTPoMMA4yj2XpbDZNhtc6Uk0qxDo_co_EzDkibg56B1E4G/pub?embedded=true"></iframe>

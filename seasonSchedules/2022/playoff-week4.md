@@ -8,22 +8,22 @@ grand_parent: Main League
 
 ### Quarterfinals match Round 2
 
-| Home Team | Away Team | Winner |
-|:----------|:----------|:-------|
-|           |           |        |
-|           |           |        |
-|           |           |        |
-|           |           |        |
+| Home Team | Away Team       | Winner       |
+|:----------|:----------------|:-------------|
+| Muscle    | Earth Defenders | Muscle       |
+| Royals    | Cold Kingdom    | Cold Kingdom |
+| Rugrats   | Hybrids         | Hybrids      |
+| Kaiju     | Androids        | Androids     |
 
 
 ### Quarterfinals match Round 3 (if applicable)
 
-| Home Team | Away Team | Winner |
-|:----------|:----------|:-------|
-|           |           |        |
-|           |           |        |
-|           |           |        |
-|           |           |        |
+| Home Team       | Away Team | Winner  |
+|:----------------|:----------|:--------|
+| Earth Defenders | Muscle    | Muscle  |
+| Hybrids         | Rugrats   | Rugrats |
+|                 |           |         |
+|                 |           |         |
 
 
 ### Team Builds Rounds 2 and 3 

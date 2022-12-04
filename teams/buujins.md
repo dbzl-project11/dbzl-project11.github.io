@@ -4,12 +4,12 @@ title: Buujins
 nav_order: 3
 parent: Teams
 ---
-## Buujins
+## Buu Saga
 
 ![](../images/buujins.jpg)
 
 ### Theme Description
-- The various minions of the sorcerer Babidi and iterations of Majin Buu.
+- Characters who had prominent or active roles within the Buu Saga.
 
 ### Team restrictions:
   -N/A
@@ -25,11 +25,24 @@ parent: Teams
 ### Master List
 - Babidi
 - Dabura
+- End Goku
+   - may not have savior if he starts in Base form
+- End Vegeta
+   - Must start in either base form or SSJ1
+   - Banned from Master Blast, and Rush Blast 2
 - Evil Buu
+- Hercule
+- Goten
+   - Cannot have savior if starting in base form
 - Kid Buu
+- Kid Trunks
+- Late Piccolo
 - Majin Buu
 - Majin Vegeta
-  - Banned from Master Blast, and Rush Blast (2)
+   - Banned from Master Blast, and Rush Blast (2)
+- Saiyaman
 - Spopovich
-- Super Buu (Can start in any form)
-- Uub
+- Super Buu 
+- Supreme Kai
+- Ultimate Gohan
+- Videl

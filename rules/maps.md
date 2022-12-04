@@ -30,6 +30,7 @@ The following maps are available for use in the main season. A blank space means
 | Hell                        |                          | No              |
 | Broly's Planet              | Evening, Night (no moon) | No              |
 | Outer Space                 |                          | No              |
+| Archipelago                 |                          | No              |
 
 
 ## Special event maps
@@ -40,7 +41,7 @@ The following maps are only available for special events such as the gauntlet, r
 |:-----------------------|:-----------------------|:----------------|
 | Cell Games Arena       | Noon, Evening          | Yes             |
 | World Tournament Stage | noon, evening          | No              |
-| Mountain Road          | Noon, Evening          | Yes             |
+| Mountain Road          | Noon                   | Yes             |
 | Otherworld Tournament  |                        | No              |
 
 ## Tournament of Power only maps

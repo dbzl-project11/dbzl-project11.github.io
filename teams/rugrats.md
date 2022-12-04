@@ -8,7 +8,8 @@ parent: Teams
 ![](../images/rugrat.jpg)
 
 ### Theme Description
-- Any character under the age of 12 and who has a child-like body or stature.
+- Any character that has a child like body and is either 1) Under age of 12 or 2) has a child moniker (E.g., Kid, Jr)
+
 
 ### Team Specific Restrictions
 - If they are able to fuse, Kid Trunks and Goten must have the same build with the exception of 1 blue potara.
@@ -27,12 +28,16 @@ parent: Teams
 - Arale
 - Cell Jr
 - Chi-Chi
+- Garlic Jr
 - Goten
     - May not have Savior if he starts in SSJ1 form.
 - GT Goku
+- Kid Buu
 - Kid Gohan
 - Kid Goku
 - Kid Trunks
 - Pan
 - Saibaman
 - Teen Gohan
+   - Must start in base or SSJ1
+   - If he can transform into SSJ2 form, he cannot have Kibito's Secret Art or Secret Measures.

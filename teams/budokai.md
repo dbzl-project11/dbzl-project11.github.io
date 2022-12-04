@@ -9,7 +9,7 @@ parent: Teams
 ![](../images/budokai.jpg)
 
 ### Theme Description
-Any character who legitimately participated on screen in the World Martial Arts Tournament (Budokai Tenkaichi). Illicit entries and the junior division does not count.
+Any character who legitimately participated on screen in the World Martial Arts Tournament (Budokai Tenkaichi).
 
 ### Current Roster and specific player restrictions:
 - Yamcha 
@@ -25,8 +25,11 @@ Any character who legitimately participated on screen in the World Martial Arts 
 - Early Goku
 - Early Piccolo
 - End Goku
+- Goten
+- GT Goku
 - Hercule
 - Kid Goku
+- Kid Trunks
 - Krillin
 - Late Piccolo
 - Nam

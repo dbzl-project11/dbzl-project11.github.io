@@ -9,7 +9,7 @@ parent: Teams
 ![](../images/cold.jpg)
 
 ### Theme Description
-- Any member of the Cold family or those they ruled over. Saiyans are not included. 
+- Any member of the Cold family or those they ruled over. Saiyans are included. 
 
 ### Team restrictions:
   - Banned from Eternal Life if they have access to 2 or more healing transformations between Frieza and Cooler.
@@ -24,18 +24,30 @@ parent: Teams
 - King Cold
   
 ### Master List
-- Appule
-- Burter
-- Cooler
-- Cui
-- Dodoria
-- Frieza
-- Ginyu
-- Guldo
-- Jeice
-- King Cold
-- Mecha Frieza
-- Meta-Cooler
-- Recoome
-- Salza
-- Zarbon
+Appule
+Bardock 
+Must start in base form
+Burter
+Cooler
+Cui
+Dodoria
+Fasha 
+Must start in base form
+Frieza
+Ginyu
+Guldo
+Jeice
+King Cold
+King Vegeta 
+Must start in base form
+Mecha Frieza
+Meta-Cooler
+Nappa  
+Must start in base form
+Raditz
+Must start in base form
+Recoome
+Salza
+Scouter Vegeta 
+Must start in base form
+Zarbon

@@ -35,8 +35,10 @@ parent: Teams
 - End Goku
 - End Vegeta
 - Frieza
+- Goten
 - Hercule
 - Jiren
+- Kid Trunks
 - Krillin
 - Late Piccolo
 - Majin Buu

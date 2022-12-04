@@ -8,7 +8,7 @@ parent: Teams
 ![](../images/royals.jpg)
 
 ### Theme Description
-- Characters that have been given or gave themselves a royal title in the show
+- Characters that have been given or gave themselves a royal title in the show or were shown to rule over others.
 
 ### Team restrictions
     - N/A
@@ -48,3 +48,4 @@ parent: Teams
 - (Prince) SSJ4 Vegeta
 - (Lord) Garlic Jr.
 - Baby Vegeta
+- Supreme Kai

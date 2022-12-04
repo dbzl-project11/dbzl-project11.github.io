@@ -26,6 +26,8 @@ parent: Teams
 ### Master List
 - Android 19
 - Appule
+- Burter
+- Captian Ginyu
 - Cui
 - Cyborg Tao
 - Devilman
@@ -33,9 +35,12 @@ parent: Teams
 - Dodoria
 - 100% Final Form Frieza
    - Must be in this form
+- Garlic Jr.
 - Hercule
+- Jeice
 - King Cold
 - Mecha Frieza
 - Pilaf
 - Salza
 - Supreme Kai
+- Yamcha

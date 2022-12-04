@@ -9,7 +9,7 @@ parent: Teams
 ![](../images/ed.jpg)
 
 ### Theme Description 
-- The main good guys in the "Dragon Ball Z" series until the end of the Android saga. Nicknamed "The Z fighters" (A form of Goku must be on the team)
+- Anyone who fought as or alongside the Z-fighters from the Saiyan Saga to the Buu Saga in a significant fight.
 
 ### Team restrictions:
   - N/A
@@ -26,23 +26,34 @@ parent: Teams
   - Banned from Master Blast, and Rush Blast (2)
   
 ### Master List
-- Android 16 
+- Adult Trunks
 - Chiaotzu
 - Early Goku
-- End Goku
-    - may not have savior if he starts in Base form
 - Early Piccolo
+- End Goku
+   - may not have savior if he starts in Base form
+- End Vegeta
+   - Must start in either bas form or SSj1
+   - Banned from Master Blast, and Rush Blast 2
 - Future Gohan
-- Hercule 
+- Goten
+   - May not have savior if he starts in SSJ
+- Hercule
 - Kid Gohan
+- Kid Trunks
 - Krillin
 - Late Piccolo
+- Majin Buu
 - Mid Goku
-  - Banned from Kibito's Secret Art & Secret Measures if starting in SSJ form.
+   - Banned from Kibito’s Secret Art & Secret Measures if starting in SSJ form.
 - Mid Vegeta
+   - Must start in base form or SSJ1
+   - Banned from Master Blast and Rush Blast 2
+- Supreme Kai
 - Sword Trunks
-- Super Trunks
 - Teen Gohan
+   - Must start in base or SSJ1
+   - If he can transform into SSJ2 form, he cannot have Kibito's Secret Art or Secret Measures.
 - Tien
 - Yajirobe
 - Yamcha

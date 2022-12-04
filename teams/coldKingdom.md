@@ -24,30 +24,31 @@ parent: Teams
 - King Cold
   
 ### Master List
-Appule
-Bardock 
-Must start in base form
-Burter
-Cooler
-Cui
-Dodoria
-Fasha 
-Must start in base form
-Frieza
-Ginyu
-Guldo
-Jeice
-King Cold
-King Vegeta 
-Must start in base form
-Mecha Frieza
-Meta-Cooler
-Nappa  
-Must start in base form
-Raditz
-Must start in base form
-Recoome
-Salza
-Scouter Vegeta 
-Must start in base form
-Zarbon
+
+- Appule
+  - Bardock 
+    -Must start in base form
+- Burter
+- Cooler
+- Cui
+- Dodoria
+- Fasha 
+  - Must start in base form
+- Frieza
+- Ginyu
+- Guldo
+- Jeice
+- King Cold
+- King Vegeta 
+  - Must start in base form
+- Mecha Frieza
+- Meta-Cooler
+- Nappa  
+   - Must start in base form
+- Raditz
+   - Must start in base form
+- Recoome
+- Salza
+- Scouter Vegeta 
+    - Must start in base form
+- Zarbon

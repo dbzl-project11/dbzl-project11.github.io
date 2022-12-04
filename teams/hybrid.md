@@ -24,6 +24,7 @@ parent: Teams
   - If he can transform into SSJ2 form, he cannot have Kibito's Secret Art or Secret Measures.
   
 ### Master List
+
 - Adult Trunks
 - Baby Vegeta 
    - Must start in Base or Super Baby 1

@@ -30,6 +30,7 @@ parent: Teams
 - Cell
   -  Banned from using Recoome AI if he can gain health from his grabs.
   -  Banned from using Master Throw if he can gain health from his grabs.
+  -  Banned from Demonic Bargain if he can gain health from his grabs.
 - Cell Jr 
 - Future Gohan
 - Goten

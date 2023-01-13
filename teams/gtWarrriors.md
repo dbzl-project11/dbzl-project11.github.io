@@ -31,6 +31,7 @@ parent: Teams
   - Android 17
   - Android 18
   - Baby Vegeta
+  - Dr. Gero
   - End Goku
   - Final Form Frieza
       - Must be in this form.

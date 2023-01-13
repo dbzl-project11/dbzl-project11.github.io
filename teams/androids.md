@@ -36,7 +36,6 @@ parent: Teams
 - Android 17
 - Android 18
 - Android 19
-  - Banned from using Master Throw
 - Android 8
 - Arale
 - Cell
@@ -45,7 +44,6 @@ parent: Teams
 - Cell Jr.
 - Cyborg Tao
 - Dr. Gero
-   - Banned from using Master Throw
 - Mecha Frieza
 - Meta-Cooler
 - Super 17

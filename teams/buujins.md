@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buujins
+title: Buu Saga
 nav_order: 3
 parent: Teams
 ---

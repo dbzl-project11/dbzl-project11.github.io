@@ -31,35 +31,48 @@ boost.
 
 - 1 zenni
     - Broly's Ring	
-    - Rising Fighting Spirit	
-    - Aura Change (Any color or type)
-    - Mirage
+    - Rising Fighting Spirit/Aura Change
+    - Mirage Master
+    - Unleash Ki
 - 2 zenni 
     - Exquisite Skill
-    - Unleash Ki
+    - Kibitos Secret Art
     - Latent Energy!	
     - Light Body
+    - Power of Rage
+    - Unleash Latent Power 1
 - 3 zenni 	
-    - Kibito's Secret Art
-    - Power of Rage	
+    - Ultra Instinct Omen
+    - Ki Control
+    - Unleash Latent Power 2
+    - Spiritual Control
     - Serious!	
     - Indignation!	
     - Fighting Spirit!
     - Draconic Aura
-    - Defense +1 
 - 4 zenni 
-    - Super +1	
-    - Attack +1	
-    - Ki +1	
-- 5 zenni
     - Dragon Power
-- 10 zenni 
+    - 18's Kiss
+    - Unleash Latent Power 3
+- 5 zenni
+    - Starter Kit
+    - Satisfying blow
     - Style of the Strong
+- 6 zeni
+    - B2 Bonanza
+    - B1 Bargains
+    - Closeout Special
+
+#### Boost Store Specific Potara Description
+- Starter kit - Rising Fighting Spirit (green aura), base ki power +1, active heart, tag bar starts at full, quick charge, secret measures
+- B2 bonanza - Base Ki Power +1, B2s cost half (no loss of health), green aura
+- B1 bargains - Spiritual Control, B1 KSA effect, blast gauge charge speed +20%, green aura
+- Closeout special - Savior, Sparking plus, Power of Rage, green aura
     
 #### Other boosts
 
   
-- Immediately "rotate" your free agent regardless of what week it is - 2 Zenni
+- Immediate FA Swap (cannot be used to allow a character in more than 12 weeks in the main season)  - 2 Zenni
     - This boost would also enable you to trade out someone who was already rotated out as if it was a week where you could do so normally. For example, if you are the Earth's Defenders, and you have Mid Vegeta (Your free agent), Goku, Tien, Krillin, and Yamcha in as fighters and Chiaotzu swapped out. You may choose to use this boost to swap Krillin out and Chiaotzu in as fighters.
 
 The weeks you normally rotate your free agent bench are the following:
@@ -71,6 +84,13 @@ The weeks you normally rotate your free agent bench are the following:
 - Remove a limiter! (Only usable once in a season) - 10 Zenni
     - This boost enables you to remove a "Limiter ring" on one of your players. This is more of a safety feature in case things aren't going right, and you wish for that character to transform once again. Please note, that once you remove a limiter, you may not put another one on a seperate character. Once a Limiter is used, or removed, there is no reversing that decision. So please, use this boost wisely.
 
+- Reuse a blue potara  this lets you use the same blue potara on 2 different characters, and is available on any of the legal blue potaras (2 zeni )
+   - Blue potara are unique potara which buff up the character's base stats in the following category; Attack, Defense, Super, Ki.But teams can only use 1 of these blue potara at a time on the character.No two same blue potara can be used on the same match in the main league season. For example, Lets take Teen Gohan and Future Gohan, Both of them are super focused character but use two different blue potara to buff there super damage. Being Super+2 Ki-1 and Super+1 respectivey.However, using this boost allows them both to use the same blue potara in the same match either being super+2 Ki-1 or Super+1 on their builds.
+
+- Double Bench! Bench a character 2 weeks in a row (does not let you exceed 3 benches) - 4 zeni
+    - This boost grants you the ability to bypass character bench restriction.(Allows you to bench the same character 2 weeks in a row which otherwise isn't possible ) For example, Lets take Perfect cell who both have to be bench 2 more times and its week 9,There next divisional is coming on week 12 and so have to figure a way out to complete cell's remaining 2 bench by week 12 so he is available for the divisional by week 12 and for the remaining matches.This can be achieve by using the Double Bench boost, benching cell on week 10 and week 11 to complete his benches for the season.
+
+NOTE: It doesn't allow the teams to bypass the bench limit on the character's per season(which is 3), Just accelerate the benching process if needed.
 - Trade out a map (Only available if you are playing at home) - 2 Zenni
     - This boost would allow you to pull the rug out from under your opponent and swap to a completely different map. If you choose to use this, you may ONLY choose maps from the list provided below. Meaning you cannot use this boost to change your map to mountain road or the tournament stage, since they are unavailable and reserved for the Gauntlet and Playoffs respectively.
 
@@ -93,5 +113,6 @@ Available maps for the map trade boost:
     Planet Namek (Normal)
     Planet Namek (Destroyed)
     Broly's Planet
+    Archipelago
 
 Please note, that these boosts are designed to only be used during the season. You cannot use any of these boosts during the playoffs. Please make sure to "purchase" boosts at the top of your builds to avoid confusion.

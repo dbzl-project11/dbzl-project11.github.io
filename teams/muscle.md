@@ -30,9 +30,11 @@ parent: Teams
 - Adult Trunks
 - Bojack
 - Broly
+- Cooler
 - Frieza (Final Form)
 - Garlic Jr
 - Jiren
+- King Cold
 - Mid Vegeta
   - Must start in base form, or SSJ1 form.
   - Banned from Master Blast, and Rush Blast (2)

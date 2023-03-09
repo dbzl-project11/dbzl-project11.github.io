@@ -8,10 +8,10 @@ parent: Teams
 ![](../images/namek.jpg)
 
 ### Theme Description
-- Any fighter that is a Namekian or one of their creations.
+- Any fighter that is Namekian, created by the Namekians, or has Namekian DNA
 
 ### Team restrictions:
-  - N/A 
+  -  Banned from Eternal Life if Cell is in their lineup and starts in base or Semi-Perfect forms.
 
 ### Current Roster and specific player restrictions
 
@@ -23,7 +23,11 @@ parent: Teams
 - Early Piccolo
 
 ### Master List
+- Cell
+- Cell Jr.
 - Early Piccolo
+- Gotenks Buu/Gohan Buu
+  - Cannot start as Super Buu
 - King Piccolo
 - Late Piccolo
 - Nail

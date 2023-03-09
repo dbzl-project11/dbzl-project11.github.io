@@ -27,6 +27,8 @@ parent: Teams
 - Baby Vegeta 
 - Bardock
 - Fasha
+- Janemba
+- Kid Gohan
 - Kid Goku
 - King Vegeta
 - Nappa

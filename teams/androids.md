@@ -9,7 +9,7 @@ parent: Teams
 ![](../images/androids.jpg)
 
 ### Theme Description
-- Any robot, cyborg, or android like character
+- Any robot, cyborg, android, or bio-android like character. Characters who use a mechanical suit are also included.
 
 ### Team restrictions:
   -  Banned from Eternal Life if Cell is in their lineup and starts in base or Semi-Perfect forms.
@@ -19,6 +19,7 @@ parent: Teams
 - Cell
   -  Banned from using Recoome AI if he can gain health from his grabs.
   -  Banned from using Master Throw if he can gain health from his grabs.
+  -  Banned from Demonic Bargain if he can gain health from his grabs.
 - Super 17
   - N/A
 - Android 16
@@ -26,21 +27,23 @@ parent: Teams
 - Android 17
   - N/A
 - Android 19
-  - Banned from Recoome AI.
   
 ### Master List
-  - Android 13
-  - Android 16
-  - Android 17
-  - Android 18
-  - Android 19
-  - Android 8
-  - Arale
-  - Cell
-  - Cell Jr.
-  - Cyborg Tao
-  - Dr. Gero
-  - Mecha Frieza
-  - Meta-Cooler
-  - Super 17
-  - Baby Vegeta
+
+- Baby Vegeta
+- Android 13
+- Android 16
+- Android 17
+- Android 18
+- Android 19
+- Android 8
+- Arale
+- Cell
+   - Banned from using Recoome AI if he can gain health from his grabs
+   - Banned from using Master Throw if he can gain health form his grabs
+- Cell Jr.
+- Cyborg Tao
+- Dr. Gero
+- Mecha Frieza
+- Meta-Cooler
+- Super 17

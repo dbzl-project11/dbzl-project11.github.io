@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,15 +22,35 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49acee10-4cc1-4ae0-9da4-a709b0a68fa7" name="Default Changelist" comment="SF builds builds 2">
+    <list default="true" id="49acee10-4cc1-4ae0-9da4-a709b0a68fa7" name="Default Changelist" comment="add boss rush to the website">
+      <change afterPath="$PROJECT_DIR$/seasonSchedules/2022/images/schedule.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seasonSchedules/2021/seasonW1.md" beforeDir="false" afterPath="$PROJECT_DIR$/seasonSchedules/2021/seasonW1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/freeAgents.md" beforeDir="false" afterPath="$PROJECT_DIR$/rules/freeAgents.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/maps.md" beforeDir="false" afterPath="$PROJECT_DIR$/rules/maps.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/mods.md" beforeDir="false" afterPath="$PROJECT_DIR$/rules/mods.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/androids.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/androids.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/budokai.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/budokai.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/buujins.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/buujins.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/coldKingdom.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/coldKingdom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/derp.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/derp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/earthDefenders.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/earthDefenders.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/hybrid.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/hybrid.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/kaiju.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/kaiju.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/muscle.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/muscle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/namek.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/namek.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/reswar.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/reswar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/royals.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/royals.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/rugrats.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/rugrats.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/sentai.md" beforeDir="false" afterPath="$PROJECT_DIR$/teams/sentai.md" afterDir="false" />
     </list>
     <list id="79992e46-0338-4271-bbe1-4443285b87eb" name="Week 1 builds" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -42,21 +65,43 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="16015196-dee2-44c5-b77d-90f429767c64" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="1eYH2eUxdDgYrsoLpNrlckipnn3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/seasonSchedules/2022" />
+      <recent name="$PROJECT_DIR$/seasonSchedules" />
+      <recent name="$PROJECT_DIR$/tourneyOfPower" />
+      <recent name="$PROJECT_DIR$/seasonSchedules/2021/images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,120 +112,362 @@
       <option name="presentableId" value="Default" />
       <updated>1594491400492</updated>
     </task>
-    <task id="LOCAL-00001" summary="Preseason Week 4 builds">
-      <created>1595185625866</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00055" summary="fix nav">
+      <created>1640920898654</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
       <option name="project" value="LOCAL" />
-      <updated>1595185625866</updated>
+      <updated>1640920898654</updated>
     </task>
-    <task id="LOCAL-00002" summary="Preseason Week 4 builds">
-      <created>1595185966708</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00056" summary="various small fixes">
+      <created>1640921151956</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
       <option name="project" value="LOCAL" />
-      <updated>1595185966708</updated>
+      <updated>1640921151956</updated>
     </task>
-    <task id="LOCAL-00003" summary="Preseason Week 4 builds">
-      <created>1595186065842</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00057" summary="add jiren to mods page">
+      <created>1642222346244</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
       <option name="project" value="LOCAL" />
-      <updated>1595186065842</updated>
+      <updated>1642222346245</updated>
     </task>
-    <task id="LOCAL-00004" summary="Week 1 builds">
-      <created>1595697850005</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00058" summary="cutover to potara spreadsheet">
+      <created>1642223376759</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
       <option name="project" value="LOCAL" />
-      <updated>1595697850005</updated>
+      <updated>1642223376760</updated>
     </task>
-    <task id="LOCAL-00005" summary="Week 1 builds">
-      <created>1595697943408</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00059" summary="update iframe settings">
+      <created>1642223844376</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
       <option name="project" value="LOCAL" />
-      <updated>1595697943408</updated>
+      <updated>1642223844376</updated>
     </task>
-    <task id="LOCAL-00006" summary="Week 1 builds">
-      <created>1595699363475</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00060" summary="update iframe settings">
+      <created>1642223973023</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
       <option name="project" value="LOCAL" />
-      <updated>1595699363475</updated>
+      <updated>1642223973023</updated>
     </task>
-    <task id="LOCAL-00007" summary="Week 1 builds">
-      <created>1595699388603</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00061" summary="update iframe width">
+      <created>1642225397492</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
       <option name="project" value="LOCAL" />
-      <updated>1595699388603</updated>
+      <updated>1642225397492</updated>
     </task>
-    <task id="LOCAL-00008" summary="Week 3 builds">
-      <created>1597001083246</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+    <task id="LOCAL-00062" summary="still testing iframe width">
+      <created>1642225531023</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
       <option name="project" value="LOCAL" />
-      <updated>1597001083246</updated>
+      <updated>1642225531023</updated>
     </task>
-    <task id="LOCAL-00009" summary="Week 5 builds">
-      <created>1598192918079</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+    <task id="LOCAL-00063" summary="update iframe width">
+      <created>1642225665606</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
       <option name="project" value="LOCAL" />
-      <updated>1598192918079</updated>
+      <updated>1642225665606</updated>
     </task>
-    <task id="LOCAL-00010" summary="Week 7 builds">
-      <created>1599398128602</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00064" summary="fix kais">
+      <created>1642366606498</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
       <option name="project" value="LOCAL" />
-      <updated>1599398128602</updated>
+      <updated>1642366606498</updated>
     </task>
-    <task id="LOCAL-00011" summary="Week 12 builds">
-      <created>1603634017725</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+    <task id="LOCAL-00065" summary="2022 ToP builds">
+      <created>1644726935723</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
       <option name="project" value="LOCAL" />
-      <updated>1603634017725</updated>
+      <updated>1644726935724</updated>
     </task>
-    <task id="LOCAL-00012" summary="Week 15 builds">
-      <created>1605453348883</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+    <task id="LOCAL-00066" summary="Fix week 1">
+      <created>1644727068299</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
       <option name="project" value="LOCAL" />
-      <updated>1605453348883</updated>
+      <updated>1644727068299</updated>
     </task>
-    <task id="LOCAL-00013" summary="SF builds builds 1">
-      <created>1609162136487</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+    <task id="LOCAL-00067" summary="fix iframes">
+      <created>1644727189692</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
       <option name="project" value="LOCAL" />
-      <updated>1609162136487</updated>
+      <updated>1644727189692</updated>
     </task>
-    <task id="LOCAL-00014" summary="SF builds builds 2">
-      <created>1609872252354</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+    <task id="LOCAL-00068" summary="week 1 fix">
+      <created>1644727399296</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
       <option name="project" value="LOCAL" />
-      <updated>1609872252354</updated>
+      <updated>1644727399296</updated>
     </task>
-    <task id="LOCAL-00015" summary="Week 1 update">
-      <created>1624789041003</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+    <task id="LOCAL-00069" summary="fix iframes take 3">
+      <created>1644727854690</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
       <option name="project" value="LOCAL" />
-      <updated>1624789041003</updated>
+      <updated>1644727854690</updated>
     </task>
-    <task id="LOCAL-00016" summary="Healing b1 character update">
-      <created>1624885435534</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+    <task id="LOCAL-00070" summary="finalized schedule for 2022 main league; week 1 &amp; 2 matchups + week 1 winners for ToP">
+      <created>1645382924107</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
       <option name="project" value="LOCAL" />
-      <updated>1624885435534</updated>
+      <updated>1645382924108</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00071" summary="fix Mid Goku's restrictions">
+      <created>1645420928283</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1645420928284</updated>
+    </task>
+    <task id="LOCAL-00072" summary="add minimum testing requirements to the site">
+      <created>1645487679864</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1645487679865</updated>
+    </task>
+    <task id="LOCAL-00073" summary="add map page (and updates indexing)">
+      <created>1646711868804</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1646711868804</updated>
+    </task>
+    <task id="LOCAL-00074" summary="fix map sidebar link">
+      <created>1646800052601</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1646800052601</updated>
+    </task>
+    <task id="LOCAL-00075" summary="add Kami's lookout to the map list, and fix king's castle's indestructibility">
+      <created>1646880696696</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1646880696697</updated>
+    </task>
+    <task id="LOCAL-00076" summary="add ToP maps">
+      <created>1646881231855</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1646881231855</updated>
+    </task>
+    <task id="LOCAL-00077" summary="fix table">
+      <created>1646881939712</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1646881939712</updated>
+    </task>
+    <task id="LOCAL-00078" summary="2022 FAs">
+      <created>1648422941442</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1648422941442</updated>
+    </task>
+    <task id="LOCAL-00079" summary="broly's planet aint destructible">
+      <created>1648776182576</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1648776182577</updated>
+    </task>
+    <task id="LOCAL-00080" summary="update ToP map section">
+      <created>1648776210677</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1648776210677</updated>
+    </task>
+    <task id="LOCAL-00081" summary="minor update to testing rules">
+      <created>1649023140570</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1649023140571</updated>
+    </task>
+    <task id="LOCAL-00082" summary="fix build doc">
+      <created>1649527206356</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1649527206357</updated>
+    </task>
+    <task id="LOCAL-00083" summary="update rosters for 2022 season">
+      <created>1650163904412</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1650163904413</updated>
+    </task>
+    <task id="LOCAL-00084" summary="adds missing rule about testing.">
+      <created>1650164147183</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1650164147183</updated>
+    </task>
+    <task id="LOCAL-00085" summary="adds missing mods">
+      <created>1650164256879</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1650164256879</updated>
+    </task>
+    <task id="LOCAL-00086" summary="add sentai criteria">
+      <created>1650511720632</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1650511720632</updated>
+    </task>
+    <task id="LOCAL-00087" summary="add benching rules page and update the side nav ordering to accommodate">
+      <created>1651979688258</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1651979688259</updated>
+    </task>
+    <task id="LOCAL-00088" summary="pre-season week 1 winners">
+      <created>1652670182453</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1652670182454</updated>
+    </task>
+    <task id="LOCAL-00089" summary="fix stats page link for 2022">
+      <created>1653188387683</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1653188387683</updated>
+    </task>
+    <task id="LOCAL-00090" summary="preseason + week 1 winners, schedule update">
+      <created>1655004332036</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1655004332036</updated>
+    </task>
+    <task id="LOCAL-00091" summary="updating testing rules">
+      <created>1655005182045</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1655005182045</updated>
+    </task>
+    <task id="LOCAL-00092" summary="remove extra &quot;dont AI test&quot; reminder">
+      <created>1655005305190</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1655005305190</updated>
+    </task>
+    <task id="LOCAL-00093" summary="clean up potara rules and add red potaras to the site">
+      <created>1656805941518</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1656805941518</updated>
+    </task>
+    <task id="LOCAL-00094" summary="publish whole doc">
+      <created>1656806341772</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1656806341772</updated>
+    </task>
+    <task id="LOCAL-00095" summary="fix side nav">
+      <created>1656806386457</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1656806386457</updated>
+    </task>
+    <task id="LOCAL-00096" summary="week 4 and 5 winners">
+      <created>1657424071511</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1657424071511</updated>
+    </task>
+    <task id="LOCAL-00097" summary="add Syn Shenron to Muscle's ML">
+      <created>1658024908553</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1658024908553</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Syn is no longer required to have a broly's ring">
+      <created>1658025133364</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1658025133364</updated>
+    </task>
+    <task id="LOCAL-00099" summary="week 7 winners">
+      <created>1658634846335</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1658634846335</updated>
+    </task>
+    <task id="LOCAL-00100" summary="week 10 + 11 winners">
+      <created>1662264366035</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1662264366035</updated>
+    </task>
+    <task id="LOCAL-00101" summary="week 14 &amp; week 15 winners; playoff week 1 matches">
+      <created>1665771482722</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1665771482722</updated>
+    </task>
+    <task id="LOCAL-00102" summary="add boss rush">
+      <created>1665772154916</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1665772154917</updated>
+    </task>
+    <task id="LOCAL-00103" summary="add playoff winners + bowl week 1 teams">
+      <created>1669341106356</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1669341106356</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -192,20 +479,37 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Preseason Week 4 builds" />
-    <MESSAGE value="Week 1 builds" />
-    <MESSAGE value="Week 3 builds" />
-    <MESSAGE value="Week 5 builds" />
-    <MESSAGE value="Week 7 builds" />
-    <MESSAGE value="Week 12 builds" />
-    <MESSAGE value="Week 15 builds" />
-    <MESSAGE value="SF builds builds 1" />
-    <MESSAGE value="SF builds builds 2" />
-    <MESSAGE value="Week 1 update" />
-    <MESSAGE value="Healing b1 character update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Healing b1 character update" />
+    <MESSAGE value="update ToP map section" />
+    <MESSAGE value="minor update to testing rules" />
+    <MESSAGE value="fix build doc" />
+    <MESSAGE value="update rosters for 2022 season" />
+    <MESSAGE value="adds missing rule about testing." />
+    <MESSAGE value="adds missing mods" />
+    <MESSAGE value="add sentai criteria" />
+    <MESSAGE value="add benching rules page and update the side nav ordering to accommodate" />
+    <MESSAGE value="pre-season week 1 winners" />
+    <MESSAGE value="fix stats page link for 2022" />
+    <MESSAGE value="preseason + week 1 winners, schedule update" />
+    <MESSAGE value="updating testing rules" />
+    <MESSAGE value="remove extra &quot;dont AI test&quot; reminder" />
+    <MESSAGE value="clean up potara rules and add red potaras to the site" />
+    <MESSAGE value="publish whole doc" />
+    <MESSAGE value="fix side nav" />
+    <MESSAGE value="week 4 and 5 winners" />
+    <MESSAGE value="add Syn Shenron to Muscle's ML" />
+    <MESSAGE value="Syn is no longer required to have a broly's ring" />
+    <MESSAGE value="week 7 winners" />
+    <MESSAGE value="week 10 + 11 winners" />
+    <MESSAGE value="week 14 &amp; week 15 winners; playoff week 1 matches" />
+    <MESSAGE value="add boss rush to the website" />
+    <MESSAGE value="add boss rush" />
+    <MESSAGE value="add playoff winners + bowl week 1 teams" />
+    <option name="LAST_COMMIT_MESSAGE" value="add playoff winners + bowl week 1 teams" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

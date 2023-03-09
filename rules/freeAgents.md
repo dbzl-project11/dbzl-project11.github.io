@@ -12,7 +12,7 @@ these characters could be used to cover for a weak character on a team with a li
 At this time, the characters guaranteed to be Free Agents are: 
 
 - Adult Gohan (may start any form)
-- General Blue 
+- Android 21
 - General Tao
 - Grandpa Gohan
 - Pikkon

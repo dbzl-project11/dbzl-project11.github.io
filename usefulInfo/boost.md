@@ -14,12 +14,9 @@ This zenni can be used to purchase a number of different bonuses for your team d
 #### Free Potaras
 
 These are limited to one per player per match and wouldn't count towards your 7 points for that character. These are all 
-one-time use, and the same one cannot be used on the same character two weeks in a row. For instance, if Jeice has 
-Super +3 (Super +2 Ki-1, and Super +1) one week, he cannot have a free Super +1 the next. This rule is in place to prevent 
-teams from using the same boost multiple times in a row. 
+one-time use. 
 
-Note - this does not for you to have duplicate potaras on a build. In cases where you want to use a +1 potara on a build, 
-and the same +1 potara as a boost on that same character, the corresponding +2 potara will be used. 
+Note - this does not for you to have duplicate potaras on a build.  
 
 Please remember that this does take up one of your 7 customization slots, and potara rules for characters are still in effect. 
 The store does not allow you to put potaras on characters that are not allowed to use them. However, these free potaras will 
@@ -84,13 +81,14 @@ The weeks you normally rotate your free agent bench are the following:
 - Remove a limiter! (Only usable once in a season) - 10 Zenni
     - This boost enables you to remove a "Limiter ring" on one of your players. This is more of a safety feature in case things aren't going right, and you wish for that character to transform once again. Please note, that once you remove a limiter, you may not put another one on a seperate character. Once a Limiter is used, or removed, there is no reversing that decision. So please, use this boost wisely.
 
-- Reuse a blue potara  this lets you use the same blue potara on 2 different characters, and is available on any of the legal blue potaras (2 zeni )
+- Reuse a blue potara this lets you use the same blue potara on 2 different characters, and is available on any of the legal blue potaras (2 zeni )
    - Blue potara are unique potara which buff up the character's base stats in the following category; Attack, Defense, Super, Ki.But teams can only use 1 of these blue potara at a time on the character.No two same blue potara can be used on the same match in the main league season. For example, Lets take Teen Gohan and Future Gohan, Both of them are super focused character but use two different blue potara to buff there super damage. Being Super+2 Ki-1 and Super+1 respectivey.However, using this boost allows them both to use the same blue potara in the same match either being super+2 Ki-1 or Super+1 on their builds.
 
 - Double Bench! Bench a character 2 weeks in a row (does not let you exceed 3 benches) - 4 zeni
     - This boost grants you the ability to bypass character bench restriction.(Allows you to bench the same character 2 weeks in a row which otherwise isn't possible ) For example, Lets take Perfect cell who both have to be bench 2 more times and its week 9,There next divisional is coming on week 12 and so have to figure a way out to complete cell's remaining 2 bench by week 12 so he is available for the divisional by week 12 and for the remaining matches.This can be achieve by using the Double Bench boost, benching cell on week 10 and week 11 to complete his benches for the season.
 
 NOTE: It doesn't allow the teams to bypass the bench limit on the character's per season(which is 3), Just accelerate the benching process if needed.
+
 - Trade out a map (Only available if you are playing at home) - 2 Zenni
     - This boost would allow you to pull the rug out from under your opponent and swap to a completely different map. If you choose to use this, you may ONLY choose maps from the list provided below. Meaning you cannot use this boost to change your map to mountain road or the tournament stage, since they are unavailable and reserved for the Gauntlet and Playoffs respectively.
 

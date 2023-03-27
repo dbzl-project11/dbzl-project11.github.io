@@ -69,7 +69,7 @@ All available FAs for the 2023 season:
     - Vegito (base)
     - Tapion
 
-"*" indicates that character must have a Broly's Ring. 
+"*" indicates that character must have a (free) Broly's Ring. 
 
 Note that Resurrected Warriors may not have Uub and Majuub in the same lineup. Similarly, GT may not use Baby Vegeta (SSJ) and Baby Vegeta (Base) in the same lineup.
 

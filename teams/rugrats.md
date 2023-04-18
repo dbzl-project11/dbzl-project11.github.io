@@ -18,11 +18,12 @@ parent: Teams
 ### Current Roster and specific player restrictions
 
 - Arale
-- Kid Trunks (SSJ1)
+- Kid Trunks (base)
 - Goten (SSJ1)
     - May not have Savior if he starts in SSJ1 form.
 - Cell Jr
-- Pan
+- SS3 GT Goku
+  - on loan for Pan
   
 ### Master List
 - Arale

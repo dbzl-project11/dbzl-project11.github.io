@@ -15,15 +15,16 @@ parent: Teams
 
 ### Current Roster and specific player restrictions
 
-- Recoome
-- Garlic Jr
+- King Cold
+  - on loan for Recoome
+- SSJ Broly
+  - Must start in base form, or SSJ1 form. 
 - Bojack
   - Must start in base form. 
 - Android 13
   - Must start in Base form
   - Banned from High Tension and Eternal Life
-- Adult Trunks (SSJ)
-  - Must start in base form, or SSJ1 form. 
+- Adult Trunks (Buff)
   
 ### Master List
 - Android 13

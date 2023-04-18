@@ -24,7 +24,8 @@ Alternative requirements
 
 ### Current Roster and specific player restrictions
 
-- Jeice
+- Recoome
+  - On loan for Jeice
 - Burter
 - Jiren
 - Saiyaman

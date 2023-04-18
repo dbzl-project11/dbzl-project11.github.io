@@ -18,8 +18,8 @@ parent: Teams
 
 - Hercule
 - Salza
-- Supreme Kai
-  - Banned from Eternal Life if he can gain health from transforming. 
+- Android 19
+  - on loan for Supreme Kai
 - Dodoria
 - Cui
 

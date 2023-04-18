@@ -16,11 +16,11 @@ parent: Teams
 
 ### Current Roster and Specific Player restrictions
 
-- Pilaf
+- Kid Goku
 - Scouter Vegeta
   - Banned from Master Blast and Rush Blast (2) if he has Att+ blue potara
 - Nappa
-- Turles
+- Slug
 - Bardock
 
 ### Master List

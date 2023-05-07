@@ -3,7 +3,7 @@ layout: default
 title: 2023 Season
 has_children: true
 has_toc: false
-nav_order: 3
+nav_order: 4
 parent: Main League
 ---
 

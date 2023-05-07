@@ -18,4 +18,5 @@ grand_parent: Main League
 
 
 ### Team Builds Round 1
-<iframe width=600 height=1000 scrolling="yes" src=""></iframe>
+
+<iframe width=600 height=1000 src="https://docs.google.com/document/d/e/2PACX-1vRqVy5_3DDdjxh4kXe1j8MEyAscd5fPtgcyCXydjcx7Ca_WI_Pt1WEMeWedIHLJMxtBxOvjcs3aTQBV/pub?embedded=true"></iframe>

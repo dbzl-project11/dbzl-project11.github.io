@@ -16,6 +16,7 @@ Join one of our teams as we compete to see who is the strongest fighter of them 
 These are the teams duking it out to see who has the best fighters in DragonBall Z!
 
 - [The Androids](./teams/androids.md)
+- [Buu Saga](teams/buujins.md)
 - [Budokai](./teams/budokai.md)
 - [Cinema](./teams/cinema.md)
 - [The Cold Kingdom](./teams/coldKingdom.md)
@@ -24,7 +25,6 @@ These are the teams duking it out to see who has the best fighters in DragonBall
 - [Team GT](./teams/gtWarrriors.md)
 - [Hybrid](./teams/hybrid.md)
 - [Kaiju](./teams/kaiju.md)
-- [Buujins](teams/buujins.md)
 - [Team Muscle](./teams/muscle.md)
 - [Team Namek](./teams/namek.md)
 - [Rugrats](./teams/rugrats.md)

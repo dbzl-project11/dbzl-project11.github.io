@@ -16,6 +16,6 @@ grand_parent: Main League
 | 5     | Cold                 | Derp         | Cold                 |
 | 6     | Resurrected Warriors | Sentai Squad | Resurrected Warriors |
 | 7     | Cinema               | Hybrids      | Hybrid               |
-| 8     | Rugrats              | Androids     | Android              |
+| 8     | Rugrats              | Androids     | Androids             |
 ### Team Builds 
 

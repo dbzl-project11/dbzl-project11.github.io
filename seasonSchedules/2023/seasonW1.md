@@ -17,5 +17,6 @@ grand_parent: Main League
 | 6     | Resurrected Warriors | Sentai Squad | Resurrected Warriors |
 | 7     | Cinema               | Hybrids      | Hybrids              |
 | 8     | Rugrats              | Androids     | Androids             |
+
 ### Team Builds 
 

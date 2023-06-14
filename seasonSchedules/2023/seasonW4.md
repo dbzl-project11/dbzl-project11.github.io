@@ -23,3 +23,4 @@ grand_parent: Main League
 
 ### Team Builds
 
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSnmxvvGs0773MU0t-EXsHHoOwfQpxNdKh-0K2kFhYmNOJLLTG6JrQiEDjRV4Xbn8iJppcG0CDCad1y/pub?embedded=true"></iframe>

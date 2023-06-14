@@ -17,15 +17,15 @@ grand_parent: Main League
 
 ### Championship Rounds 3-5 
 
-<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSPHdUZUNoeBNmZUz-qXO1ytN8lSJqQKq_ed1Xvofnvf9Wi2zseDcDkmqPG-duhiAfjK7n9Y01TgOFC/pub?embedded=true"></iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vQCvbXeqFkVkXmXxPJ_ud9d8ylM8S42MgyT7Q90_eF_fFLULxae85cXlrYAdIMY6_tqoByxa0B-Z9nn/pub?embedded=true"></iframe>
 
 ### MVP Tournament
 
 ## MVP builds
 
-<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSF-QhkndulqKwY7AG-xBUEPbNOc_kYhYIx0WcXNeFSGSt-kDWqExM1pPNZK2nrrEvpEe8iD__BHCgh/pub?embedded=true"></iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vQIW8BO_AQiOVJXmAhKigesoa0b6eZ1InHYp4BWJtxMvp-UYP7ndheehg10nnRtaI_FAd3GGDkr4r-I/pub?embedded=true"></iframe>
 
-### Gauntlet Teams
+### Boss Rush Teams
 
 |  League Team          | Final round reached||
 | :---------------------| :----------------| 
@@ -34,5 +34,6 @@ grand_parent: Main League
 | West Kai              |           | 
 | South Kai             |           | 
 
-### Gaunltet builds
+### Boss Rush builds
 
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vRaFLWFK3MUXywrCVCv7gPWfef6Cq4Ro31YfVJsSl1sZQ55Y56Axd3sGm_Ue9A_uk_vT2bjN6VOrSRk/pub?embedded=true"></iframe>

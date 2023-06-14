@@ -16,9 +16,9 @@ parent: Teams
 
 ### Current Roster and specific player restrictions:
 
-- Zangya
-- Broly (SSJ)
-  - May not start in Legendary SSJ Broly form
+- Turles
+  - Must start in base form.
+- Garlic Jr.
 - Gogeta
    - Banned from Master Blast and Rush Blast 2. 
 - Janemba

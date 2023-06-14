@@ -34,32 +34,33 @@ Pikkon will be treated as if he had been benched weeks 1 and 4.
 
 There are, of course, other characters available as Free Agents, but aren't guaranteed to be such. A final list of available
 Free Agents will be produced each season after the team drop/add window has completed. Starting with the 2021 season, 
-staff may add additional FAs to the pool using unused forms of charcters with multiple transformations.
+staff may add additional FAs to the pool using unused forms of characters with multiple transformations.
 
-All available FAs for the 2022 season:
+All available FAs for the 2023 season:
 
 - 10 zeni:
     - Appule
     - Chi-Chi
     - Devilman
-    - General Blue
     - Grandpa Gohan
     - Guldo
     - Saibaman
   
-- 12 zeni
-    - Captain Ginyu
+- 12 zeni 
+    - Baby Vegeta (base)*
+    - Cui
     - Chiaotzu
     - Raditz
     - Babidi
+    - Zangya
 
 - 15 zeni
     - Roshi
     - Nam
-    - Tambourine
+    - Android 21
 
 - 20 zeni 
-    - 1st Form Frieza*
+    - Uub*
     - General Tao
 
 - 25 zeni
@@ -68,8 +69,8 @@ All available FAs for the 2022 season:
     - Vegito (base)
     - Tapion
 
-"*" indicates that character must have a Broly's Ring. 
+"*" indicates that character must have a (free) Broly's Ring. 
 
-Note that Cold may not have 1st Form Frieza and Final Form Frieza in the same lineup. 
+Note that Resurrected Warriors may not have Uub and Majuub in the same lineup. Similarly, GT may not use Baby Vegeta (SSJ) and Baby Vegeta (Base) in the same lineup.
 
-If Cold picks up 1st Form Frieza as a free agent, 1st Form Frieza could *only* sub in for Final Form Frieza.
+If Resurrected Warriors or GT picks up a different form of a character as their FA, the FA may only be brought in to replace the character form that is on their main roster.

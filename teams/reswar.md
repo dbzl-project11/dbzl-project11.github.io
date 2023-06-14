@@ -15,13 +15,13 @@ parent: Teams
  
 ### Current Roster and specific player restrictions
 
-- Yajirobe
+- Tien
+  - On loan for Base End Vegeta
 - Early Goku
 - Majuub
 - Eighter
-- End Vegeta (Base)
-  - Must start in either SSJ1 form, or Base form.
-  - Banned from Master Blast, and Rush Blast (2)
+- Yamcha
+  - On loan for Yajirobe
 
 ### Master List
 - Adult Trunks

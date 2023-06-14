@@ -20,7 +20,7 @@ parent: Teams
   - Banned from Master blast, Rush Blast (2) and Banned from Eternal Life 
 - Late Piccolo
 - Nail
-- Early Piccolo
+- Tambourine
 
 ### Master List
 - Cell

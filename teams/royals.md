@@ -14,14 +14,14 @@ parent: Teams
     - N/A
 ### Current Roster and specific player restrictions
 
-- Lord Slug
+- King Vegeta
     - Must start in base form.
 - Demon King Dabura
   - Banned from Master Blast, and Rush Blast (2) if he has Att+ Blue potara 
 - Meta Cooler
 - (Prince) Majin Vegeta
   - Banned from Master Blast, and Rush Blast (2) if he has Att+ Blue potara
-- King Vegeta
+- Pilaf
     - Must start in base form.
 
 ### Master List

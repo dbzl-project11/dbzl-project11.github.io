@@ -12,11 +12,12 @@ parent: Teams
 Any character who legitimately participated on screen in the World Martial Arts Tournament (Budokai Tenkaichi).
 
 ### Current Roster and specific player restrictions:
-- Yamcha 
-- Kid Goku
+- SS2 End Goku 
+- Early Piccolo
 - Videl
-- Android 18
-- Cyborg Tao
+- Early Goku
+- Supreme Kai
+  - On loan for Cyborg Tao
 
 ### Master List
 - Android 18

@@ -16,17 +16,15 @@ parent: Teams
 
 ### Current Roster and specific player restrictions
 
-- Cell
-  -  Banned from using Recoome AI if he can gain health from his grabs.
-  -  Banned from using Master Throw if he can gain health from his grabs.
-  -  Banned from Demonic Bargain if he can gain health from his grabs.
+- Perfect Cell
 - Super 17
   - N/A
 - Android 16
   - N/A
 - Android 17
   - N/A
-- Android 19
+- Cyborg Tao 
+  - on loan for Android 19
   
 ### Master List
 

@@ -17,11 +17,12 @@ parent: Teams
 ### Current Roster and specific player restrictions:
 
 - Lord Mecha Frieza
-- Frieza (Final Form)
+- Frieza (100% Final Form)
   - Banned from Master Blast, and Rush Blast (2) if starting in 3rd form.
-- Cooler (Final Form)
-- Zarbon
-- King Cold
+- Cooler (Base Form)
+- Zarbon (base form)
+- Jeice
+  - On loan for King Cold
   
 ### Master List
 

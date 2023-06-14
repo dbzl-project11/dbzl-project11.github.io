@@ -17,8 +17,8 @@ parent: Teams
 
 ### Current Roster and specific player restrictions
 
-- GT Goku (SSJ1)
-  -  Cannot start in SS4.
+- Pan
+  - on loan for GT Goku
 - SS4 Vegeta
   - Banned from Master Blast and Rush Blast 2.
 - Syn Shenron

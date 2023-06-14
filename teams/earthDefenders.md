@@ -17,10 +17,11 @@ parent: Teams
 ### Current Roster and specific player restrictions
 
 - Krillin
-- Mid Goku (SSJ)
-  - Banned from Kibito's Secret Art & Secret Measures if starting in SSJ form.
-- Tien
-- End Goku (SSJ)
+- Base Mid Goku
+- Base End Vegeta
+  - on loan for Tien
+- Yajirobe
+  - on loan for Yamcha
 - Mid Vegeta (SSJ)
   - Must start in base form or SSJ1
   - Banned from Master Blast, and Rush Blast (2)

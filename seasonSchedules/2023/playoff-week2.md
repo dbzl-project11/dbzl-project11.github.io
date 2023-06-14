@@ -26,3 +26,4 @@ grand_parent: Main League
 
 ### Team Builds Rounds 2 and 3 
 
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vR8qyPpXHYGLuIsUWVreBcw3nvhW4DHpHzP-uZuLbszdXcvNbfpZBTQuF1hsLQ73sQSWMSvNdMGMmKN/pub?embedded=true"></iframe>

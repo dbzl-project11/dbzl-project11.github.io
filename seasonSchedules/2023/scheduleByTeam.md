@@ -9,6 +9,8 @@ nav_exclude: true
 
 ## North Kai
 
+### Cold Kingdom
+
 | Match    | Home Team    | Away Team            |
 |:---------|:-------------|:---------------------|
 | 1        | Cold         | Derp                 |

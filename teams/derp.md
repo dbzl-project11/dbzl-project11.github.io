@@ -21,7 +21,7 @@ parent: Teams
 - Android 19
   - on loan for Supreme Kai
 - Dodoria
-- Cui
+- Captain Ginyu
 
 ### Master List
 - Android 19

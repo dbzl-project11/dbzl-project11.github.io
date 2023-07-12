@@ -321,3 +321,23 @@ nav_exclude: true
 | 13       | Buu Saga     | Cold                 |
 | 14 (div) | Namek        | Buu Saga             |
 | 15       | Buu Saga     | Rugrats              |
+
+### Budokai
+
+| Match    | Home Team    | Away Team            |
+|:---------|:-------------|:---------------------|
+| 1        | Kaiju        | Budokai              |
+| 2        | Budokai      | Muscle               |
+| 3        | Budokai      | Derp                 |
+| 4        | Androids     | Budokai              |
+| 5        | Budokai      | Rugrats              |
+| 6 (div)  | Budokai      | Buu Saga             |
+| 7        | Cinema       | Budokai              |
+| 8        | Budokai      | Earth Defenders      |
+| 9        | Royals       | Budokai              |
+| 10 (div) | Namek        | Budokai              |
+| 11       | Sentai Squad | Budokai              |
+| 12       | Budokai      | GT                   |
+| 13       | Hybrids      | Budokai              |
+| 14 (div) | Budokai      | Resurrected Warriors |
+| 15       | Cold         | Budokai              |

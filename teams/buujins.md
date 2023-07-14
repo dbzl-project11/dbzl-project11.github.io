@@ -21,6 +21,10 @@ parent: Teams
 - Evil Buu
 - Kid Buu
 - Spopovich
+
+### Free Agent 
+
+- Vegito 
   
 ### Master List
 - Babidi

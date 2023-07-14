@@ -24,6 +24,10 @@ parent: Teams
 - Pilaf
     - Must start in base form.
 
+### Free Agent 
+
+- Baby Vegeta
+
 ### Master List
 - Lord Cooler
 - Demon King Dabura

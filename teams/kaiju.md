@@ -23,6 +23,10 @@ parent: Teams
 - Slug
 - Bardock
 
+### Free Agent
+
+- Uub
+
 ### Master List
 - Baby Vegeta 
 - Bardock

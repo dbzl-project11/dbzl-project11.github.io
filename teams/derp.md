@@ -23,6 +23,10 @@ parent: Teams
 - Dodoria
 - Cui
 
+### Free Agent 
+
+- Babidi
+
 ### Master List
 - Android 19
 - Appule

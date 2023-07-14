@@ -23,6 +23,10 @@ parent: Teams
 - Yamcha
   - On loan for Yajirobe
 
+### Free Agent
+
+- Tapion
+
 ### Master List
 - Adult Trunks
 - Android 18

@@ -23,6 +23,10 @@ parent: Teams
    - Banned from Master Blast and Rush Blast 2. 
 - Janemba
 - Fasha
+
+### Free Agent 
+
+- Raditz 
   
 ### Master List
 - Android 13

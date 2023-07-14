@@ -25,6 +25,10 @@ parent: Teams
   - N/A
 - Cyborg Tao 
   - on loan for Android 19
+
+### Free Agent 
+
+- Cui
   
 ### Master List
 

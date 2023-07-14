@@ -23,6 +23,10 @@ parent: Teams
 - Zarbon (base form)
 - Jeice
   - On loan for King Cold
+
+### Free Agent 
+
+- General Tao
   
 ### Master List
 

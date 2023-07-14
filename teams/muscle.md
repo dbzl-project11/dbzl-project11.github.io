@@ -25,6 +25,10 @@ parent: Teams
   - Must start in Base form
   - Banned from High Tension and Eternal Life
 - Adult Trunks (Buff)
+
+### Free Agent 
+
+- Grandpa Gohan 
   
 ### Master List
 - Android 13

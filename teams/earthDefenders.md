@@ -25,6 +25,10 @@ parent: Teams
 - Mid Vegeta (SSJ)
   - Must start in base form or SSJ1
   - Banned from Master Blast, and Rush Blast (2)
+
+### Free Agent
+
+- Nam
   
 ### Master List
 - Adult Trunks

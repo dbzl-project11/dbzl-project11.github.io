@@ -19,6 +19,10 @@ Any character who legitimately participated on screen in the World Martial Arts 
 - Supreme Kai
   - On loan for Cyborg Tao
 
+### Free Agent 
+
+- Adult Gohan
+
 ### Master List
 - Android 18
 - Chiaotzu

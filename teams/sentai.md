@@ -31,6 +31,10 @@ Alternative requirements
 - Saiyaman
 - Saiyawoman
 
+### Free Agent
+
+- Android 21 
+
 ### Master List
 - Burter
 - Captain Ginyu

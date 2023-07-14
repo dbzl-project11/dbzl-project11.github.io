@@ -24,6 +24,10 @@ parent: Teams
 - Cell Jr
 - SS3 GT Goku
   - on loan for Pan
+
+### Free Agent
+
+- Devilman
   
 ### Master List
 - Arale

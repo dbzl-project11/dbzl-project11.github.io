@@ -26,6 +26,10 @@ parent: Teams
 - Baby Vegeta (SSJ1)
   - Must start in base form or SSJ 1
 - Dr. Gero
+
+### Free Agent
+
+- Roshi 
   
 ### Master List
   - Android 17

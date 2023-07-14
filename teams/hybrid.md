@@ -22,6 +22,10 @@ parent: Teams
 - Teen Gohan (SSJ1)
   - Cannot start in SSJ2 form.
   - If he can transform into SSJ2 form, he cannot have Kibito's Secret Art or Secret Measures.
+
+### Free Agent 
+
+- Guldo 
   
 ### Master List
 

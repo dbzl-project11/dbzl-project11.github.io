@@ -22,6 +22,10 @@ parent: Teams
 - Nail
 - Tambourine
 
+### Free Agent 
+
+- Pikkon
+
 ### Master List
 - Cell
 - Cell Jr.

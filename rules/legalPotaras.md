@@ -21,6 +21,8 @@ Every player has 7 points with which to customize. Below is a list of abilities 
     
 - To keep Defense in-line with the other potaras, you may only use two Defense potaras in any combination.
 
+- Demonic Bargain, Ultra Divine Water, and Demon Seal may not be stacked together.
+
 #### Potaras 
 
 <iframe width=1100 height=1000 scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3M0rSgk8SBGoxIv-wsgW1HkYo5NnJqEkjMzQMtVeaBjW0HKmtHzZM9FF2ZavTEGoxXuyVz8LsGpSc/pubhtml?widget=true&amp;headers=false"></iframe>

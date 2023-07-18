@@ -23,7 +23,7 @@ parent: Teams
   - Must start in base form. 
 - Android 13
   - Must start in Base form
-  - Banned from High Tension and Eternal Life
+  - Banned from Eternal Life
 - Adult Trunks (Buff)
 
 ### Free Agent 

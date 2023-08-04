@@ -41,8 +41,9 @@ parent: Teams
 - Android 8
 - Arale
 - Cell
-   - Banned from using Recoome AI if he can gain health from his grabs
-   - Banned from using Master Throw if he can gain health form his grabs
+  - Banned from using Demonic Bargain if he can gain health from his grabs
+  - Banned from using Recoome AI if he can gain health from his grabs
+  - Banned from using Master Throw if he can gain health form his grabs
 - Cell Jr.
 - Cyborg Tao
 - Dr. Gero

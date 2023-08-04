@@ -2,7 +2,7 @@
 layout: default
 title: All Stars Matches
 nav_order: 14
-parent: 2022 Season
+parent: 2023 Season
 grand_parent: Main League
 ---
 ### Schedule

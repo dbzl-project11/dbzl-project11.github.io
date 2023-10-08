@@ -7,16 +7,16 @@ grand_parent: Main League
 ---
 ### Schedule
 
-| Match | Home Team       | Away Team            | Winner |
-|:------|:----------------|:---------------------|:-------|
-| 1     | Muscle          | Cinema               |        |
-| 2     | GT              | Androids             |        |
-| 3     | Buu Saga        | Rugrats              |        |
-| 4     | Earth Defenders | Kaiju                |        |
-| 5     | Sentai Squad    | Hybrids              |        |
-| 6     | Cold            | Budokai              |        |
-| 7     | Royals          | Resurrected Warriors |        |
-| 8     | Namek           | Derp                 |        |
+| Match | Home Team       | Away Team            | Winner               |
+|:------|:----------------|:---------------------|:---------------------|
+| 1     | Muscle          | Cinema               | Muscle               |
+| 2     | GT              | Androids             | Androids             |
+| 3     | Buu Saga        | Rugrats              | Rugrats              |
+| 4     | Earth Defenders | Kaiju                | Earth Defenders      |
+| 5     | Sentai Squad    | Hybrids              | Sentai Squad         |
+| 6     | Cold            | Budokai              | Cold                 |
+| 7     | Royals          | Resurrected Warriors | Resurrected Warriors |
+| 8     | Namek           | Derp                 | Namek                |
 
 
 

@@ -9,12 +9,12 @@ grand_parent: Main League
 
 ### First match Round 1
 
-| Home Team            | Away Team       | Winner               |
-|:---------------------|:----------------|:---------------------|
-|   |                 |  |
-|                |               |                |
-|               |             |               |
-|                 |           |                |
+| Home Team            | Away Team | Winner       |
+|:---------------------|:----------|:-------------|
+| Resurrected Warriors | Hybrids   | Hybrids      |
+| Budokai              | GT        | GT           |
+| Royals               | Muscle    | Muscle       |
+| Cold Kingdom         | Rugrats   | Cold Kingdom |
 
 
 

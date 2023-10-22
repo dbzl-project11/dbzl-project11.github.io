@@ -8,12 +8,12 @@ grand_parent: Main League
 
 ### Quarterfinals match Round 2
 
-| Home Team            | Away Team       | Winner               |
-|:---------------------|:----------------|:---------------------|
-|   |                 |  |
-|                |               |                |
-|               |             |               |
-|                 |           |                |
+| Home Team    | Away Team       | Winner |
+|:-------------|:----------------|:-------|
+| Hybrids      | Kaiju           |        |
+| Budokai      | Buu Saga        |        |
+| Royals       | Earth Defenders |        |
+| Cold Kingdom | Androids        |        |
 
 
 ### Quarterfinals match Round 3 (if applicable)

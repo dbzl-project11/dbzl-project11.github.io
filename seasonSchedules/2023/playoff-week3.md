@@ -8,12 +8,12 @@ grand_parent: Main League
 
 ### Quarterfinals match Round 1
 
-| Home Team       | Away Team    | Winner |
-|:----------------|:-------------|:-------|
-| Kaiju           | Hybrids      |        |
-| Buu Saga        | Budokai      |        |
-| Earth Defenders | Royals       |        |
-| Androids        | Cold Kingdom |        |
+| Home Team       | Away Team    | Winner       |
+|:----------------|:-------------|:-------------|
+| Kaiju           | Hybrids      | Hybrids      |
+| Buu Saga        | Budokai      | Budokai      |
+| Earth Defenders | Royals       | Royals       |
+| Androids        | Cold Kingdom | Cold Kingdom |
 
 
 

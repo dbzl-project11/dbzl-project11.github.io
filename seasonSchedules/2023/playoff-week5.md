@@ -8,12 +8,10 @@ grand_parent: Main League
 
 ### Semifinals match Round 1
 
-| Home Team            | Away Team       | Winner               |
-|:---------------------|:----------------|:---------------------|
-|   |                 |  |
-|                |               |                |
-|               |             |               |
-|                 |           |                |
+| Home Team | Away Team    | Winner |
+|:----------|:-------------|:-------|
+| Buu Saga  | Hybrids      |        |
+| Royals    | Cold Kingdom |        |
 
 
 

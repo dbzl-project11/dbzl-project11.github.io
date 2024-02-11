@@ -4,48 +4,5 @@ title: Sentai Squad
 nav_order: 16
 parent: Teams
 ---
-## Sentai Squad
-![](../images/sentai.jpg)
 
-### Theme Description
-- Anyone who is clearly inspired by Sentai style series. 
-- For league purposes, at least 3 of the following 5 criteria must be met.
-  - Belong in a group/team dynamic 
-  - Have a sentai/super hero suit 
-  - Have some form of color coordination/matching outfit 
-  - Makes a sentai inspired battle pose
-
-Alternative requirements
-  - Is a character that has a transformation akin to a megazord 
-  - If the Sentai character has a secret identity, that secret identity is also included.
-
-### Team restrictions:
-  - N/A 
-
-### Current Roster and specific player restrictions
-
-- Recoome
-  - On loan for Jeice
-- Burter
-- Jiren
-- Saiyaman
-- Saiyawoman
-
-### Free Agent
-
-- Android 21 
-
-### Master List
-- Burter
-- Captain Ginyu
-- Guldo
-- Jeice
-- Jiren
-- Pilaf
-- Recoome
-- Saiyaman
-- Saiyawoman
-- Salza
-- Ultimate Gohan
-- Videl
-
+<iframe width=650 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vT4_dpRQVBkONb5UtvVnXM5-_6d1xp3oE5a9V_nV7h2IudwlH4bg_sEunvajidohWxph9CSuI5TfZTW/pub?embedded=true"></iframe>

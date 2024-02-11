@@ -4,47 +4,5 @@ title: Budokai
 nav_order: 2
 parent: Teams
 ---
-## Budokai
 
-![](../images/budokai.jpg)
-
-### Theme Description
-Any character who legitimately participated on screen in the World Martial Arts Tournament (Budokai Tenkaichi).
-
-### Current Roster and specific player restrictions:
-- SS2 End Goku 
-- Early Piccolo
-- Videl
-- Early Goku
-- Supreme Kai
-  - On loan for Cyborg Tao
-
-### Free Agent 
-
-- Adult Gohan
-
-### Master List
-- Android 18
-- Chiaotzu
-- Cyborg Tao
-- Early Goku
-- Early Piccolo
-- End Goku
-- Goten
-- GT Goku
-- Hercule
-- Kid Goku
-- Kid Trunks
-- Krillin
-- Late Piccolo
-- Nam
-- Pan
-- Roshi
-- Saiyaman
-- Spopovich
-- Supreme Kai
-- Tien
-- Uub
-- Videl
-- Yajirobe
-- Yamcha
+<iframe width=650 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vRRN0Cabd5cnxVh-x-JH7JlUTlHNWZX-isMU61xtt23T0M04SmubyJCz_4Ly2zxLSqtMF3cjluu6mJx/pub?embedded=true"></iframe>

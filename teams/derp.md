@@ -4,47 +4,5 @@ title: Derp
 nav_order: 6
 parent: Teams
 ---
-## Derp
 
-![](../images/derp.jpg)
-
-### Theme Description
-- Any fighter who were supposed to be powerful but were made to look so weak it was stupid.
-
-### Team restrictions:
-  - N/A
-
-### Current Roster and specific player restrictions:
-
-- Hercule
-- Salza
-- Android 19
-  - on loan for Supreme Kai
-- Dodoria
-- Captain Ginyu
-
-### Free Agent 
-
-- Babidi
-
-### Master List
-- Android 19
-- Appule
-- Burter
-- Captian Ginyu
-- Cui
-- Cyborg Tao
-- Devilman
-- Dr. Gero (Android 20)
-- Dodoria
-- 100% Final Form Frieza
-   - Must be in this form
-- Garlic Jr.
-- Hercule
-- Jeice
-- King Cold
-- Mecha Frieza
-- Pilaf
-- Salza
-- Supreme Kai
-- Yamcha
+<iframe width=650 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vQLzeTirO1-RMs_2-2SWTLh7FfTixMPSFDYzG7jHzKpzF0F-TW8aCeH9BGhfTwEcGw2sbKT0ltwX1b8/pub?embedded=true"></iframe>

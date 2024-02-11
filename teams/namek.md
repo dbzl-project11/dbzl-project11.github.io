@@ -4,39 +4,5 @@ title: Namek
 nav_order: 12
 parent: Teams
 ---
-## Namek
-![](../images/namek.jpg)
 
-### Theme Description
-- Any fighter that is Namekian, created by the Namekians, or has Namekian DNA
-
-### Team restrictions:
-  -  Banned from Eternal Life if Cell is in their lineup and starts in base or Semi-Perfect forms.
-
-### Current Roster and specific player restrictions
-
-- King Piccolo
-- Nuova Shenron
-  - Banned from Master blast, Rush Blast (2) and Banned from Eternal Life 
-- Late Piccolo
-- Nail
-- Tambourine
-
-### Free Agent 
-
-- Pikkon
-
-### Master List
-- Cell
-- Cell Jr.
-- Early Piccolo
-- Gotenks Buu/Gohan Buu
-  - Cannot start as Super Buu
-- King Piccolo
-- Late Piccolo
-- Nail
-- Nuova Shenron
-    - Banned from Eternal Life.
-- Slug
-- Syn Shenron
-- Tambourine
+<iframe width=650 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSY-RyIFD4yiLUsuvnXxMhUW5dEXupCWw8wC-gyQw6lVGx6GIunbRDbyBcwG5_9gLarg18GUKMXb5pO/pub?embedded=true"></iframe>

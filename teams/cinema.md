@@ -4,46 +4,5 @@ title: Cinema
 nav_order: 4
 parent: Teams
 ---
-## Cinema
 
-![](../images/cinema.jpg)
-
-### Theme Description
-- Any character that first appeared in a movie or OVA before appearing in the official DB manga or anime (if they appeared there at all).
-
-### Team restrictions:
--N/A
-
-### Current Roster and specific player restrictions:
-
-- Turles
-  - Must start in base form.
-- Garlic Jr.
-- Gogeta
-   - Banned from Master Blast and Rush Blast 2. 
-- Janemba
-- Fasha
-
-### Free Agent 
-
-- Raditz 
-  
-### Master List
-- Android 13
-- Arale
-  - First appeared in Dr. Slump movies before DB existed. So she technically counts.
-- Bojack
-- Bardock
-- Broly
-- Cooler
-- Fasha
-- Garlic Jr.
-- Gogeta
-- Janemba
-- Meta-Cooler
-- Salza
-- Saiyawoman
-- Slug
-- Turles
-- Zangya
-- King Vegeta
+<iframe width=650 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vSHZb6MAK384LNhk8qpEnAkM2mkggzXY2pVmRH8bh4CF0rSWTo2xMcNw5eYSFzErDiu1eHWkcka-k3R/pub?embedded=true"></iframe>

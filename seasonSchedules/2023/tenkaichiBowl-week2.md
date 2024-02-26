@@ -12,8 +12,8 @@ grand_parent: Main League
 
 | Home Team | Away Team | Winner |
 |:----------|:----------|:-------|
-|           |           |        |
-|           |           |        |
+| Hybrids   | Royals    | Hybrids |
+| Royals    | Hybrids   | Royals |
 
 ### Championship Rounds 3-5 
 

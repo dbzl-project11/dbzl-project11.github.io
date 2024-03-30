@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 2022 Season Week 8 - Finals
+title: 2024 Season Week 8 - Finals
 has_children: false
 nav_order: 9
-parent: 2022 ToP Season
+parent: 2024 ToP Season
 grand_parent: Tournament of Power
 ---
 

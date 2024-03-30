@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 2022 Season Week 6 - Quarterfinals
+title: 2024 Season Week 6 - Quarterfinals
 has_children: false
 nav_order: 7
-parent: 2022 ToP Season
+parent: 2024 ToP Season
 grand_parent: Tournament of Power
 ---
 

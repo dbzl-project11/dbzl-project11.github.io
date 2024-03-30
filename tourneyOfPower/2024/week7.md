@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 2022 Season Week 7
+title: 2024 Season Week 7
 has_children: false
 nav_order: 8
-parent: 2022 ToP Season
+parent: 2024 ToP Season
 grand_parent: Tournament of Power
 ---
 

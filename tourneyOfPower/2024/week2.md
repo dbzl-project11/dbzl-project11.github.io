@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 2022 Season Week 2
+title: 2024 Season Week 2
 has_children: false
 nav_order: 3
-parent: 2022 ToP Season
+parent: 2024 ToP Season
 grand_parent: Tournament of Power
 ---
 

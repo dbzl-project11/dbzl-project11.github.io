@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 2022 Season Playoffs Round 1
+title: 2024 Season Playoffs Round 1
 has_children: false
 nav_order: 6
-parent: 2022 ToP Season
+parent: 2024 ToP Season
 grand_parent: Tournament of Power
 ---
 

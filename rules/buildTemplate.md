@@ -5,7 +5,7 @@ nav_order: 15
 parent: Rules
 ---
 
-##Rules
+## Rules
 
 The following rules are mandatory. Failing to follow them will result in that team incurring a
 warning/penalty depending on the severity and frequency of the offense.
@@ -48,7 +48,7 @@ builds were.
 As a note, when specifying a characters AI potara if no potara is written down on a build, then it will
 be assumed that the character is using Default AI (no AI potara in the game).
 
-##Template
+## Template
 
 Season x Week y - (Any title you want to give the week goes here)
 
@@ -102,7 +102,7 @@ AI here
 Do NOT write “first” “second” “third”, “opener”, “closer”, etc or any variation of that in your builds please. We just need the name of the character in those spots. 
 
 
-##Example post
+## Example post
 
 2020 Season Week 10
 

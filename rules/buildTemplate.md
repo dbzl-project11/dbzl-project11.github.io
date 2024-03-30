@@ -62,43 +62,41 @@ Boost Store
 List any boost store purchases here, with the cost next to them. This section is only needed if you are
 buying stuff from the store.
 
-Lineup
-(Name of first character here) - (If you wish to nickname the character that goes here)
-(If using any costume but the default, put it here)
-
-Blue potara here (potara cost)
-Yellow potaras here (potara cost)
-Free potaras or limiters here (Free/Limiter)
-Boost Store Purchases here (Boost)
+Lineup <br />
+(Name of first character here) - (If you wish to nickname the character that goes here)<br />
+(If using any costume but the default, put it here)<br />
+Blue potara here (potara cost)<br />
+Yellow potaras here (potara cost)<br />
+Free potaras or limiters here (Free/Limiter)<br />
+Boost Store Purchases here (Boost)<br />
 AI here
 
-(Name of second character here) - (If you wish to nickname the character that goes here)
-(If using any costume but the default, put it here)
-
-Blue potara here (potara cost)
-Yellow potaras here (potara cost)
-Free potaras or limiters here (Free/Limiter)
-Boost Store Purchases here (Boost)
+(Name of second character here) - (If you wish to nickname the character that goes here)<br />
+(If using any costume but the default, put it here)<br />
+Blue potara here (potara cost)<br />
+Yellow potaras here (potara cost)<br />
+Free potaras or limiters here (Free/Limiter)<br />
+Boost Store Purchases here (Boost)<br />
 AI here
 
-(Name of third character here) - (If you wish to nickname the character that goes here)
-(If using any costume but the default, put it here)
-
-Blue potara here (potara cost)
-Yellow potaras here (potara cost)
-Free potaras or limiters here (Free/Limiter)
-Boost Store Purchases here (Boost)
+(Name of third character here) - (If you wish to nickname the character that goes here)<br />
+(If using any costume but the default, put it here)<br />
+Blue potara here (potara cost) <br />
+Yellow potaras here (potara cost)<br />
+Free potaras or limiters here (Free/Limiter)<br />
+Boost Store Purchases here (Boost)<br />
 AI here
 
-(Name of fourth character here) - (If you wish to nickname the character that goes here)
-(If using any costume but the default, put it here)
-
-Blue potara here (potara cost)
-Yellow potaras here (potara cost)
-Free potaras or limiters here (Free/Limiter)
-Boost Store Purchases here (Boost)
+(Name of fourth character here) - (If you wish to nickname the character that goes here)<br />
+(If using any costume but the default, put it here)<br />
+Blue potara here (potara cost)<br />
+Yellow potaras here (potara cost)<br />
+Free potaras or limiters here (Free/Limiter)<br />
+Boost Store Purchases here (Boost)<br />
 AI here
+
 -------------------------------------------
+
 Do NOT write “first” “second” “third”, “opener”, “closer”, etc or any variation of that in your builds please. We just need the name of the character in those spots. 
 
 
@@ -106,55 +104,52 @@ Do NOT write “first” “second” “third”, “opener”, “closer”, e
 
 2020 Season Week 10
 
-Map
-Ruined City (Evening)
+Map <br />
+Ruined City (Evening) <br />
 
-Benches
-Weekly Bench: Early Piccolo
+Benches <br />
+Weekly Bench: Early Piccolo <br />
 
-Boost Store
-Dragon Power (3z)
-Attack +1 (4z)
+Boost Store <br />
+Dragon Power (3z) <br />
+Attack +1 (4z) <br />
 
-Lineup
-SSJ1 End Goku
-Costume 2
+Lineup <br />
 
-Attack +2 Defence -1 (1)
-Light Body (1)
-Serious! (1)
-Dende's Healing (2)
-Mirage (1)
-Master Strike (1)
-Attack +1 (Boost)
-Trunks AI
+SSJ1 End Goku <br />
+Costume 2 <br />
+Attack +2 Defence -1 (1) <br />
+Light Body (1) <br />
+Serious! (1) <br />
+Dende's Healing (2) <br />
+Mirage (1) <br />
+Master Strike (1) <br />
+Attack +1 (Boost)<br />
+Trunks AI <br />
 
-Kibito Kaioshin
-
-Defense +2 Attack -1 (1)
-Latent Energy (1)
-Indignation (1)
-Dende's Healing (2)
-Launch's Support (2)
-Dragon Power (Boost)
+Kibito Kaioshin<br />
+Defense +2 Attack -1 (1) <br />
+Latent Energy (1)<br />
+Indignation (1)<br />
+Dende's Healing (2)<br />
+Launch's Support (2)<br />
+Dragon Power (Boost)<br />
 Tien AI
 
-Dabura
-Costume 2
-
-Ki +2 Super -1 (1)
-Master Blast (1)
-Launch's Support (2)
-Savior (1)
-Quick Fast Attack (1)
-Serious (1)
+Dabura<br />
+Costume 2<br />
+Ki +2 Super -1 (1)<br />
+Master Blast (1)<br />
+Launch's Support (2)<br />
+Savior (1)<br />
+Quick Fast Attack (1)<br />
+Serious (1)<br />
 Krillin AI
 
-Adult Gohan Base
-
-Ki +1 (1)
-Eternal Life (4)
-Indignation (1)
-Light Body (1)
-Broly's Ring (free)
-Tien ai 
+Adult Gohan Base <br />
+Ki +1 (1) <br />
+Eternal Life (4)<br />
+Indignation (1)<br />
+Light Body (1)<br />
+Broly's Ring (free) <br />
+Tien ai <br />

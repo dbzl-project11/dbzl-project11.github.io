@@ -15,7 +15,7 @@ Note to team-members: if you believe your coach isn’t abiding by these rules, 
 
 3) When team decisions are tied (including the coaches' vote), coaches will decide how to break the tie. But effort must be made to show discussion and compromise with all team members.
 
-4) Coaches are to be the leader of conversations and are expected to start conversations when supporters are quiet or unsure about what to do. 
+4) Coaches are to be the leader of conversations and are expected to start conversations when supporters are quiet or unsure about what to do.While this can be done in VC or DM, the expectation is that some record of these discussions will be made in the team chat.
 
 5) Coaches are expected to spend about 3-5 hours per week to coordinate builds, tests, and discussions. This may vary by team needs.
 
@@ -23,4 +23,6 @@ Failure to abide by these can result in a coach being removed by staff decision.
 
 Other notes:
 
-If you are inactive for more than 2 weeks from Pre-season week 1 to the end of your team's season without notice, then you will be removed from the position of coach.
+If you are inactive for more than 2 weeks from Pre-season week 1 to the end of your team's season
+without notice, then you will be removed from the position of coach. Coaching inactivity will be
+measured by activity in the team chat.

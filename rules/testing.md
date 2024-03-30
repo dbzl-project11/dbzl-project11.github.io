@@ -26,12 +26,18 @@ parent: Rules
         - 1 elimination round (formatted as: 1 4v4 1R)
         - Once a week.
         - These requests do not stack, use it or lose it.
-        - 4v4 requests must be submitted by Thursday 11:59pm CST. 
+        - 4v4 requests must be submitted by Thursday 11:59pm EST.
+    - 5v5
+        - 1 elimination round (formatted as 1 5v5 1R)
+        - once a month on the first week of the month.
+        - These requests do not stack, use it or lose it
+        - 5v5 requests must be submitted by Thursday, 11:59 pm EST the first week of the month.
 
 3. All tests may have a full 7 point build with the following caveats. 
 
     - Team potara limitations do not apply. For example, in a 4 v4, you can have Dende's Healing on each member of your team.
     - Unless specifically requested, you will be testing on your current home map.
+    - You may use boosts as if you were boosting during the regular season.
 
 4. Once Base rosters have been decided, you may only test the forms declared *or* higher forms. Lower form testing is not permitted after that.
 

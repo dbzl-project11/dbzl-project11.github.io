@@ -36,32 +36,32 @@ There are, of course, other characters available as Free Agents, but aren't guar
 Free Agents will be produced each season after the team drop/add window has completed. Starting with the 2021 season, 
 staff may add additional FAs to the pool using unused forms of characters with multiple transformations.
 
-All available FAs for the 2023 season:
+All available FAs for the 2024 season:
 
 - 10 zeni:
     - Appule
-    - Chi-Chi
     - Devilman
+    - Ginyu
     - Grandpa Gohan
     - Guldo
     - Saibaman
   
 - 12 zeni 
-    - Baby Vegeta (base)*
+    - Babidi
     - Cui
     - Chiaotzu
+    - Jeice
     - Raditz
-    - Babidi
     - Zangya
 
 - 15 zeni
-    - Roshi
-    - Nam
     - Android 21
+    - Imperfect Cell*, **
+    - Roshi
 
 - 20 zeni 
-    - Uub*
     - General Tao
+    - Uub*
 
 - 25 zeni
     - Adult Gohan (may start in any form)
@@ -70,6 +70,7 @@ All available FAs for the 2023 season:
     - Tapion
 
 "*" indicates that character must have a (free) Broly's Ring. 
+"**" indicates that this character bans the team from Eternal Life.
 
 Note that Resurrected Warriors may not have Uub and Majuub in the same lineup. Similarly, GT may not use Baby Vegeta (SSJ) and Baby Vegeta (Base) in the same lineup.
 

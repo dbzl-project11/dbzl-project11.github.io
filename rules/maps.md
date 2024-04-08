@@ -13,7 +13,7 @@ The following maps are available for use in the main season. A blank space means
 |:----------------------------|:-------------------------|:----------------|
 | Desert                      | Noon, Evening, Night     | Yes             |
 | Rocky Area                  | Noon, Evening, Night     | Yes             |
-| The Wastelands              | Noon, Night              | Yes             |
+| The Wastelands              | Noon, Evening, Night     | Yes             |
 | Glacier                     |                          | Yes             |
 | Kame House                  |                          | Yes             |
 | Namek                       |                          | Yes             |
@@ -40,8 +40,8 @@ The following maps are only available for special events such as the gauntlet, r
 | Map Name               | Available Times of Day | Is destructible | 
 |:-----------------------|:-----------------------|:----------------|
 | Cell Games Arena       | Noon, Evening          | Yes             |
-| World Tournament Stage | noon, evening          | No              |
-| Mountain Road          | Noon                   | Yes             |
+| World Tournament Stage | Noon, Evening          | No              |
+| Mountain Road          | Noon, Evening          | Yes             |
 | Otherworld Tournament  |                        | No              |
 
 ## Tournament of Power only maps

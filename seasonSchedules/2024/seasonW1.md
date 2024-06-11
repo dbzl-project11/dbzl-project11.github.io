@@ -2,7 +2,7 @@
 layout: default
 title: Main Season Week 1
 nav_order: 5
-parent: 2023 Season
+parent: 2024 Season
 grand_parent: Main League
 ---
 ### Schedule

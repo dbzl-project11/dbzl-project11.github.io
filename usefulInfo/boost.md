@@ -59,6 +59,7 @@ boost.
     - B2 Bonanza
     - B1 Bargains
     - Closeout Special
+    - Ultra Ego
 
 #### Boost Store Specific Potara Description
 - Starter kit - Rising Fighting Spirit (green aura), base ki power +1, active heart, tag bar starts at full, quick charge, secret measures

@@ -9,14 +9,14 @@ grand_parent: Main League
 
 | Match | Home Team       | Away Team            | Winner |
 |:------|:----------------|:---------------------|:-------|
-| 1     |  |                |  |
-| 2     |          |             |  |
-| 3     |         | |  |
-| 4     |            |                  |    |
-| 5     |             |               |  |
-| 6     |     |                 |  |
-| 7     |          |                |  |
-| 8     |               |                |  |
+| 1     | Cold Kingdom    | Royals               | Royals |
+| 2     | Sentai Squad    | Hybrids              | Sentai Squad  |
+| 3     | GT              | Buu Saga             | Buu Saga |
+| 4     | Namek           | Muscle               | Namek   |
+| 5     | Rugrats         | Earth Defenders      | Earth Defenders |
+| 6     | Resurrected Warriors  | Cinema         | Cinema |
+| 7     | Bdokai          | Kaiju                | Kaiju  |
+| 8     | Androids        | Derp               | Androids  |
 
 
 ### Team Builds 

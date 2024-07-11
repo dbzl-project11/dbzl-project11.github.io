@@ -66,7 +66,9 @@ boost.
 - B2 bonanza - Base Ki Power +1, B2s cost half (no loss of health), green aura
 - B1 bargains - Spiritual Control, B1 KSA effect, blast gauge charge speed +20%, green aura
 - Closeout special - Savior, Sparking plus, Power of Rage, green aura
-    
+
+Special -- these boost store specific potaras are not counted against other bans. For example, Teen Gohan can run B1 Bargain despite having a ban from Kibito's Secret Art. Similarly, Adult Gohan can have Closeout Special despite having a Savior ban.
+
 #### Other boosts
 
   

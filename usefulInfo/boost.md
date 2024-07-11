@@ -19,11 +19,13 @@ one-time use.
 Note - this does not for you to have duplicate potaras on a build.  
 
 Please remember that this does take up one of your 7 customization slots, and potara rules for characters are still in effect. 
-The store does not allow you to put potaras on characters that are not allowed to use them. However, these free potaras will 
-bypass potara limits. For instance, if you have Dragon Power on Krillin and Yamcha, you may use the Dragon Power boost on 
-Chiaotzu and Goku so that everyone has Dragon Power that week. Note that purchasing lower versions of a potara does not 
-cause them to stack. For instance, Power of Rage + Unleashed Ki =/= Dragon Power. The game always prioritizes the higher 
-boost.
+The store generally does not allow you to put potaras on characters that are not allowed to use them. Exceptions to this will be noted below.
+
+However, these free potaras will bypass potara usage limits. For instance, if you have Dragon Power on Krillin and Yamcha, you may use the Dragon Power boost on
+Chiaotzu and Goku so that everyone has Dragon Power that week.
+
+Note that purchasing lower versions of a potara does not
+cause them to stack. For instance, Power of Rage + Unleashed Ki =/= Dragon Power (instead, it would just be Power of Rage). The game always prioritizes the higher boost on the build.
 	
 
 - 1 zenni

@@ -12,7 +12,7 @@ grand_parent: Main League
 | 1       | Kaiju           | Resurrected Warriors | Kaiju           |
 | 2 (div) | Royals          | GT                   | Royals          |
 | 3 (div) | Budokai         | Androids             | Androids        |
-| 4       | Sentai          | Rugrats              | Rugrats         |
+| 4       | Sentai Squad    | Rugrats              | Rugrats         |
 | 5       | Buu Saga        | Cinema               | Buu Saga        |
 | 6       | Namek           | Hybrids              | Hybrids         |
 | 7       | Cold            | Derp                 | Cold            |

@@ -24,3 +24,19 @@ characters are banned from Eternal Life, not the team as a whole).
 One thing to note - the extra build rules the Gauntlet provided, such as 8 point builds or event specific potaras will 
 not be carried over. 
 
+However, there are 2 special rules for this event :
+
+1) Redline - gives access to 1 of the following potaras for 4 points on a team (limit of 1 of any of these per team). If used on characters who can fuse, fusion will be disabled.
+
+- Max Stat (ie, Stat +4 and the corresponding "stat up as health decreases" effect, like Serious or Indignation)
+- Ultimate warrior 1
+- B1 master
+- Overflowing Ki
+- Extreme Hand to hand
+- Extreme Defense
+- Extreme Blast
+- Complete Ki Control
+
+2) Enhanced Power - grants 1 use of Master Roshi's Training to a team - 2 points. If used on a fusion character, fusion will be disabled.
+
+Of course, the Boss Rush teams have been adjusted to compensate.

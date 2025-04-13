@@ -9,7 +9,7 @@ parent: Rules
 
 The following maps are available for use in the main season. A blank space means only 1 time of day is available.
 
-| Map Name                    | Available forms   | Is destructible | 
+| Map Name                    | Available forms   | Is destructible |
 |:----------------------------|:-------------------------|:----------------|
 | Desert                      | Noon, Evening, Night     | Yes             |
 | Rocky Area                  | Noon, Evening, Night     | Yes             |
@@ -52,15 +52,4 @@ The following maps are only available for special events such as the gauntlet, r
 | World Tournament Stage | Noon, Evening          | No              |
 | Mountain Road          | Noon, Evening          | Yes             |
 | Otherworld Tournament  |                        | No              |
-
-## Tournament of Power only maps
-
-The following maps are only available for the Tournament of Power. Ruined Earth, Dying Namek, and Mounain Road (Evening) were replaced.
-
-
-| Map Name                        | Is destructible | 
-|:--------------------------------|:----------------|
-| Tournament of Power             | Yes             |
-| Tournament of Power (damaged)   | Yes             |
-| Tournament of Power (Destroyed) | No              |
 

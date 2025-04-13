@@ -9,7 +9,7 @@ parent: Rules
 
 The following maps are available for use in the main season. A blank space means only 1 time of day is available.
 
-| Map Name                    | Available Times of Day   | Is destructible | 
+| Map Name                    | Available forms   | Is destructible | 
 |:----------------------------|:-------------------------|:----------------|
 | Desert                      | Noon, Evening, Night     | Yes             |
 | Rocky Area                  | Noon, Evening, Night     | Yes             |
@@ -20,7 +20,7 @@ The following maps are available for use in the main season. A blank space means
 | Dying Namek                 |                          | No              |
 | Kami's Lookout              |                          | No              |
 | Mt. Paozu                   |                          | Yes             |
-| City Ruins                  | Noon, Evening, Night     | Yes             |
+| City Ruins                  | Noon, Evening, Night, Future     | Yes             |
 | The Islands                 |                          | Yes             |
 | King's Castle               |                          | Yes             |
 | Muscle Tower                |                          | Yes             |
@@ -29,8 +29,17 @@ The following maps are available for use in the main season. A blank space means
 | Supreme Kai's world         |                          | No              |
 | Hell                        |                          | No              |
 | Broly's Planet              | Evening, Night (no moon) | No              |
-| Outer Space                 |                          | No              |
+| Frieza's Ship               |                          | No             |
 | Archipelago                 |                          | No              |
+| King Kai's Planet           |                          | No              |
+| World Martial Arts Tournamen |                         | No              |
+| Ice Continent               |                          | Yes             |
+| Capsule Corp Night          |                          | No              |
+| Prison Planet               |                          | No              |
+| Baba's Palace               | Day, Night               | No              |
+| Planet Tuffle               |                          | No              |
+| Tree of Might               |                          | No              |
+| Tournament of Power         | base, Damaged, destroyed | yes             |
 
 
 ## Special event maps

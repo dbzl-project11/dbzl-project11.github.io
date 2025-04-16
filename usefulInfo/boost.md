@@ -83,7 +83,7 @@ The weeks you normally rotate your free agent bench are the following:
     Week 6
     Week 11
 
-- Remove a limiter! (Only usable once in a season) - 10 Zenni
+- Remove a limiter! (Only usable once in a season) - 5 Zenni
     - This boost enables you to remove a "Limiter ring" on one of your players. This is more of a safety feature in case things aren't going right, and you wish for that character to transform once again. Please note, that once you remove a limiter, you may not put another one on a seperate character. Once a Limiter is used, or removed, there is no reversing that decision. So please, use this boost wisely.
 
 - Reuse a blue potara this lets you use the same blue potara on 2 different characters, and is available on any of the legal blue potaras (2 zeni )

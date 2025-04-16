@@ -12,7 +12,7 @@ parent: Main League
 
 ## Schedule at a glance
 
-[//]: # ([![]&#40;./images/schedule.png&#41; ]&#40;./images/schedule.png&#41;)
+[![](./images/schedule.png) ](./images/schedule.png)
 
 If you want to see your team's schedule specifically, check [here](./scheduleByTeam.md).
 

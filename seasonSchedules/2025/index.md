@@ -7,7 +7,7 @@ nav_order: 5
 parent: Main League
 ---
 
-# 2024 Schedule
+# 2025 Schedule
 
 
 ## Schedule at a glance

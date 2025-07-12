@@ -8,16 +8,16 @@ grand_parent: Main League
 ### Schedule
 
 ### Week 3
-|Match          |  Home Team            | Away Team        | Winner           |
-| :-------------| :---------------------| :----------------| :----------------|
-|1| Super GT | Rugrats | |
-|2 (div)| Kaiju | Royals | |
-|3| Resurrected Warriors | Hybrids | |
-|4| Muscle | Derp | |
-|5| Budokai | Cold Kingdom | |
-|6| Earth Defenders | Namek | |
-|7 (div)| Sentai Squad | Buu Saga | |
-|8| Cinema | Androids | |
+| Match   | Home Team            | Away Team    | Winner |
+|:--------|:---------------------|:-------------|:-------|
+| 1       | Super GT             | Rugrats      |        |
+| 2 (div) | Kaiju                | Royals       |        |
+| 3       | Resurrected Warriors | Hybrids      |        |
+| 4       | Muscle               | Derp         |        |
+| 5       | Budokai              | Cold Kingdom |        |
+| 6       | Earth Defenders      | Namek        |        |
+| 7 (div) | Sentai Squad         | Buu Saga     |        |
+| 8       | Cinema               | Androids     |        |
 (div) indicates a divisional match
 
 ### Team Builds

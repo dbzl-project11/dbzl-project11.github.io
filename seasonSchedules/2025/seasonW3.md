@@ -19,6 +19,7 @@ grand_parent: Main League
 | 6       | Earth Defenders      | Namek        |        |
 | 7 (div) | Sentai Squad         | Buu Saga     |        |
 | 8       | Cinema               | Androids     |        |
+
 (div) indicates a divisional match
 
 ### Team Builds

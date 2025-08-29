@@ -31,7 +31,7 @@ grand_parent: Main League
 
 ### Sweeper Game Builds
 
-<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vTuwZD_OS6sil4ReRd8h7Povblku6XIHP8RHTFNabgc0tH8K-dZ_IxyUGzByfcobkq03IrkE_JQm0kw/pub?embedded=true"></iframe>
+<iframe width=600 height=1000 scrolling="yes" src="https://docs.google.com/document/d/e/2PACX-1vT3WK68mx_iqy66R1A6VY13dqeEM3BMB6t6maqloL3pN-l0OgSZVDW3XLNc0YI6NGViyqVH18OxiGhE/pub?embedded=true"></iframe>
 
 #### Otherworld Olympics
 

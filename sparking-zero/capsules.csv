@@ -1,0 +1,456 @@
+﻿Item Names,ID,Type,Exclusive To
+Master Roshi Training,00_0_0000,Capsule,
+Rush Attack Boost 1,00_0_0005,Capsule,
+Rush Attack Boost 2,00_0_0006,Capsule,
+Rush Attack Boost 3,00_0_0007,Capsule,
+Smash Attack Boost 1,00_0_0011,Capsule,
+Smash Attack Boost 2,00_0_0012,Capsule,
+Smash Attack Boost 3,00_0_0013,Capsule,
+Ki Blast Attack Boost 1,00_0_0014,Capsule,
+Ki Blast Attack Boost 2,00_0_0015,Capsule,
+Ki Blast Attack Boost 3,00_0_0016,Capsule,
+Power Unleashed,00_0_0023,Capsule,
+Finishing Blow,00_0_0024,Capsule,
+Blast Burst,00_0_0026,Capsule,
+Ultimate Burst,00_0_0027,Capsule,
+Blast Attack Boost 1,00_0_0028,Capsule,
+Blast Attack Boost 2,00_0_0029,Capsule,
+Blast Attack Boost 3,00_0_0030,Capsule,
+Super Warrior,00_0_0031,Capsule,
+Draconic Aura,00_0_0032,Capsule,
+Light Body,00_0_0033,Capsule,
+Dragon Rush,00_0_0035,Capsule,
+The Secret to Counters,00_0_0037,Capsule,
+Fury!,00_0_0038,Capsule,
+Active Heart,00_0_0039,Capsule,
+Indomitable Fighting Spirit,00_0_0040,Capsule,
+Warming Up,00_0_0041,Capsule,
+Ready for Anything,00_0_0042,Capsule,
+Z-Burst Dash Master,00_0_0046,Capsule,
+The Secret to Z-Burst Dashes,00_0_0047,Capsule,
+Proof of Friendship,00_0_0048,Capsule,
+Dragon Spirit,00_0_0055,Capsule,
+Emperors Aura,00_0_0061,Capsule,
+Super Transformation,00_0_0066,Capsule,
+Fighting Spirit,00_0_0068,Capsule,
+Divine Blow,00_0_0070,Capsule,
+Rising Fighting Spirit,00_0_0072,Capsule,
+Power of Namek,00_0_0074,Capsule,
+Power of Earth,00_0_0075,Capsule,
+Power of the Universe,00_0_0076,Capsule,
+Perfect Guard,00_0_0082,Capsule,
+Crisis Avoided,00_0_0092,Capsule,
+Battle Control,00_0_0093,Capsule,
+Latent Power Unleashed 1,00_0_0094,Capsule,
+Latent Power Unleashed 2,00_0_0095,Capsule,
+Big Impact,00_0_0096,Capsule,
+Mind Breaker,00_0_0098,Capsule,
+Waters Blessing,00_0_0099,Capsule,
+Miracle Master,00_0_0101,Capsule,
+Latent Power!,00_0_0102,Capsule,
+Guard Master,00_0_0103,Capsule,
+Mirage,00_0_0104,Capsule,
+Dendes Healing Ability,00_0_0111,Capsule,
+Rising Tension,00_0_0112,Capsule,
+Melee Charge 1,00_0_0113,Capsule,
+Melee Charge 2,00_0_0114,Capsule,
+Melee Charge 3,00_0_0115,Capsule,
+Energy Saver 1,00_0_0116,Capsule,
+Energy Saver 2,00_0_0117,Capsule,
+Energy Saver 3,00_0_0118,Capsule,
+Ki Blast Charge 1,00_0_0119,Capsule,
+Ki Blast Charge 2,00_0_0120,Capsule,
+Ki Blast Charge 3,00_0_0121,Capsule,
+Dragon Assault,00_0_0122,Capsule,
+Power Body,00_0_0123,Capsule,
+Speed Up,00_0_0124,Capsule,
+Exquisite Skill,00_0_0125,Capsule,
+Ki Control,00_0_0126,Capsule,
+The Secret to Dragon Dashes,00_0_0127,Capsule,
+Savior,00_0_0128,Capsule,
+Combo Master,00_0_0129,Capsule,
+Combo King,00_0_0130,Capsule,
+God Ki,00_0_0131,Capsule,
+Sparking! Plus,00_0_0132,Capsule,
+Style of the Strong,00_0_0133,Capsule,
+Dragon Break,00_0_0134,Capsule,
+Dragon Crash,00_0_0135,Capsule,
+Vanishing Break,00_0_0136,Capsule,
+Vanishing Crash,00_0_0137,Capsule,
+Secret Measures,00_0_0138,Capsule,
+Rush Ki Blast 1,00_0_0139,Capsule,
+Rush Ki Blast Count Boost,00_0_0140,Capsule,
+Master Strike,00_0_0141,Capsule,
+Master Ki Blast,00_0_0142,Capsule,
+Master Throw,00_0_0143,Capsule,
+High-Speed Movement Master,00_0_0144,Capsule,
+The Secret to High-Speed Movements,00_0_0145,Capsule,
+Super Movement Master,00_0_0146,Capsule,
+The Secret to Super Movements,00_0_0147,Capsule,
+Performer,00_0_0148,Capsule,
+Dragon Heart,00_0_0149,Capsule,
+King Kai Training,00_0_0150,Capsule,
+God of Destruction Training,00_0_0151,Capsule,
+Almighty Boost,00_0_0152,Capsule,
+Super Sparking!,00_0_0153,Capsule,
+Victory Power,00_0_0154,Capsule,
+Brolys Ring,00_0_0155,Capsule,
+Balanced Strategy: Melee,00_7_0000,AI,
+Balanced Strategy: Ki Blasts,00_7_0001,AI,
+Balanced Strategy: Sparking!,00_7_0002,AI,
+Attack Strategy: Combos,00_7_0003,AI,
+Defense Strategy: Counters,00_7_0004,AI,
+Balanced Strategy: Restrain,00_7_0005,AI,
+Defense Strategy: Blasts,00_7_0006,AI,
+Attack Strategy: Ultimate Blasts,00_7_0007,AI,
+Defense Strategy: Gauge Recovery,00_7_0008,AI,
+Balanced Strategy: Blasts,00_7_0009,AI,
+Defense Strategy: Skills,00_7_0010,AI,
+Attack Strategy: Barrage,00_7_0011,AI,
+Balanced Strategy: Movement,00_7_0012,AI,
+Attack Strategy: Evasion,00_7_0013,AI,
+Attack Strategy: Vanishing,00_7_0014,AI,
+Outfit 1,00_1_0000_0000_00,Costume,Goku (Z - Early)
+Outfit 1,00_1_0000_0000_10,Costume,Goku (Z - Mid)
+Outfit 1,00_1_0000_0000_11,Costume,Goku (Z - Mid) Super Saiyan
+Outfit 1,00_1_0000_0000_20,Costume,Goku (Z - End)
+Outfit 1,00_1_0000_0000_21,Costume,Goku (Z - End) Super Saiyan
+Outfit 1,00_1_0000_0000_22,Costume,Goku (Z - End) Super Saiyan 2
+Outfit 1,00_1_0000_0000_23,Costume,Goku (Z - End) Super Saiyan 3
+Outfit 1,00_1_0000_0000_33,Costume,Goku (GT) Super Saiyan 4
+Outfit 1,00_1_0000_0000_40,Costume,Goku (Super)
+Outfit 1,00_1_0000_0000_41,Costume,Goku (Super) Super Saiyan
+Outfit 1,00_1_0000_0000_43,Costume,Goku (Super) Super Saiyan God Super Saiyan
+Outfit 1,00_1_0000_0000_50,Costume,Goku (Super) Ultra Instinct -Sign-
+Outfit 1,00_1_0000_0000_51,Costume,Goku (Super) Ultra Instinct
+Outfit 1,00_1_0000_0001_42,Costume,Goku (Super) Super Saiyan God
+Outfit 1,00_1_0000_0002_30,Costume,Goku (GT)
+Outfit 1,00_1_0000_0002_31,Costume,Goku (GT) Super Saiyan
+Outfit 1,00_1_0000_0002_32,Costume,Goku (GT) Super Saiyan 3
+Outfit 1,00_1_0000_0002_50,Costume,Goku (Teen)
+Outfit 1,00_1_0000_0020_00,Costume,Vegeta (Z - Scouter)
+Outfit 1,00_1_0000_0020_10,Costume,Vegeta (Z - Early)
+Outfit 1,00_1_0000_0020_11,Costume,Vegeta (Z - Early) Super Saiyan
+Outfit 1,00_1_0000_0020_30,Costume,Vegeta (Z - End)
+Outfit 1,00_1_0000_0020_31,Costume,Vegeta (Z - End) Super Saiyan
+Outfit 1,00_1_0000_0020_32,Costume,Vegeta (Z - End) Super Saiyan 2
+Outfit 1,00_1_0000_0020_40,Costume,Majin Vegeta
+Outfit 1,00_1_0000_0020_50,Costume,Vegeta (GT) Super Saiyan 4
+Outfit 1,00_1_0000_0020_60,Costume,Vegeta (Super)
+Outfit 1,00_1_0000_0020_61,Costume,Vegeta (Super) Super Saiyan
+Outfit 1,00_1_0000_0020_63,Costume,Vegeta (Super) Super Saiyan God Super Saiyan
+Outfit 1,00_1_0000_0021_20,Costume,Super Vegeta
+Outfit 1,00_1_0000_0022_62,Costume,Vegeta (Super) Super Saiyan God
+Outfit 1,00_1_0000_0023_00,Costume,Great Ape Vegeta
+Outfit 1,00_1_0000_0030_00,Costume,Gohan (Kid)
+Outfit 1,00_1_0000_0031_00,Costume,Gohan (Teen)
+Outfit 1,00_1_0000_0031_01,Costume,Gohan (Teen) Super Saiyan
+Outfit 1,00_1_0000_0031_02,Costume,Gohan (Teen) Super Saiyan 2
+Outfit 1,00_1_0000_0032_00,Costume,Gohan (Adult)
+Outfit 1,00_1_0000_0032_01,Costume,Gohan (Adult) Super Saiyan
+Outfit 1,00_1_0000_0032_02,Costume,Gohan (Adult) Super Saiyan 2
+Outfit 1,00_1_0000_0032_10,Costume,Great Saiyaman
+Outfit 1,00_1_0000_0032_20,Costume,Ultimate Gohan
+Outfit 1,00_1_0000_0032_30,Costume,Gohan (Future)
+Outfit 1,00_1_0000_0032_31,Costume,Gohan (Future) Super Saiyan
+Outfit 1,00_1_0000_0040_00,Costume,Piccolo
+Outfit 1,00_1_0000_0040_10,Costume,Piccolo (Fused with Kami)
+Outfit 1,00_1_0000_0040_20,Costume,Nail
+Outfit 1,00_1_0000_0050_00,Costume,Krillin
+Outfit 1,00_1_0000_0060_00,Costume,Yamcha
+Outfit 1,00_1_0000_0070_00,Costume,Tien
+Outfit 1,00_1_0000_0080_00,Costume,Trunks (Sword)
+Outfit 1,00_1_0000_0080_01,Costume,Trunks (Sword) Super Saiyan
+Outfit 1,00_1_0000_0080_10,Costume,Trunks (Melee)
+Outfit 1,00_1_0000_0080_11,Costume,Trunks (Melee) Super Saiyan
+Outfit 1,00_1_0000_0080_30,Costume,Future Trunks
+Outfit 1,00_1_0000_0080_31,Costume,Future Trunks Super Saiyan
+Outfit 1,00_1_0000_0081_20,Costume,Super Trunks
+Outfit 1,00_1_0000_0082_00,Costume,Trunks (Kid)
+Outfit 1,00_1_0000_0082_01,Costume,Trunks (Kid) Super Saiyan
+Outfit 1,00_1_0000_0090_00,Costume,Goten
+Outfit 1,00_1_0000_0090_01,Costume,Goten Super Saiyan
+Outfit 1,00_1_0000_0100_00,Costume,Vegito
+Outfit 1,00_1_0000_0100_01,Costume,Super Vegito
+Outfit 1,00_1_0000_0100_02,Costume,Vegito Super Saiyan God Super Saiyan
+Outfit 1,00_1_0000_0110_00,Costume,Gogeta (Super)
+Outfit 1,00_1_0000_0110_01,Costume,Gogeta (Super) Super Saiyan
+Outfit 1,00_1_0000_0110_02,Costume,Gogeta (GT) Super Saiyan 4
+Outfit 1,00_1_0000_0110_03,Costume,Gogeta (Super) Super Saiyan God Super Saiyan
+Outfit 1,00_1_0000_0110_04,Costume,Super Gogeta (Z)
+Outfit 1,00_1_0000_0120_00,Costume,Gotenks
+Outfit 1,00_1_0000_0120_01,Costume,Gotenks Super Saiyan
+Outfit 1,00_1_0000_0120_02,Costume,Gotenks Super Saiyan 3
+Outfit 1,00_1_0000_0130_00,Costume,Videl
+Outfit 1,00_1_0000_0140_00,Costume,Master Roshi
+Outfit 1,00_1_0000_0141_00,Costume,Master Roshi Full Power
+Outfit 1,00_1_0000_0150_00,Costume,Frieza (Z) 1st Form
+Outfit 1,00_1_0000_0151_00,Costume,Frieza (Z) 2nd Form
+Outfit 1,00_1_0000_0152_00,Costume,Frieza (Z) 3rd Form
+Outfit 1,00_1_0000_0153_00,Costume,Frieza (Z) 4th Form
+Outfit 1,00_1_0000_0153_10,Costume,Mecha Frieza
+Outfit 1,00_1_0000_0153_20,Costume,Frieza (Super)
+Outfit 1,00_1_0000_0154_00,Costume,Frieza (Z) Full Power
+Outfit 1,00_1_0000_0155_00,Costume,Golden Frieza
+Outfit 1,00_1_0000_0160_00,Costume,Cell 1st Form
+Outfit 1,00_1_0000_0161_00,Costume,Cell 2nd Form
+Outfit 1,00_1_0000_0162_00,Costume,Cell Perfect Form
+Outfit 1,00_1_0000_0162_01,Costume,Perfect Cell
+Outfit 1,00_1_0000_0163_00,Costume,Cell Jr.
+Outfit 1,00_1_0000_0170_00,Costume,Majin Buu
+Outfit 1,00_1_0000_0171_00,Costume,Majin Buu (Evil)
+Outfit 1,00_1_0000_0172_00,Costume,Super Buu
+Outfit 1,00_1_0000_0172_10,Costume,Super Buu (Gotenks Absorbed)
+Outfit 1,00_1_0000_0172_11,Costume,Super Buu (Gohan Absorbed)
+Outfit 1,00_1_0000_0173_00,Costume,Kid Buu
+Outfit 1,00_1_0000_0180_00,Costume,Mr. Satan
+Outfit 1,00_1_0000_0190_00,Costume,Chiaotzu
+Outfit 1,00_1_0000_0210_00,Costume,Yajirobe
+Outfit 1,00_1_0000_0230_00,Costume,Pan (GT)
+Outfit 1,00_1_0000_0240_00,Costume,Uub (GT)
+Outfit 1,00_1_0000_0240_01,Costume,Majuub (GT)
+Outfit 1,00_1_0000_0310_00,Costume,Bardock
+Outfit 1,00_1_0000_0320_00,Costume,Raditz
+Outfit 1,00_1_0000_0330_00,Costume,Saibaman
+Outfit 1,00_1_0000_0340_00,Costume,Nappa
+Outfit 1,00_1_0000_0350_00,Costume,Zarbon
+Outfit 1,00_1_0000_0351_00,Costume,Super Zarbon
+Outfit 1,00_1_0000_0360_00,Costume,Dodoria
+Outfit 1,00_1_0000_0370_00,Costume,Cui
+Outfit 1,00_1_0000_0380_00,Costume,Captain Ginyu
+Outfit 1,00_1_0000_0390_00,Costume,Recoome
+Outfit 1,00_1_0000_0400_00,Costume,Burter
+Outfit 1,00_1_0000_0410_00,Costume,Jeice
+Outfit 1,00_1_0000_0420_00,Costume,Guldo
+Outfit 1,00_1_0000_0430_00,Costume,King Cold
+Outfit 1,00_1_0000_0440_00,Costume,Android 16
+Outfit 1,00_1_0000_0450_00,Costume,Android 17 (Z)
+Outfit 1,00_1_0000_0450_10,Costume,Android 17 (Super)
+Outfit 1,00_1_0000_0460_00,Costume,Android 18
+Outfit 1,00_1_0000_0470_00,Costume,Android 19
+Outfit 1,00_1_0000_0480_00,Costume,Dr. Gero
+Outfit 1,00_1_0000_0490_00,Costume,Babidi
+Outfit 1,00_1_0000_0500_00,Costume,Dabura
+Outfit 1,00_1_0000_0540_00,Costume,Frieza Force Soldier
+Outfit 1,00_1_0000_0550_00,Costume,Broly (Z)
+Outfit 1,00_1_0000_0551_00,Costume,Broly (Z) Super Saiyan
+Outfit 1,00_1_0000_0552_00,Costume,Broly (Z) Legendary Super Saiyan
+Outfit 1,00_1_0000_0553_00,Costume,Broly (Super)
+Outfit 1,00_1_0000_0554_00,Costume,Broly (Super) Super Saiyan
+Outfit 1,00_1_0000_0555_00,Costume,Broly (Super) Super Saiyan (Full Power)
+Outfit 1,00_1_0000_0561_00,Costume,Super Garlic Jr.
+Outfit 1,00_1_0000_0570_00,Costume,Dr. Wheelo
+Outfit 1,00_1_0000_0580_00,Costume,Turles
+Outfit 1,00_1_0000_0590_00,Costume,Lord Slug
+Outfit 1,00_1_0000_0591_00,Costume,Lord Slug Giant Form
+Outfit 1,00_1_0000_0600_00,Costume,Cooler
+Outfit 1,00_1_0000_0600_10,Costume,Metal Cooler
+Outfit 1,00_1_0000_0601_00,Costume,Cooler Final Form
+Outfit 1,00_1_0000_0620_00,Costume,Android 13
+Outfit 1,00_1_0000_0621_00,Costume,Fusion Android 13
+Outfit 1,00_1_0000_0630_00,Costume,Bojack
+Outfit 1,00_1_0000_0631_00,Costume,Full-Power Bojack
+Outfit 1,00_1_0000_0650_00,Costume,Janemba
+Outfit 1,00_1_0000_0651_00,Costume,Super Janemba
+Outfit 1,00_1_0000_0660_00,Costume,Tapion
+Outfit 1,00_1_0000_0670_00,Costume,Hirudegarn
+Outfit 1,00_1_0000_0680_00,Costume,Baby Vegeta (GT)
+Outfit 1,00_1_0000_0680_01,Costume,Super Baby 1 (GT)
+Outfit 1,00_1_0000_0680_02,Costume,Super Baby 2 (GT)
+Outfit 1,00_1_0000_0681_00,Costume,Great Ape Baby (GT)
+Outfit 1,00_1_0000_0700_00,Costume,Syn Shenron (GT)
+Outfit 1,00_1_0000_0700_01,Costume,Omega Shenron (GT)
+Outfit 1,00_1_0000_0760_00,Costume,Spopovich
+Outfit 1,00_1_0000_0780_00,Costume,Beerus
+Outfit 1,00_1_0000_0790_00,Costume,Whis
+Outfit 1,00_1_0000_0800_00,Costume,Goku Black
+Outfit 1,00_1_0000_0800_01,Costume,Goku Black Super Saiyan RosÃ©
+Outfit 1,00_1_0000_0810_00,Costume,Zamasu
+Outfit 1,00_1_0000_0810_01,Costume,Fused Zamasu
+Outfit 1,00_1_0000_0811_00,Costume,Fused Zamasu Half-Corrupted
+Outfit 1,00_1_0000_0870_00,Costume,Hit
+Outfit 1,00_1_0000_0881_00,Costume,Frost
+Outfit 1,00_1_0000_0890_00,Costume,Cabba
+Outfit 1,00_1_0000_0890_01,Costume,Cabba Super Saiyan
+Outfit 1,00_1_0000_0890_02,Costume,Cabba Super Saiyan 2
+Outfit 1,00_1_0000_0900_00,Costume,Caulifla
+Outfit 1,00_1_0000_0900_02,Costume,Caulifla Super Saiyan 2
+Outfit 1,00_1_0000_0910_00,Costume,Kale
+Outfit 1,00_1_0000_0911_00,Costume,Kale Super Saiyan (Berserk)
+Outfit 1,00_1_0000_0912_00,Costume,Kale Super Saiyan
+Outfit 1,00_1_0000_0920_00,Costume,Kefla
+Outfit 1,00_1_0000_0920_01,Costume,Kefla Super Saiyan
+Outfit 1,00_1_0000_0920_02,Costume,Kefla Super Saiyan 2
+Outfit 1,00_1_0000_0930_00,Costume,Jiren
+Outfit 1,00_1_0000_0931_00,Costume,Jiren Full Power
+Outfit 1,00_1_0000_0940_00,Costume,Toppo
+Outfit 1,00_1_0000_0941_00,Costume,Toppo God of Destruction
+Outfit 1,00_1_0000_0950_00,Costume,Dyspo
+Outfit 1,00_1_0000_1190_00,Costume,Bergamo
+Outfit 1,00_1_0000_1321_00,Costume,Ribrianne
+Outfit 1,00_1_0000_1331_00,Costume,Kakunsa
+Outfit 1,00_1_0000_1341_00,Costume,Roasie
+Outfit 1,00_1_0000_1500_00,Costume,Anilaza
+Outfit 1,00_1_0000_2230_00,Costume,Gohan Black
+Outfit 1,00_1_0000_2230_01,Costume,Ultimate Gohan Black
+Outfit 1,00_1_0000_3050_00,Costume,Goku (Mini)
+Outfit 2,00_1_0001_0000_00,Costume,Goku (Z - Early)
+Outfit 2,00_1_0001_0000_10,Costume,Goku (Z - Mid)
+Outfit 2,00_1_0001_0000_11,Costume,Goku (Z - Mid) Super Saiyan
+Outfit 2,00_1_0001_0000_20,Costume,Goku (Z - End)
+Outfit 2,00_1_0001_0000_21,Costume,Goku (Z - End) Super Saiyan
+Outfit 2,00_1_0001_0000_22,Costume,Goku (Z - End) Super Saiyan 2
+Outfit 2,00_1_0001_0000_23,Costume,Goku (Z - End) Super Saiyan 3
+Outfit 2,00_1_0001_0000_40,Costume,Goku (Super)
+Outfit 2,00_1_0001_0000_41,Costume,Goku (Super) Super Saiyan
+Outfit 2,00_1_0001_0000_43,Costume,Goku (Super) Super Saiyan God Super Saiyan
+Outfit 2,00_1_0001_0000_50,Costume,Goku (Super) Ultra Instinct -Sign-
+Outfit 2,00_1_0001_0000_51,Costume,Goku (Super) Ultra Instinct
+Outfit 2,00_1_0001_0001_42,Costume,Goku (Super) Super Saiyan God
+Outfit 2,00_1_0001_0020_00,Costume,Vegeta (Z - Scouter)
+Outfit 2,00_1_0001_0020_10,Costume,Vegeta (Z - Early)
+Outfit 2,00_1_0001_0020_11,Costume,Vegeta (Z - Early) Super Saiyan
+Outfit 2,00_1_0001_0020_30,Costume,Vegeta (Z - End)
+Outfit 2,00_1_0001_0020_31,Costume,Vegeta (Z - End) Super Saiyan
+Outfit 2,00_1_0001_0020_32,Costume,Vegeta (Z - End) Super Saiyan 2
+Outfit 2,00_1_0001_0020_40,Costume,Majin Vegeta
+Outfit 2,00_1_0001_0020_60,Costume,Vegeta (Super)
+Outfit 2,00_1_0001_0020_61,Costume,Vegeta (Super) Super Saiyan
+Outfit 2,00_1_0001_0020_63,Costume,Vegeta (Super) Super Saiyan God Super Saiyan
+Outfit 2,00_1_0001_0021_20,Costume,Super Vegeta
+Outfit 2,00_1_0001_0022_62,Costume,Vegeta (Super) Super Saiyan God
+Outfit 2,00_1_0001_0023_00,Costume,Great Ape Vegeta
+Outfit 2,00_1_0001_0030_00,Costume,Gohan (Kid)
+Outfit 2,00_1_0001_0031_00,Costume,Gohan (Teen)
+Outfit 2,00_1_0001_0031_01,Costume,Gohan (Teen) Super Saiyan
+Outfit 2,00_1_0001_0031_02,Costume,Gohan (Teen) Super Saiyan 2
+Outfit 2,00_1_0001_0032_00,Costume,Gohan (Adult)
+Outfit 2,00_1_0001_0032_01,Costume,Gohan (Adult) Super Saiyan
+Outfit 2,00_1_0001_0032_02,Costume,Gohan (Adult) Super Saiyan 2
+Outfit 2,00_1_0001_0032_10,Costume,Great Saiyaman
+Outfit 2,00_1_0001_0040_00,Costume,Piccolo
+Outfit 2,00_1_0001_0040_10,Costume,Piccolo (Fused with Kami)
+Outfit 2,00_1_0001_0050_00,Costume,Krillin
+Outfit 2,00_1_0001_0060_00,Costume,Yamcha
+Outfit 2,00_1_0001_0070_00,Costume,Tien
+Outfit 2,00_1_0001_0080_30,Costume,Future Trunks
+Outfit 2,00_1_0001_0080_31,Costume,Future Trunks Super Saiyan
+Outfit 2,00_1_0001_0140_00,Costume,Master Roshi
+Outfit 2,00_1_0001_0141_00,Costume,Master Roshi Full Power
+Outfit 2,00_1_0001_0310_00,Costume,Bardock
+Outfit 2,00_1_0001_0340_00,Costume,Nappa
+Outfit 2,00_1_0001_0390_00,Costume,Recoome
+Outfit 2,00_1_0001_0450_10,Costume,Android 17 (Super)
+Outfit 2,00_1_0001_0460_00,Costume,Android 18
+Outfit 2,00_1_0001_0540_00,Costume,Frieza Force Soldier
+For Events??,00_1_0001_0790_00,Costume,Whis
+Outfit 1,00_1_0001_0810_01,Costume,Fused Zamasu
+Outfit 1,00_1_0001_0811_00,Costume,Fused Zamasu Half-Corrupted
+Outfit 2,00_1_0001_0931_00,Costume,Jiren Full Power
+Outfit 2,00_1_0001_0940_00,Costume,Toppo
+Outfit 3,00_1_0002_0000_00,Costume,Goku (Z - Early)
+Outfit 3,00_1_0002_0000_10,Costume,Goku (Z - Mid)
+Outfit 3,00_1_0002_0000_11,Costume,Goku (Z - Mid) Super Saiyan
+Outfit 3,00_1_0002_0000_20,Costume,Goku (Z - End)
+Outfit 3,00_1_0002_0000_21,Costume,Goku (Z - End) Super Saiyan
+Outfit 3,00_1_0002_0000_22,Costume,Goku (Z - End) Super Saiyan 2
+Outfit 3,00_1_0002_0000_23,Costume,Goku (Z - End) Super Saiyan 3
+Outfit 3,00_1_0002_0000_40,Costume,Goku (Super)
+Outfit 3,00_1_0002_0000_41,Costume,Goku (Super) Super Saiyan
+Outfit 3,00_1_0002_0000_43,Costume,Goku (Super) Super Saiyan God Super Saiyan
+Outfit 3,00_1_0002_0000_50,Costume,Goku (Super) Ultra Instinct -Sign-
+Outfit 3,00_1_0002_0000_51,Costume,Goku (Super) Ultra Instinct
+Outfit 3,00_1_0002_0001_42,Costume,Goku (Super) Super Saiyan God
+Outfit 3,00_1_0002_0020_00,Costume,Vegeta (Z - Scouter)
+Outfit 3,00_1_0002_0020_10,Costume,Vegeta (Z - Early)
+Outfit 3,00_1_0002_0020_11,Costume,Vegeta (Z - Early) Super Saiyan
+Outfit 3,00_1_0002_0020_30,Costume,Vegeta (Z - End)
+Outfit 3,00_1_0002_0020_31,Costume,Vegeta (Z - End) Super Saiyan
+Outfit 3,00_1_0002_0020_32,Costume,Vegeta (Z - End) Super Saiyan 2
+Outfit 3,00_1_0002_0020_60,Costume,Vegeta (Super)
+Outfit 3,00_1_0002_0020_61,Costume,Vegeta (Super) Super Saiyan
+Outfit 3,00_1_0002_0020_63,Costume,Vegeta (Super) Super Saiyan God Super Saiyan
+Outfit 3,00_1_0002_0021_20,Costume,Super Vegeta
+Outfit 3,00_1_0002_0022_62,Costume,Vegeta (Super) Super Saiyan God
+Outfit 3,00_1_0002_0023_00,Costume,Great Ape Vegeta
+Outfit 3,00_1_0002_0030_00,Costume,Gohan (Kid)
+Outfit 3,00_1_0002_0031_00,Costume,Gohan (Teen)
+Outfit 3,00_1_0002_0031_01,Costume,Gohan (Teen) Super Saiyan
+Outfit 3,00_1_0002_0031_02,Costume,Gohan (Teen) Super Saiyan 2
+Outfit 3,00_1_0002_0032_00,Costume,Gohan (Adult)
+Outfit 3,00_1_0002_0032_01,Costume,Gohan (Adult) Super Saiyan
+Outfit 3,00_1_0002_0032_02,Costume,Gohan (Adult) Super Saiyan 2
+Outfit 2,00_1_0002_0032_20,Costume,Ultimate Gohan
+Outfit 3,00_1_0002_0040_00,Costume,Piccolo
+Outfit 3,00_1_0002_0040_10,Costume,Piccolo (Fused with Kami)
+Outfit 3,00_1_0002_0050_00,Costume,Krillin
+Outfit 3,00_1_0002_0060_00,Costume,Yamcha
+Outfit 3,00_1_0002_0070_00,Costume,Tien
+Outfit 2,00_1_0002_0080_00,Costume,Trunks (Sword)
+Outfit 2,00_1_0002_0080_01,Costume,Trunks (Sword) Super Saiyan
+Outfit 3,00_1_0002_0080_10,Costume,Trunks (Melee)
+Outfit 3,00_1_0002_0080_11,Costume,Trunks (Melee) Super Saiyan
+Outfit 2,00_1_0002_0130_00,Costume,Videl
+Outfit 3,00_1_0002_0460_00,Costume,Android 18
+Outfit 4,00_1_0003_0000_10,Costume,Goku (Z - Mid)
+Outfit 4,00_1_0003_0000_11,Costume,Goku (Z - Mid) Super Saiyan
+Outfit 4,00_1_0003_0000_40,Costume,Goku (Super)
+Outfit 4,00_1_0003_0000_41,Costume,Goku (Super) Super Saiyan
+Outfit 4,00_1_0003_0000_43,Costume,Goku (Super) Super Saiyan God Super Saiyan
+Outfit 4,00_1_0003_0001_42,Costume,Goku (Super) Super Saiyan God
+Outfit 4,00_1_0003_0020_00,Costume,Vegeta (Z - Scouter)
+Outfit 4,00_1_0003_0020_10,Costume,Vegeta (Z - Early)
+Outfit 4,00_1_0003_0020_11,Costume,Vegeta (Z - Early) Super Saiyan
+Outfit 4,00_1_0003_0020_60,Costume,Vegeta (Super)
+Outfit 4,00_1_0003_0020_61,Costume,Vegeta (Super) Super Saiyan
+Outfit 4,00_1_0003_0020_63,Costume,Vegeta (Super) Super Saiyan God Super Saiyan
+Outfit 4,00_1_0003_0021_20,Costume,Super Vegeta
+Outfit 4,00_1_0003_0022_62,Costume,Vegeta (Super) Super Saiyan God
+Outfit 4,00_1_0003_0023_00,Costume,Great Ape Vegeta
+Outfit 4,00_1_0003_0031_00,Costume,Gohan (Teen)
+Outfit 4,00_1_0003_0031_01,Costume,Gohan (Teen) Super Saiyan
+Outfit 4,00_1_0003_0031_02,Costume,Gohan (Teen) Super Saiyan 2
+Outfit 4,00_1_0003_0032_00,Costume,Gohan (Adult)
+Outfit 4,00_1_0003_0032_01,Costume,Gohan (Adult) Super Saiyan
+Outfit 4,00_1_0003_0032_02,Costume,Gohan (Adult) Super Saiyan 2
+Outfit 3,00_1_0003_0140_00,Costume,Master Roshi
+Outfit 3,00_1_0003_0141_00,Costume,Master Roshi Full Power
+Outfit 4,00_1_0003_0460_00,Costume,Android 18
+Outfit 4,00_1_0004_0000_00,Costume,Goku (Z - Early)
+Outfit 5,00_1_0004_0000_40,Costume,Goku (Super)
+Outfit 5,00_1_0004_0000_41,Costume,Goku (Super) Super Saiyan
+Outfit 5,00_1_0004_0000_43,Costume,Goku (Super) Super Saiyan God Super Saiyan
+Outfit 4,00_1_0004_0000_50,Costume,Goku (Super) Ultra Instinct -Sign-
+Outfit 4,00_1_0004_0000_51,Costume,Goku (Super) Ultra Instinct
+Outfit 5,00_1_0004_0001_42,Costume,Goku (Super) Super Saiyan God
+Outfit 5,00_1_0004_0020_10,Costume,Vegeta (Z - Early)
+Outfit 5,00_1_0004_0020_11,Costume,Vegeta (Z - Early) Super Saiyan
+Outfit 5,00_1_0004_0032_00,Costume,Gohan (Adult)
+Outfit 5,00_1_0004_0032_01,Costume,Gohan (Adult) Super Saiyan
+Outfit 5,00_1_0004_0032_02,Costume,Gohan (Adult) Super Saiyan 2
+Outfit 4,00_1_0004_0050_00,Costume,Krillin
+Outfit 4,00_1_0004_0070_00,Costume,Tien
+Outfit 4,00_1_0004_0140_00,Costume,Master Roshi
+Outfit 4,00_1_0004_0141_00,Costume,Master Roshi Full Power
+Outfit 5,00_1_0004_0460_00,Costume,Android 18
+Outfit 5,00_1_0005_0000_00,Costume,Goku (Z - Early)
+Outfit 5,00_1_0005_0000_10,Costume,Goku (Z - Mid)
+Outfit 5,00_1_0005_0000_11,Costume,Goku (Z - Mid) Super Saiyan
+Outfit 6,00_1_0005_0000_40,Costume,Goku (Super)
+Outfit 6,00_1_0005_0000_41,Costume,Goku (Super) Super Saiyan
+Outfit 6,00_1_0005_0000_43,Costume,Goku (Super) Super Saiyan God Super Saiyan
+Outfit 5,00_1_0005_0000_50,Costume,Goku (Super) Ultra Instinct -Sign-
+Outfit 5,00_1_0005_0000_51,Costume,Goku (Super) Ultra Instinct
+Outfit 6,00_1_0005_0001_42,Costume,Goku (Super) Super Saiyan God
+Outfit 6,00_1_0005_0020_10,Costume,Vegeta (Z - Early)
+Outfit 6,00_1_0005_0020_11,Costume,Vegeta (Z - Early) Super Saiyan
+Outfit 7,00_1_0006_0000_40,Costume,Goku (Super)
+Outfit 7,00_1_0006_0000_41,Costume,Goku (Super) Super Saiyan
+Outfit 7,00_1_0006_0000_43,Costume,Goku (Super) Super Saiyan God Super Saiyan
+Outfit 6,00_1_0006_0000_50,Costume,Goku (Super) Ultra Instinct -Sign-
+Outfit 6,00_1_0006_0000_51,Costume,Goku (Super) Ultra Instinct
+Outfit 7,00_1_0006_0001_42,Costume,Goku (Super) Super Saiyan God
+Outfit 8,00_1_0007_0000_40,Costume,Goku (Super)
+Outfit 8,00_1_0007_0000_41,Costume,Goku (Super) Super Saiyan
+Outfit 8,00_1_0007_0000_43,Costume,Goku (Super) Super Saiyan God Super Saiyan
+Outfit 8,00_1_0007_0001_42,Costume,Goku (Super) Super Saiyan God

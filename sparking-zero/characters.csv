@@ -1,0 +1,210 @@
+CHARACTER NAME,ID
+Goku (Z - Early),0000_00
+Goku (Z - Mid),0000_10
+Goku (Z - Mid) Super Saiyan,0000_11
+Goku (Z - End),0000_20
+Goku (Z - End) Super Saiyan,0000_21
+Goku (Z - End) Super Saiyan 2,0000_22
+Goku (Z - End) Super Saiyan 3,0000_23
+Goku (GT) Super Saiyan 4,0000_33
+Goku (Super),0000_40
+Goku (Super) Super Saiyan,0000_41
+Goku (Super) Super Saiyan God Super Saiyan,0000_43
+Goku (Super) Ultra Instinct -Sign-,0000_50
+Goku (Super) Ultra Instinct,0000_51
+Goku (Super) Super Saiyan God,0001_42
+Goku (GT),0002_30
+Goku (GT) Super Saiyan,0002_31
+Goku (GT) Super Saiyan 3,0002_32
+Goku (Teen),0002_50
+Vegeta (Z - Scouter),0020_00
+Vegeta (Z - Early),0020_10
+Vegeta (Z - Early) Super Saiyan,0020_11
+Vegeta (Z - End),0020_30
+Vegeta (Z - End) Super Saiyan,0020_31
+Vegeta (Z - End) Super Saiyan 2,0020_32
+Majin Vegeta,0020_40
+Vegeta (GT) Super Saiyan 4,0020_50
+Vegeta (Super),0020_60
+Vegeta (Super) Super Saiyan,0020_61
+Vegeta (Super) Super Saiyan God Super Saiyan,0020_63
+Super Vegeta,0021_20
+Vegeta (Super) Super Saiyan God,0022_62
+Great Ape Vegeta,0023_00
+Gohan (Kid),0030_00
+Gohan (Teen),0031_00
+Gohan (Teen) Super Saiyan,0031_01
+Gohan (Teen) Super Saiyan 2,0031_02
+Gohan (Adult),0032_00
+Gohan (Adult) Super Saiyan,0032_01
+Gohan (Adult) Super Saiyan 2,0032_02
+Great Saiyaman,0032_10
+Ultimate Gohan,0032_20
+Gohan (Future),0032_30
+Gohan (Future) Super Saiyan,0032_31
+Piccolo,0040_00
+Piccolo (Fused with Kami),0040_10
+Nail,0040_20
+Krillin,0050_00
+Yamcha,0060_00
+Tien,0070_00
+Trunks (Sword),0080_00
+Trunks (Sword) Super Saiyan,0080_01
+Trunks (Melee),0080_10
+Trunks (Melee) Super Saiyan,0080_11
+Future Trunks,0080_30
+Future Trunks Super Saiyan,0080_31
+Super Trunks,0081_20
+Trunks (Kid),0082_00
+Trunks (Kid) Super Saiyan,0082_01
+Goten,0090_00
+Goten Super Saiyan,0090_01
+Vegito,0100_00
+Super Vegito,0100_01
+Vegito Super Saiyan God Super Saiyan,0100_02
+Gogeta (Super),0110_00
+Gogeta (Super) Super Saiyan,0110_01
+Gogeta (GT) Super Saiyan 4,0110_02
+Gogeta (Super) Super Saiyan God Super Saiyan,0110_03
+Super Gogeta (Z),0110_04
+Gotenks,0120_00
+Gotenks Super Saiyan,0120_01
+Gotenks Super Saiyan 3,0120_02
+Videl,0130_00
+Master Roshi,0140_00
+Master Roshi Full Power,0141_00
+Frieza (Z) 1st Form,0150_00
+Frieza (Z) 2nd Form,0151_00
+Frieza (Z) 3rd Form,0152_00
+Frieza (Z) 4th Form,0153_00
+Mecha Frieza,0153_10
+Frieza (Super),0153_20
+Frieza (Z) Full Power,0154_00
+Golden Frieza,0155_00
+Cell 1st Form,0160_00
+Cell 2nd Form,0161_00
+Cell Perfect Form,0162_00
+Perfect Cell,0162_01
+Cell Jr.,0163_00
+Majin Buu,0170_00
+Majin Buu (Evil),0171_00
+Super Buu,0172_00
+Super Buu (Gotenks Absorbed),0172_10
+Super Buu (Gohan Absorbed),0172_11
+Kid Buu,0173_00
+Mr. Satan,0180_00
+Chiaotzu,0190_00
+Yajirobe,0210_00
+Pan (GT),0230_00
+Uub (GT),0240_00
+Majuub (GT),0240_01
+Bardock,0310_00
+Raditz,0320_00
+Saibaman,0330_00
+Nappa,0340_00
+Zarbon,0350_00
+Super Zarbon,0351_00
+Dodoria,0360_00
+Cui,0370_00
+Captain Ginyu,0380_00
+Recoome,0390_00
+Burter,0400_00
+Jeice,0410_00
+Guldo,0420_00
+King Cold,0430_00
+Android 16,0440_00
+Android 17 (Z),0450_00
+Android 17 (Super),0450_10
+Android 18,0460_00
+Android 19,0470_00
+Dr. Gero,0480_00
+Babidi,0490_00
+Dabura,0500_00
+Frieza Force Soldier,0540_00
+Broly (Z),0550_00
+Broly (Z) Super Saiyan,0551_00
+Broly (Z) Legendary Super Saiyan,0552_00
+Broly (Super),0553_00
+Broly (Super) Super Saiyan,0554_00
+Broly (Super) Super Saiyan (Full Power),0555_00
+Super Garlic Jr.,0561_00
+Dr. Wheelo,0570_00
+Turles,0580_00
+Lord Slug,0590_00
+Lord Slug Giant Form,0591_00
+Cooler,0600_00
+Metal Cooler,0600_10
+Cooler Final Form,0601_00
+Android 13,0620_00
+Fusion Android 13,0621_00
+Bojack,0630_00
+Full-Power Bojack,0631_00
+Janemba,0650_00
+Super Janemba,0651_00
+Tapion,0660_00
+Hirudegarn,0670_00
+Baby Vegeta (GT),0680_00
+Super Baby 1 (GT),0680_01
+Super Baby 2 (GT),0680_02
+Great Ape Baby (GT),0681_00
+Syn Shenron (GT),0700_00
+Omega Shenron (GT),0700_01
+Spopovich,0760_00
+Beerus,0780_00
+Whis,0790_00
+Goku Black,0800_00
+Goku Black Super Saiyan Rosé,0800_01
+Zamasu,0810_00
+Fused Zamasu,0810_01
+Fused Zamasu Half-Corrupted,0811_00
+Hit,0870_00
+Frost,0881_00
+Cabba,0890_00
+Cabba Super Saiyan,0890_01
+Cabba Super Saiyan 2,0890_02
+Caulifla,0900_00
+Caulifla Super Saiyan 2,0900_02
+Kale,0910_00
+Kale Super Saiyan (Berserk),0911_00
+Kale Super Saiyan,0912_00
+Kefla,0920_00
+Kefla Super Saiyan,0920_01
+Kefla Super Saiyan 2,0920_02
+Jiren,0930_00
+Jiren Full Power,0931_00
+Toppo,0940_00
+Toppo God of Destruction,0941_00
+Dyspo,0950_00
+Bergamo,1190_00
+Ribrianne,1321_00
+Kakunsa,1331_00
+Roasie,1341_00
+Anilaza,1500_00
+Gohan (Super Hero),3000_00
+Gohan (Super Hero) Super Saiyan,3000_01
+Ultimate Gohan (Super Hero),3000_02
+Gohan Beast,3000_03
+Piccolo (Super Hero),3010_00
+Piccolo (Super Hero) Power Awakening,3010_01
+Orange Piccolo,3011_00
+Orange Piccolo Giant Form,3012_00
+Gamma 1,3020_00
+Gamma 2,3030_00
+Cell Max,3040_00
+Goku (Mini),3050_00
+Goku (Mini) Super Saiyan,3050_01
+Goku (Mini) Super Saiyan 4,3050_14
+Vegeta (Mini),3060_00
+Vegeta (Mini) Super Saiyan,3060_01
+Vegeta (Mini) Super Saiyan 2,3060_02
+Vegeta (Mini) Super Saiyan 3,3060_03
+Glorio,3070_00
+Third Eye Goham,3080_00
+Vegeta (Daima) Super Saiyan 3,3100_03
+Majin Kuu,3110_00
+Panzy,3130_00
+Goku (Daima) Super Saiyan 4,3120_04
+Panzy,3130_00
+Majin Duu,3140_00
+Giant Gomah,3150_00
+Shallot,3160_00

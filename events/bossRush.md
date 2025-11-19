@@ -21,22 +21,42 @@ that character based limitations still apply (so if Android 13 was Muscle's repr
 from Eternal Life; additionally, if your team has multiple characters with healing transformations, only the respective 
 characters are banned from Eternal Life, not the team as a whole).
 
-One thing to note - the extra build rules the Gauntlet provided, such as 8 point builds or event specific potaras will 
-not be carried over. 
+For 2025, these are the special rules :
 
-However, there are 2 special rules for this event :
+1) Characters will have 8 point builds
+2) Teams are allowed 1 free Draconic Aura
+3) Teams are allowed to use up to 4 red potaras or boost store potaras (each potara may only be used 1 time; so no spamming Strength Enhancement on everyone) at the following costs :
 
-1) Redline - gives access to 1 of the following potaras for 4 points on a team (limit of 1 of any of these per team). If used on characters who can fuse, fusion will be disabled.
+- 3 points
+  - 18's Kiss
+  - Satisfying blow
 
-- Max Stat (ie, Stat +4 and the corresponding "stat up as health decreases" effect, like Serious or Indignation)
-- Ultimate warrior 1
-- B1 master
-- Overflowing Ki
-- Extreme Hand to hand
-- Extreme Defense
-- Extreme Blast
-- Complete Ki Control
+- 4 points
+   - Babidi's Tattoo 
+   - Starter Kit 
+   - Satisfying Blow 
+   - Ultra Ego 
+   - B2 Bonanza 
+   - B1 Bargain 
+   - Extreme Hand to Hand 
+   - Extreme Defense 
+   - Extreme Blast
 
-2) Enhanced Power - grants 1 use of Master Roshi's Training to a team - 2 points. If used on a fusion character, fusion will be disabled.
+- 5 points 
+  - Complete Ki Control 
+  - Overflowing Ki 
+  - King Kai's Training 
+  - Medical Machine 
+  - Max Defense 
+  - Max Ki 
+  - B1 Master
 
-Of course, the Boss Rush teams have been adjusted to compensate.
+- 6 Points 
+  - Old Kai's Dance 
+  - Super Regeneration Cells 
+  - Max Attack 
+  - Max Super
+
+- 7 points 
+  - Strength Enhancement 
+  - Guru's Headpat
